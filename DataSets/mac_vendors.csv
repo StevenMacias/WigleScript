@@ -1,0 +1,4440 @@
+,mac,vendor
+0,00:30:44:1c:35:2f,"CradlePoint, Inc"
+1,14:d6:4d:4b:00:46,D-Link International
+2,00:78:88:99:65:7b,"Cisco Systems, Inc"
+3,30:74:96:6c:29:b4,"Huawei Tech Co, Ltd"
+5,00:c8:8b:60:87:64,"Cisco Systems, Inc"
+6,00:c8:8b:60:87:64,"Cisco Systems, Inc"
+7,18:33:9d:8d:bf:e1,"Cisco Systems, Inc"
+9,18:33:9d:8d:bf:e0,"Cisco Systems, Inc"
+10,18:33:9d:8d:bf:ef,"Cisco Systems, Inc"
+11,00:c8:8b:45:a0:3b,"Cisco Systems, Inc"
+12,18:33:9d:8d:bf:ee,"Cisco Systems, Inc"
+13,00:c8:8b:45:a0:34,"Cisco Systems, Inc"
+14,18:33:9d:8d:a3:f0,"Cisco Systems, Inc"
+15,00:c8:8b:45:a0:34,"Cisco Systems, Inc"
+16,18:60:24:08:c1:f3,Hewlett Packard
+17,a4:56:30:a2:72:94,"Cisco Systems, Inc"
+19,00:78:88:aa:b2:fb,"Cisco Systems, Inc"
+20,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+21,00:78:88:aa:b2:fb,"Cisco Systems, Inc"
+23,18:33:9d:8d:a3:f1,"Cisco Systems, Inc"
+25,54:78:1a:21:cb:f4,"Cisco Systems, Inc"
+26,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+27,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+29,18:60:24:08:c1:f3,Hewlett Packard
+30,54:78:1a:21:cb:fb,"Cisco Systems, Inc"
+32,a4:56:30:a2:72:9b,"Cisco Systems, Inc"
+34,00:3a:9b:06:f1:37,"Cisco Systems, Inc"
+35,00:3a:9b:06:f1:30,"Cisco Systems, Inc"
+36,3c:ce:73:08:17:2b,"Cisco Systems, Inc"
+38,30:89:d3:c1:a3:30,Hongkong Ucloudlink Network Tech Ltd
+39,50:0f:80:ed:71:0b,"Cisco Systems, Inc"
+41,00:2a:10:13:7d:ab,"Cisco Systems, Inc"
+43,48:f8:b3:f1:e2:20,"Cisco-Linksys, Llc"
+44,d0:17:c2:3d:5a:90,ASUSTek Computer Inc
+45,00:1f:1f:67:4e:64,Edimax Tech Co Ltd
+47,00:0f:61:b1:70:61,Hewlett Packard
+48,10:62:eb:95:4b:70,D-Link International
+50,48:f8:b3:f1:e2:20,"Cisco-Linksys, Llc"
+51,50:0f:80:7d:b2:64,"Cisco Systems, Inc"
+53,40:ce:24:dc:cd:6b,"Cisco Systems, Inc"
+54,40:ce:24:dc:cd:64,"Cisco Systems, Inc"
+55,00:2a:10:c8:15:c4,"Cisco Systems, Inc"
+56,20:c9:d0:ae:24:0e,"Apple, Inc"
+57,00:2a:10:f3:5b:14,"Cisco Systems, Inc"
+58,50:0f:80:75:4e:a4,"Cisco Systems, Inc"
+59,50:0f:80:7d:b2:64,"Cisco Systems, Inc"
+60,50:0f:80:75:4e:ab,"Cisco Systems, Inc"
+61,50:0f:80:7d:b2:44,"Cisco Systems, Inc"
+62,00:2a:10:13:7d:a4,"Cisco Systems, Inc"
+63,c4:3d:c7:71:17:3a,Netgear
+64,00:2a:10:1a:fe:f4,"Cisco Systems, Inc"
+65,84:3d:c6:06:05:f0,"Cisco Systems, Inc"
+67,00:2a:10:f3:95:c0,"Cisco Systems, Inc"
+69,00:2a:10:f3:95:cf,"Cisco Systems, Inc"
+70,84:3d:c6:06:05:f0,"Cisco Systems, Inc"
+71,00:19:5b:dd:67:58,D-Link Corp
+72,94:f6:65:0e:a6:08,Ruckus Wireless
+73,6c:b0:ce:f7:be:62,Netgear
+74,94:f6:65:0e:a6:0c,Ruckus Wireless
+75,94:f6:65:0e:a6:08,Ruckus Wireless
+76,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+78,00:c8:8b:45:bf:6b,"Cisco Systems, Inc"
+79,00:c8:8b:11:76:2b,"Cisco Systems, Inc"
+81,78:8a:20:d4:61:01,Ubiquiti Networks Inc
+83,00:c8:8b:11:76:24,"Cisco Systems, Inc"
+84,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+86,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+87,00:c8:8b:11:76:e4,"Cisco Systems, Inc"
+88,00:c8:8b:11:76:eb,"Cisco Systems, Inc"
+89,34:a8:4e:ba:92:4b,"Cisco Systems, Inc"
+90,34:a8:4e:ba:92:44,"Cisco Systems, Inc"
+92,34:a8:4e:ba:9a:bb,"Cisco Systems, Inc"
+93,34:a8:4e:ba:9a:bb,"Cisco Systems, Inc"
+96,64:d9:89:99:4a:eb,"Cisco Systems, Inc"
+99,cc:16:7e:dd:c3:bb,"Cisco Systems, Inc"
+101,00:2a:10:f4:a8:1b,"Cisco Systems, Inc"
+102,64:ae:0c:87:c4:cb,"Cisco Systems, Inc"
+103,64:ae:0c:87:c4:c4,"Cisco Systems, Inc"
+105,a4:56:30:5c:40:64,"Cisco Systems, Inc"
+106,00:27:0d:48:d7:3b,"Cisco Systems, Inc"
+107,00:27:0d:48:d7:34,"Cisco Systems, Inc"
+108,00:27:0d:48:d7:34,"Cisco Systems, Inc"
+110,00:21:f7:fd:f5:aa,Hpn Supply Chain
+112,00:21:f7:fd:f7:3d,Hpn Supply Chain
+113,00:1d:aa:c1:65:88,DrayTek Corp
+114,00:27:0d:48:d7:34,"Cisco Systems, Inc"
+115,00:21:f7:fd:f7:3c,Hpn Supply Chain
+116,00:21:f7:fd:f7:3e,Hpn Supply Chain
+117,00:0b:28:0d:09:5b,Quatech Inc
+118,a4:56:30:5c:40:6b,"Cisco Systems, Inc"
+121,00:21:f7:fd:f7:3d,Hpn Supply Chain
+122,00:1d:aa:c1:65:88,DrayTek Corp
+123,00:21:f7:fd:f7:3e,Hpn Supply Chain
+124,00:21:f7:fd:f5:a8,Hpn Supply Chain
+125,00:21:f7:fd:f5:aa,Hpn Supply Chain
+126,00:21:f7:fd:f5:a9,Hpn Supply Chain
+127,00:23:33:2c:79:a0,"Cisco Systems, Inc"
+128,00:21:f7:fd:f7:3c,Hpn Supply Chain
+130,00:1d:aa:c1:65:88,DrayTek Corp
+131,80:30:dc:2a:b6:28,Texas Instruments
+132,00:0b:28:0d:09:5b,Quatech Inc
+133,b0:5b:67:29:47:9b,"Huawei Tech Co, Ltd"
+134,00:25:42:82:c5:ee,Pittasoft
+135,88:f0:31:f2:7b:60,"Cisco Systems, Inc"
+136,00:1f:fe:1c:5b:d0,Hpn Supply Chain
+137,88:f0:31:ee:dd:72,"Cisco Systems, Inc"
+139,00:21:f7:11:87:8a,Hpn Supply Chain
+140,00:21:f7:11:87:88,Hpn Supply Chain
+141,00:21:f7:11:87:89,Hpn Supply Chain
+142,00:1f:fe:1c:5b:d0,Hpn Supply Chain
+143,00:1f:fe:1c:5b:d2,Hpn Supply Chain
+144,00:25:42:82:c5:ee,Pittasoft
+145,00:21:f7:fd:f7:3d,Hpn Supply Chain
+146,00:21:f7:fc:8e:42,Hpn Supply Chain
+147,00:1f:fe:1c:5b:d1,Hpn Supply Chain
+148,88:f0:31:ee:dd:70,"Cisco Systems, Inc"
+149,00:21:f7:fc:8e:41,Hpn Supply Chain
+150,00:21:f7:fd:f7:3c,Hpn Supply Chain
+151,00:21:f7:fd:f7:3e,Hpn Supply Chain
+152,00:21:f7:fd:f5:a9,Hpn Supply Chain
+153,00:21:f7:fd:f5:aa,Hpn Supply Chain
+154,00:0b:28:0d:09:5b,Quatech Inc
+156,00:21:f7:11:87:89,Hpn Supply Chain
+157,00:21:f7:11:87:8a,Hpn Supply Chain
+158,00:21:f7:11:87:88,Hpn Supply Chain
+159,00:1d:aa:c1:65:88,DrayTek Corp
+160,80:2a:a8:ca:7e:cc,Ubiquiti Networks Inc
+161,00:1f:fe:1c:5b:d1,Hpn Supply Chain
+162,00:1f:fe:1c:5b:d2,Hpn Supply Chain
+163,00:14:c2:a3:09:9e,Hewlett Packard
+164,00:21:f7:fd:f7:3e,Hpn Supply Chain
+165,88:f0:31:ee:dd:70,"Cisco Systems, Inc"
+166,00:14:c2:a3:09:9c,Hewlett Packard
+168,d8:50:e6:dd:44:54,ASUSTek Computer Inc
+169,88:f0:31:f2:7b:10,"Cisco Systems, Inc"
+170,88:f0:31:ee:dd:7f,"Cisco Systems, Inc"
+171,00:21:f7:11:44:5c,Hpn Supply Chain
+172,88:f0:31:ee:dd:7d,"Cisco Systems, Inc"
+173,80:2a:a8:ca:7e:cc,Ubiquiti Networks Inc
+175,c0:25:5c:97:ee:ab,"Cisco Systems, Inc"
+176,00:21:f7:11:87:8a,Hpn Supply Chain
+177,00:1f:fe:1c:5b:d0,Hpn Supply Chain
+178,00:21:f7:fc:8e:40,Hpn Supply Chain
+180,00:21:f7:11:87:89,Hpn Supply Chain
+181,00:21:f7:11:87:88,Hpn Supply Chain
+182,88:f0:31:ee:dd:70,"Cisco Systems, Inc"
+183,00:21:f7:11:87:88,Hpn Supply Chain
+184,54:64:d9:8b:9d:86,Sagemcom Broadband Sas
+185,3c:47:11:b0:d4:79,"Huawei Tech Co, Ltd"
+186,00:22:6b:48:7d:55,"Cisco-Linksys, Llc"
+187,3c:47:11:b0:d4:78,"Huawei Tech Co, Ltd"
+188,3c:47:11:b0:d4:7a,"Huawei Tech Co, Ltd"
+189,3c:47:11:b0:d4:77,"Huawei Tech Co, Ltd"
+190,d8:50:e6:dd:44:54,ASUSTek Computer Inc
+191,3c:46:d8:d7:fa:a3,"TP-Link Tech Co, Ltd"
+193,3c:46:d8:d7:fa:a1,"TP-Link Tech Co, Ltd"
+194,3c:46:d8:d7:fa:a3,"TP-Link Tech Co, Ltd"
+195,3c:46:d8:d7:fa:a1,"TP-Link Tech Co, Ltd"
+197,f0:9f:c2:da:fa:22,Ubiquiti Networks Inc
+198,f0:9f:c2:03:25:98,Ubiquiti Networks Inc
+199,b0:39:56:8b:f7:6c,Netgear
+201,b0:39:56:8b:f7:6c,Netgear
+202,84:3d:c6:06:22:3b,"Cisco Systems, Inc"
+203,84:3d:c6:06:22:34,"Cisco Systems, Inc"
+205,84:3d:c6:06:22:3b,"Cisco Systems, Inc"
+206,00:2a:10:f4:a8:9b,"Cisco Systems, Inc"
+207,64:ae:0c:87:c4:cb,"Cisco Systems, Inc"
+208,00:2a:10:f4:a8:94,"Cisco Systems, Inc"
+209,64:ae:0c:87:c4:c4,"Cisco Systems, Inc"
+210,84:3d:c6:06:22:3b,"Cisco Systems, Inc"
+211,00:c8:8b:60:87:44,"Cisco Systems, Inc"
+212,00:2a:10:f4:a8:14,"Cisco Systems, Inc"
+213,cc:16:7e:dd:c3:bb,"Cisco Systems, Inc"
+214,2c:4d:54:b5:69:e4,ASUSTek Computer Inc
+215,84:3d:c6:06:22:3b,"Cisco Systems, Inc"
+216,84:3d:c6:06:22:34,"Cisco Systems, Inc"
+217,cc:16:7e:dd:c3:bb,"Cisco Systems, Inc"
+218,00:c8:8b:60:87:4b,"Cisco Systems, Inc"
+220,cc:16:7e:dd:c3:b4,"Cisco Systems, Inc"
+221,00:2a:10:f4:a8:1b,"Cisco Systems, Inc"
+223,00:c8:8b:60:87:44,"Cisco Systems, Inc"
+224,00:2a:10:f4:a8:14,"Cisco Systems, Inc"
+225,64:ae:0c:87:c4:cb,"Cisco Systems, Inc"
+226,cc:16:7e:dd:c3:b4,"Cisco Systems, Inc"
+227,84:3d:c6:06:1d:54,"Cisco Systems, Inc"
+228,00:2a:10:f4:a8:1b,"Cisco Systems, Inc"
+229,84:3d:c6:06:1d:5b,"Cisco Systems, Inc"
+231,00:2a:10:f4:a8:14,"Cisco Systems, Inc"
+232,34:a8:4e:f9:a9:4b,"Cisco Systems, Inc"
+234,00:2a:10:f4:a8:1b,"Cisco Systems, Inc"
+235,44:e4:d9:bc:a2:0b,"Cisco Systems, Inc"
+236,00:2a:10:f4:a8:1b,"Cisco Systems, Inc"
+237,64:ae:0c:87:c4:cb,"Cisco Systems, Inc"
+238,64:ae:0c:87:c4:c4,"Cisco Systems, Inc"
+239,44:e4:d9:bc:a2:04,"Cisco Systems, Inc"
+241,2c:4d:54:b5:69:e0,ASUSTek Computer Inc
+242,44:e4:d9:bc:a2:0b,"Cisco Systems, Inc"
+244,64:ae:0c:87:c4:cb,"Cisco Systems, Inc"
+246,00:21:f7:11:87:88,Hpn Supply Chain
+248,84:3d:c6:06:13:44,"Cisco Systems, Inc"
+249,84:3d:c6:06:13:4b,"Cisco Systems, Inc"
+250,00:2a:10:f3:aa:6b,"Cisco Systems, Inc"
+251,00:2a:10:f3:ad:c4,"Cisco Systems, Inc"
+253,00:2a:10:f3:ad:cb,"Cisco Systems, Inc"
+254,00:2a:10:f3:aa:64,"Cisco Systems, Inc"
+255,00:2a:10:f3:ad:c4,"Cisco Systems, Inc"
+256,54:a2:74:57:a5:0b,"Cisco Systems, Inc"
+257,30:e1:71:49:75:3f,Hewlett Packard
+258,54:a2:74:57:a5:04,"Cisco Systems, Inc"
+259,00:2a:10:f3:aa:6b,"Cisco Systems, Inc"
+260,00:2a:10:f4:a9:0b,"Cisco Systems, Inc"
+261,84:3d:c6:09:fd:c4,"Cisco Systems, Inc"
+262,00:2a:10:f3:aa:64,"Cisco Systems, Inc"
+263,00:2a:10:f4:a9:04,"Cisco Systems, Inc"
+265,00:2a:10:f4:aa:04,"Cisco Systems, Inc"
+266,00:2a:10:f4:aa:0b,"Cisco Systems, Inc"
+267,cc:16:7e:dd:c7:24,"Cisco Systems, Inc"
+268,00:2a:10:f4:aa:04,"Cisco Systems, Inc"
+269,00:2a:10:f4:c1:4b,"Cisco Systems, Inc"
+270,cc:16:7e:dd:c7:2b,"Cisco Systems, Inc"
+271,64:d9:89:98:0b:74,"Cisco Systems, Inc"
+272,00:2a:10:f3:ab:54,"Cisco Systems, Inc"
+273,00:2a:10:f3:ab:5b,"Cisco Systems, Inc"
+274,00:2a:10:f3:ab:54,"Cisco Systems, Inc"
+275,00:2a:10:20:c6:44,"Cisco Systems, Inc"
+276,cc:16:7e:dd:c7:24,"Cisco Systems, Inc"
+277,00:2a:10:f3:ab:5b,"Cisco Systems, Inc"
+278,00:2a:10:f3:ab:54,"Cisco Systems, Inc"
+279,00:2a:10:f3:ab:5b,"Cisco Systems, Inc"
+280,64:d9:89:98:0b:7b,"Cisco Systems, Inc"
+281,00:2a:10:20:c6:bb,"Cisco Systems, Inc"
+283,00:2a:10:f3:ad:44,"Cisco Systems, Inc"
+284,00:2a:10:20:c6:b4,"Cisco Systems, Inc"
+285,d0:57:4c:56:3c:9b,"Cisco Systems, Inc"
+286,00:2a:10:f3:ad:4b,"Cisco Systems, Inc"
+287,d4:d7:48:45:fa:44,"Cisco Systems, Inc"
+288,00:2a:10:f3:ad:44,"Cisco Systems, Inc"
+290,00:2a:10:20:c6:44,"Cisco Systems, Inc"
+291,00:2a:10:20:c4:04,"Cisco Systems, Inc"
+292,d8:24:bd:d4:33:94,"Cisco Systems, Inc"
+293,ec:8e:b5:cb:ae:a9,Hewlett Packard
+294,00:2a:10:20:c4:0b,"Cisco Systems, Inc"
+295,d4:d7:48:45:fa:4b,"Cisco Systems, Inc"
+296,d0:57:4c:56:3c:94,"Cisco Systems, Inc"
+297,00:a0:57:16:83:28,Lancom Systems GmbH
+298,00:2a:10:f3:ad:4b,"Cisco Systems, Inc"
+299,00:2a:10:f3:ad:44,"Cisco Systems, Inc"
+302,d4:d7:48:45:fa:4b,"Cisco Systems, Inc"
+305,00:2a:10:f3:9e:74,"Cisco Systems, Inc"
+306,00:a0:57:16:82:c0,Lancom Systems GmbH
+307,00:a0:57:16:81:b6,Lancom Systems GmbH
+308,00:a0:57:16:82:c0,Lancom Systems GmbH
+309,00:2a:10:20:c5:54,"Cisco Systems, Inc"
+310,d0:57:4c:56:3c:94,"Cisco Systems, Inc"
+311,00:a0:57:16:81:c5,Lancom Systems GmbH
+312,00:2a:10:f3:ad:44,"Cisco Systems, Inc"
+313,00:2a:10:f3:9e:7b,"Cisco Systems, Inc"
+314,d0:57:4c:56:3c:9b,"Cisco Systems, Inc"
+315,d4:d7:48:45:fa:4b,"Cisco Systems, Inc"
+316,d8:24:bd:d4:33:94,"Cisco Systems, Inc"
+317,d4:d7:48:45:fa:44,"Cisco Systems, Inc"
+318,d8:24:bd:d4:33:9b,"Cisco Systems, Inc"
+319,bc:30:7d:da:e3:b9,Wistron Neweb Corp
+320,d4:d7:48:45:fa:4b,"Cisco Systems, Inc"
+321,d0:57:4c:56:3c:9b,"Cisco Systems, Inc"
+322,ec:8e:b5:cb:ae:a9,Hewlett Packard
+323,bc:30:7d:da:e3:b9,Wistron Neweb Corp
+324,d0:57:4c:56:3c:94,"Cisco Systems, Inc"
+325,d0:57:4c:56:3c:9b,"Cisco Systems, Inc"
+326,ec:8e:b5:cb:ae:a9,Hewlett Packard
+327,bc:30:7d:da:e3:b9,Wistron Neweb Corp
+329,ec:8e:b5:cb:ae:a9,Hewlett Packard
+331,00:a0:57:16:82:c0,Lancom Systems GmbH
+333,00:2a:10:20:c4:14,"Cisco Systems, Inc"
+335,00:a0:57:16:82:c0,Lancom Systems GmbH
+336,00:a0:57:16:81:c5,Lancom Systems GmbH
+337,a4:56:30:47:0d:54,"Cisco Systems, Inc"
+339,a4:56:30:47:0d:5b,"Cisco Systems, Inc"
+340,a4:56:30:47:0d:54,"Cisco Systems, Inc"
+341,00:a0:57:16:83:28,Lancom Systems GmbH
+342,00:a0:57:16:81:b6,Lancom Systems GmbH
+343,00:a0:57:16:81:c5,Lancom Systems GmbH
+344,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+345,54:78:1a:aa:8c:eb,"Cisco Systems, Inc"
+346,54:78:1a:aa:8c:e4,"Cisco Systems, Inc"
+347,94:f6:65:0e:a6:08,Ruckus Wireless
+348,54:78:1a:aa:8c:e4,"Cisco Systems, Inc"
+349,00:a0:57:16:82:c0,Lancom Systems GmbH
+351,94:f6:65:0e:a6:0c,Ruckus Wireless
+352,00:2a:10:20:c5:eb,"Cisco Systems, Inc"
+353,00:a0:57:16:81:b6,Lancom Systems GmbH
+354,00:a0:57:16:81:b6,Lancom Systems GmbH
+355,00:20:a6:5b:98:e4,Proxim Wireless
+356,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+357,dc:9f:db:1c:c2:73,Ubiquiti Networks Inc
+358,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+359,00:2a:10:13:6e:a4,"Cisco Systems, Inc"
+360,00:2a:10:20:c4:1b,"Cisco Systems, Inc"
+361,00:a0:57:16:83:28,Lancom Systems GmbH
+362,34:a8:4e:ba:92:4b,"Cisco Systems, Inc"
+363,34:a8:4e:ba:99:84,"Cisco Systems, Inc"
+364,54:78:1a:aa:8c:e4,"Cisco Systems, Inc"
+365,00:2a:10:13:6e:ab,"Cisco Systems, Inc"
+367,34:a8:4e:ba:92:4b,"Cisco Systems, Inc"
+368,34:a8:4e:ba:99:8b,"Cisco Systems, Inc"
+369,00:2a:10:13:6f:34,"Cisco Systems, Inc"
+370,00:2a:10:20:c4:14,"Cisco Systems, Inc"
+371,34:a8:4e:ba:92:44,"Cisco Systems, Inc"
+372,00:a0:57:16:81:b6,Lancom Systems GmbH
+373,34:a8:4e:ba:92:74,"Cisco Systems, Inc"
+374,34:a8:4e:ba:92:74,"Cisco Systems, Inc"
+375,34:a8:4e:ba:9a:b4,"Cisco Systems, Inc"
+377,34:a8:4e:ba:92:7b,"Cisco Systems, Inc"
+378,34:a8:4e:ba:9a:bb,"Cisco Systems, Inc"
+379,44:e4:d9:bc:c3:eb,"Cisco Systems, Inc"
+380,c0:62:6b:e5:d5:5b,"Cisco Systems, Inc"
+381,a8:9d:21:da:31:3b,"Cisco Systems, Inc"
+382,c0:62:6b:e5:d5:54,"Cisco Systems, Inc"
+383,64:d9:89:99:4a:eb,"Cisco Systems, Inc"
+384,64:d9:89:99:4a:eb,"Cisco Systems, Inc"
+385,64:d9:89:98:0b:74,"Cisco Systems, Inc"
+388,00:2a:10:11:41:eb,"Cisco Systems, Inc"
+389,84:3d:c6:06:22:1b,"Cisco Systems, Inc"
+390,00:2a:10:11:41:e4,"Cisco Systems, Inc"
+391,84:3d:c6:0a:00:34,"Cisco Systems, Inc"
+392,84:3d:c6:0a:00:3b,"Cisco Systems, Inc"
+393,64:d9:89:99:4a:e4,"Cisco Systems, Inc"
+394,64:d9:89:98:0b:7b,"Cisco Systems, Inc"
+395,64:d9:89:99:4a:eb,"Cisco Systems, Inc"
+396,44:e4:d9:bc:c3:eb,"Cisco Systems, Inc"
+397,c0:62:6b:e5:d5:5b,"Cisco Systems, Inc"
+398,34:a8:4e:ba:99:8b,"Cisco Systems, Inc"
+399,a8:9d:21:da:31:3b,"Cisco Systems, Inc"
+400,c0:62:6b:e5:d5:5b,"Cisco Systems, Inc"
+401,c0:62:6b:e5:d5:54,"Cisco Systems, Inc"
+402,34:a8:4e:ba:99:84,"Cisco Systems, Inc"
+403,44:e4:d9:bc:c3:e4,"Cisco Systems, Inc"
+404,34:a8:4e:ba:92:7b,"Cisco Systems, Inc"
+406,34:a8:4e:ba:92:44,"Cisco Systems, Inc"
+407,94:f6:65:0e:a6:08,Ruckus Wireless
+408,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+409,00:c8:8b:11:76:2b,"Cisco Systems, Inc"
+410,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+411,00:c8:8b:11:76:24,"Cisco Systems, Inc"
+412,94:f6:65:0e:a6:08,Ruckus Wireless
+413,fc:5b:39:68:60:6b,"Cisco Systems, Inc"
+414,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+415,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+417,b0:5b:67:29:47:9b,"Huawei Tech Co, Ltd"
+419,04:18:d6:82:1e:3c,Ubiquiti Networks Inc
+420,00:c8:8b:11:76:eb,"Cisco Systems, Inc"
+421,fc:5b:39:68:60:6b,"Cisco Systems, Inc"
+427,00:a0:57:16:81:b6,Lancom Systems GmbH
+428,00:20:a6:5b:98:e4,Proxim Wireless
+430,dc:9f:db:1c:c2:73,Ubiquiti Networks Inc
+431,00:c8:8b:11:76:e4,"Cisco Systems, Inc"
+432,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+433,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+434,b0:5b:67:29:47:9b,"Huawei Tech Co, Ltd"
+436,00:c8:8b:1c:66:c4,"Cisco Systems, Inc"
+437,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+438,dc:9f:db:1c:c4:91,Ubiquiti Networks Inc
+439,00:c8:8b:11:76:2b,"Cisco Systems, Inc"
+440,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+441,00:20:a6:5b:98:e4,Proxim Wireless
+443,00:2a:10:20:c5:e4,"Cisco Systems, Inc"
+445,00:20:a6:5b:98:e3,Proxim Wireless
+447,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+449,04:18:d6:82:1e:3c,Ubiquiti Networks Inc
+450,e4:aa:5d:14:90:04,"Cisco Systems, Inc"
+451,00:2a:10:f3:9a:fb,"Cisco Systems, Inc"
+452,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+454,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+455,00:20:a6:5b:98:e4,Proxim Wireless
+459,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+460,00:20:a6:5b:98:e3,Proxim Wireless
+462,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+465,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+467,00:2a:10:f3:9a:fb,"Cisco Systems, Inc"
+468,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+470,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+472,b0:5b:67:29:47:9b,"Huawei Tech Co, Ltd"
+473,20:f8:5e:cd:2e:b6,Delta Electronics
+475,00:2a:10:f3:9c:af,"Cisco Systems, Inc"
+476,00:c8:8b:45:c6:94,"Cisco Systems, Inc"
+477,e4:aa:5d:14:90:0b,"Cisco Systems, Inc"
+479,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+481,00:2a:10:f3:9c:a0,"Cisco Systems, Inc"
+483,20:f8:5e:cd:2e:b6,Delta Electronics
+485,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+486,00:c8:8b:45:c6:94,"Cisco Systems, Inc"
+487,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+491,00:10:7f:13:5b:b7,"Crestron Electronics, Inc"
+492,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+493,84:3d:c6:06:01:ff,"Cisco Systems, Inc"
+494,00:c8:8b:45:c6:94,"Cisco Systems, Inc"
+495,00:2a:10:f3:9c:1f,"Cisco Systems, Inc"
+497,00:2a:10:f3:9c:1f,"Cisco Systems, Inc"
+498,00:2a:10:f3:9c:10,"Cisco Systems, Inc"
+499,00:2a:10:f3:9c:af,"Cisco Systems, Inc"
+500,00:c8:8b:1c:66:cb,"Cisco Systems, Inc"
+501,00:2a:10:f3:9b:b0,"Cisco Systems, Inc"
+502,00:2a:10:f3:9c:af,"Cisco Systems, Inc"
+503,00:c8:8b:1c:66:d4,"Cisco Systems, Inc"
+504,84:3d:c6:06:01:f0,"Cisco Systems, Inc"
+505,84:3d:c6:09:ff:80,"Cisco Systems, Inc"
+506,00:2a:10:f3:9b:bf,"Cisco Systems, Inc"
+508,84:3d:c6:06:01:f0,"Cisco Systems, Inc"
+509,00:2a:10:f3:9a:f4,"Cisco Systems, Inc"
+510,00:2a:10:1a:fe:fb,"Cisco Systems, Inc"
+512,d8:eb:97:a7:38:fa,"TRENDnet, Inc"
+514,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+515,00:2a:10:1a:fe:fb,"Cisco Systems, Inc"
+516,00:2a:10:1a:fe:fb,"Cisco Systems, Inc"
+517,50:0f:80:75:62:2b,"Cisco Systems, Inc"
+518,50:0f:80:7d:b2:4b,"Cisco Systems, Inc"
+519,50:0f:80:75:62:2b,"Cisco Systems, Inc"
+520,c0:ff:d4:bd:41:90,Netgear
+521,5c:50:15:1c:8d:7b,"Cisco Systems, Inc"
+522,5c:50:15:1c:8d:74,"Cisco Systems, Inc"
+523,5c:50:15:36:85:eb,"Cisco Systems, Inc"
+524,2c:36:f8:d9:f2:24,"Cisco Systems, Inc"
+525,50:0f:80:fe:f9:6b,"Cisco Systems, Inc"
+526,5c:50:15:1c:8d:7b,"Cisco Systems, Inc"
+527,00:2a:10:13:7d:ab,"Cisco Systems, Inc"
+528,00:2a:10:13:7d:ab,"Cisco Systems, Inc"
+529,00:2a:10:c8:15:cb,"Cisco Systems, Inc"
+530,40:ce:24:dc:cd:64,"Cisco Systems, Inc"
+531,50:0f:80:ed:71:0b,"Cisco Systems, Inc"
+532,50:0f:80:7d:b2:64,"Cisco Systems, Inc"
+533,50:0f:80:7d:b2:44,"Cisco Systems, Inc"
+534,00:2a:10:c8:15:cb,"Cisco Systems, Inc"
+535,50:0f:80:7d:b2:6b,"Cisco Systems, Inc"
+536,50:0f:80:75:4e:ab,"Cisco Systems, Inc"
+537,50:0f:80:75:57:ab,"Cisco Systems, Inc"
+539,00:2a:10:f3:5b:14,"Cisco Systems, Inc"
+540,00:2a:10:13:7d:a4,"Cisco Systems, Inc"
+541,5c:50:15:36:85:e4,"Cisco Systems, Inc"
+542,00:2a:10:f3:9a:f4,"Cisco Systems, Inc"
+543,00:10:7f:13:5b:b7,"Crestron Electronics, Inc"
+546,2c:36:f8:d9:f2:2b,"Cisco Systems, Inc"
+547,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+548,00:2a:10:1a:fe:fb,"Cisco Systems, Inc"
+549,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+550,00:2a:10:1a:fe:fb,"Cisco Systems, Inc"
+551,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+552,00:2a:10:f3:9a:fb,"Cisco Systems, Inc"
+554,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+555,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+563,e4:aa:5d:14:90:0b,"Cisco Systems, Inc"
+564,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+565,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+566,84:3d:c6:5f:2c:94,"Cisco Systems, Inc"
+567,00:2a:10:f3:9c:2b,"Cisco Systems, Inc"
+568,84:3d:c6:5f:2c:9b,"Cisco Systems, Inc"
+569,00:2a:10:20:c5:eb,"Cisco Systems, Inc"
+573,dc:9f:db:1c:c3:f5,Ubiquiti Networks Inc
+575,20:f8:5e:cd:2e:b6,Delta Electronics
+578,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+579,dc:9f:db:1c:c3:f5,Ubiquiti Networks Inc
+580,84:3d:c6:06:05:e4,"Cisco Systems, Inc"
+581,00:2a:10:f3:a0:7b,"Cisco Systems, Inc"
+582,84:3d:c6:44:6b:1b,"Cisco Systems, Inc"
+583,00:2a:10:f3:94:4b,"Cisco Systems, Inc"
+585,84:3d:c6:5f:2c:9b,"Cisco Systems, Inc"
+586,b8:27:eb:4b:48:eb,Raspberry Pi Foundation
+587,00:2a:10:f3:9c:24,"Cisco Systems, Inc"
+589,00:10:7f:13:5b:b7,"Crestron Electronics, Inc"
+590,84:3d:c6:5f:2c:94,"Cisco Systems, Inc"
+591,00:2a:10:f4:a9:84,"Cisco Systems, Inc"
+593,00:2a:10:f3:a0:7b,"Cisco Systems, Inc"
+594,00:2a:10:f4:b0:54,"Cisco Systems, Inc"
+595,00:2a:10:f3:9a:fb,"Cisco Systems, Inc"
+596,00:2a:10:f4:a9:8b,"Cisco Systems, Inc"
+597,dc:9f:db:1c:c3:f5,Ubiquiti Networks Inc
+598,00:2a:10:f3:a0:74,"Cisco Systems, Inc"
+599,00:2a:10:f4:b0:54,"Cisco Systems, Inc"
+601,84:3d:c6:5f:2c:9b,"Cisco Systems, Inc"
+602,00:2a:10:f3:a0:7b,"Cisco Systems, Inc"
+603,84:3d:c6:44:6b:1b,"Cisco Systems, Inc"
+604,00:2a:10:20:c5:eb,"Cisco Systems, Inc"
+605,00:2a:10:f3:94:44,"Cisco Systems, Inc"
+606,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+607,00:2a:10:20:c5:eb,"Cisco Systems, Inc"
+608,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+609,20:f8:5e:c1:01:5b,Delta Electronics
+610,00:2a:10:f3:9c:2b,"Cisco Systems, Inc"
+611,00:2a:10:f4:b0:5b,"Cisco Systems, Inc"
+612,00:2a:10:20:c5:e4,"Cisco Systems, Inc"
+613,00:2a:10:f3:94:44,"Cisco Systems, Inc"
+614,00:2a:10:f4:a9:8b,"Cisco Systems, Inc"
+615,dc:9f:db:1c:c4:91,Ubiquiti Networks Inc
+616,00:2a:10:f3:94:4b,"Cisco Systems, Inc"
+617,00:c8:8b:60:81:9b,"Cisco Systems, Inc"
+619,00:2a:10:f4:b0:54,"Cisco Systems, Inc"
+620,00:2a:10:f3:94:4b,"Cisco Systems, Inc"
+621,00:2a:10:f3:9c:2b,"Cisco Systems, Inc"
+622,00:2a:10:f3:9c:24,"Cisco Systems, Inc"
+624,00:c8:8b:60:81:9b,"Cisco Systems, Inc"
+625,00:2a:10:20:d5:c4,"Cisco Systems, Inc"
+627,00:2a:10:f3:94:44,"Cisco Systems, Inc"
+628,20:f8:5e:c1:01:5b,Delta Electronics
+629,84:3d:c6:44:6b:14,"Cisco Systems, Inc"
+630,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+631,b8:27:eb:4b:48:eb,Raspberry Pi Foundation
+632,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+633,84:3d:c6:06:05:e4,"Cisco Systems, Inc"
+634,00:2a:10:f4:a9:84,"Cisco Systems, Inc"
+636,00:2a:10:20:d5:c4,"Cisco Systems, Inc"
+638,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+639,20:f8:5e:c1:01:5b,Delta Electronics
+640,b8:27:eb:4b:48:eb,Raspberry Pi Foundation
+641,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+644,b8:27:eb:4b:48:eb,Raspberry Pi Foundation
+645,00:c8:8b:60:81:94,"Cisco Systems, Inc"
+646,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+647,00:c8:8b:60:81:9b,"Cisco Systems, Inc"
+648,84:3d:c6:06:05:e4,"Cisco Systems, Inc"
+651,20:f8:5e:c1:01:5b,Delta Electronics
+654,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+655,00:2a:10:f3:9c:24,"Cisco Systems, Inc"
+656,00:2a:10:1b:11:4b,"Cisco Systems, Inc"
+657,84:3d:c6:06:05:e4,"Cisco Systems, Inc"
+659,00:2a:10:13:7e:bb,"Cisco Systems, Inc"
+660,84:3d:c6:06:05:e4,"Cisco Systems, Inc"
+661,00:2a:10:bf:4c:65,"Cisco Systems, Inc"
+664,00:2a:10:bf:4c:65,"Cisco Systems, Inc"
+665,00:2a:10:13:7e:b4,"Cisco Systems, Inc"
+666,00:2a:10:13:7e:bb,"Cisco Systems, Inc"
+668,00:2a:10:bf:4a:35,"Cisco Systems, Inc"
+669,00:2a:10:bf:4a:3f,"Cisco Systems, Inc"
+670,28:6f:7f:3a:2f:25,"Cisco Systems, Inc"
+671,00:2a:10:bf:4c:65,"Cisco Systems, Inc"
+672,00:2a:10:bf:4c:6f,"Cisco Systems, Inc"
+673,28:6f:7f:3a:2f:25,"Cisco Systems, Inc"
+674,28:6f:7f:3a:2f:e5,"Cisco Systems, Inc"
+676,a0:e0:af:87:b0:05,"Cisco Systems, Inc"
+677,28:6f:7f:3a:2f:ef,"Cisco Systems, Inc"
+678,28:6f:7f:78:f0:a5,"Cisco Systems, Inc"
+679,a0:e0:af:87:b0:0f,"Cisco Systems, Inc"
+680,00:2a:10:bf:4c:6f,"Cisco Systems, Inc"
+681,28:6f:7f:3a:2f:25,"Cisco Systems, Inc"
+683,00:2a:10:bf:4a:3f,"Cisco Systems, Inc"
+684,a0:e0:af:87:b0:05,"Cisco Systems, Inc"
+685,28:6f:7f:3a:2f:2f,"Cisco Systems, Inc"
+687,00:2a:10:bf:4c:65,"Cisco Systems, Inc"
+688,28:6f:7f:3a:2f:85,"Cisco Systems, Inc"
+689,28:6f:7f:3a:2f:e5,"Cisco Systems, Inc"
+690,28:6f:7f:78:f0:a5,"Cisco Systems, Inc"
+692,00:2a:10:bf:4a:35,"Cisco Systems, Inc"
+693,a0:e0:af:71:3b:a5,"Cisco Systems, Inc"
+694,28:6f:7f:3a:1c:45,"Cisco Systems, Inc"
+695,28:6f:7f:3a:31:45,"Cisco Systems, Inc"
+696,28:6f:7f:3a:2f:ef,"Cisco Systems, Inc"
+698,28:6f:7f:78:f0:af,"Cisco Systems, Inc"
+699,a0:e0:af:87:b0:0f,"Cisco Systems, Inc"
+700,28:6f:7f:3a:1c:4f,"Cisco Systems, Inc"
+701,28:6f:7f:3a:2f:e5,"Cisco Systems, Inc"
+703,a0:e0:af:87:b0:05,"Cisco Systems, Inc"
+705,a0:e0:af:87:b0:0f,"Cisco Systems, Inc"
+706,a0:e0:af:87:a8:25,"Cisco Systems, Inc"
+707,28:6f:7f:3a:31:45,"Cisco Systems, Inc"
+708,28:6f:7f:3a:31:4f,"Cisco Systems, Inc"
+709,28:6f:7f:3a:2f:e5,"Cisco Systems, Inc"
+711,28:6f:7f:3a:2f:85,"Cisco Systems, Inc"
+712,a0:e0:af:71:3b:a5,"Cisco Systems, Inc"
+713,a0:e0:af:87:a8:2f,"Cisco Systems, Inc"
+715,00:2a:10:bf:4a:35,"Cisco Systems, Inc"
+716,00:2a:10:bf:4a:3f,"Cisco Systems, Inc"
+717,a0:e0:af:87:a8:25,"Cisco Systems, Inc"
+718,28:6f:7f:3a:2f:8f,"Cisco Systems, Inc"
+719,a0:e0:af:a9:30:45,"Cisco Systems, Inc"
+720,bc:67:1c:1f:1c:f4,"Cisco Systems, Inc"
+721,00:c8:8b:13:c0:d4,"Cisco Systems, Inc"
+722,00:e1:6d:a2:ea:eb,"Cisco Systems, Inc"
+724,24:a2:e1:f2:64:70,"Apple, Inc"
+725,24:a2:e1:f2:64:71,"Apple, Inc"
+726,a4:56:30:a2:72:94,"Cisco Systems, Inc"
+727,a4:56:30:a2:72:9b,"Cisco Systems, Inc"
+729,a0:2c:36:51:b4:e0,FN-Link Tech Ltd
+731,00:c8:8b:13:7d:f4,"Cisco Systems, Inc"
+732,00:c8:8b:13:7d:fb,"Cisco Systems, Inc"
+733,00:c8:8b:26:51:64,"Cisco Systems, Inc"
+734,e4:aa:5d:14:d8:15,"Cisco Systems, Inc"
+735,a0:e0:af:71:3b:af,"Cisco Systems, Inc"
+736,e4:aa:5d:19:8c:cb,"Cisco Systems, Inc"
+737,e4:aa:5d:19:8c:c4,"Cisco Systems, Inc"
+738,c0:ee:fb:d5:17:57,OnePlus Tech (Shenzhen) Ltd
+740,00:c8:8b:11:75:c4,"Cisco Systems, Inc"
+741,00:c8:8b:11:75:cb,"Cisco Systems, Inc"
+742,74:44:01:7c:7e:a2,Netgear
+743,00:c8:8b:1b:6f:74,"Cisco Systems, Inc"
+744,a4:56:30:8f:50:a4,"Cisco Systems, Inc"
+745,a4:56:30:8f:50:ab,"Cisco Systems, Inc"
+746,44:e4:d9:85:e5:34,"Cisco Systems, Inc"
+747,44:e4:d9:85:e5:3b,"Cisco Systems, Inc"
+748,00:e1:6d:a2:ea:eb,"Cisco Systems, Inc"
+749,00:c8:8b:13:c0:db,"Cisco Systems, Inc"
+750,a0:2c:36:51:b4:e0,FN-Link Tech Ltd
+751,bc:67:1c:1f:1c:fb,"Cisco Systems, Inc"
+752,24:a2:e1:f2:64:71,"Apple, Inc"
+753,00:c8:8b:13:c0:d4,"Cisco Systems, Inc"
+754,44:e4:d9:85:e5:34,"Cisco Systems, Inc"
+755,24:a2:e1:f2:64:70,"Apple, Inc"
+756,00:c8:8b:45:a0:3b,"Cisco Systems, Inc"
+757,24:a2:e1:f2:64:71,"Apple, Inc"
+758,bc:67:1c:1f:1c:f4,"Cisco Systems, Inc"
+759,00:c8:8b:13:c0:d4,"Cisco Systems, Inc"
+760,54:78:1a:21:cb:fb,"Cisco Systems, Inc"
+761,24:a2:e1:f2:64:70,"Apple, Inc"
+763,00:e1:6d:a2:ea:eb,"Cisco Systems, Inc"
+764,54:78:1a:21:cb:f4,"Cisco Systems, Inc"
+765,a4:56:30:a2:72:94,"Cisco Systems, Inc"
+766,24:a2:e1:f2:64:71,"Apple, Inc"
+767,18:60:24:08:c1:f3,Hewlett Packard
+768,a4:56:30:a2:72:9b,"Cisco Systems, Inc"
+769,bc:67:1c:1f:1c:f4,"Cisco Systems, Inc"
+770,bc:67:1c:1f:1c:fb,"Cisco Systems, Inc"
+771,54:78:1a:21:cb:f4,"Cisco Systems, Inc"
+772,54:78:1a:21:cb:fb,"Cisco Systems, Inc"
+773,00:e1:6d:a2:ea:e4,"Cisco Systems, Inc"
+774,00:c8:8b:13:c0:db,"Cisco Systems, Inc"
+775,a4:56:30:a2:72:9b,"Cisco Systems, Inc"
+777,00:e1:6d:a2:ea:eb,"Cisco Systems, Inc"
+778,24:a2:e1:f2:64:71,"Apple, Inc"
+779,64:ae:0c:90:f3:bb,"Cisco Systems, Inc"
+780,a0:2c:36:51:b4:e0,FN-Link Tech Ltd
+781,a0:2c:36:4a:06:2a,FN-Link Tech Ltd
+782,00:c8:8b:13:c0:d4,"Cisco Systems, Inc"
+783,24:a2:e1:f2:64:70,"Apple, Inc"
+785,00:c8:8b:13:c0:db,"Cisco Systems, Inc"
+786,a4:56:30:a2:72:94,"Cisco Systems, Inc"
+788,00:c8:8b:45:a0:3b,"Cisco Systems, Inc"
+789,18:60:24:08:c1:f3,Hewlett Packard
+790,64:ae:0c:90:f3:b4,"Cisco Systems, Inc"
+791,a0:2c:36:51:f1:42,FN-Link Tech Ltd
+792,58:63:56:ee:fa:28,FN-Link Tech Ltd
+793,00:e1:6d:a2:ea:eb,"Cisco Systems, Inc"
+794,00:c8:8b:45:a0:34,"Cisco Systems, Inc"
+795,54:78:1a:21:cb:fb,"Cisco Systems, Inc"
+796,54:78:1a:21:cb:f4,"Cisco Systems, Inc"
+798,bc:67:1c:1f:1c:f4,"Cisco Systems, Inc"
+799,24:a2:e1:f2:64:70,"Apple, Inc"
+800,a4:56:30:8f:50:a4,"Cisco Systems, Inc"
+802,a4:56:30:8f:50:ab,"Cisco Systems, Inc"
+803,44:e4:d9:85:e5:3b,"Cisco Systems, Inc"
+804,a4:56:30:8f:50:a4,"Cisco Systems, Inc"
+805,44:e4:d9:85:e5:3b,"Cisco Systems, Inc"
+806,74:44:01:7c:7e:a2,Netgear
+807,44:e4:d9:85:e5:34,"Cisco Systems, Inc"
+808,a4:56:30:8f:50:ab,"Cisco Systems, Inc"
+809,2c:36:f8:e8:8a:5b,"Cisco Systems, Inc"
+810,2c:36:f8:e8:8a:54,"Cisco Systems, Inc"
+811,3c:ce:73:08:17:2b,"Cisco Systems, Inc"
+812,2c:36:f8:e8:8a:8b,"Cisco Systems, Inc"
+813,2c:36:f8:b8:7e:24,"Cisco Systems, Inc"
+814,2c:36:f8:b8:7e:2b,"Cisco Systems, Inc"
+815,3c:ce:73:08:17:2b,"Cisco Systems, Inc"
+816,3c:ce:73:08:17:24,"Cisco Systems, Inc"
+817,2c:36:f8:e8:8a:8b,"Cisco Systems, Inc"
+818,2c:36:f8:b8:7e:2b,"Cisco Systems, Inc"
+819,38:1c:1a:e9:96:2b,"Cisco Systems, Inc"
+820,5c:50:15:1c:8d:7b,"Cisco Systems, Inc"
+821,bc:54:51:77:f8:10,"Samsung Electronics Co, Ltd"
+822,2c:36:f8:e8:8a:54,"Cisco Systems, Inc"
+823,38:1c:1a:e9:96:24,"Cisco Systems, Inc"
+824,58:63:56:ef:69:fe,FN-Link Tech Ltd
+825,84:3d:c6:06:05:eb,"Cisco Systems, Inc"
+826,64:ae:0c:90:f3:b4,"Cisco Systems, Inc"
+828,18:33:9d:8d:a3:f0,"Cisco Systems, Inc"
+830,18:60:24:08:c1:f3,Hewlett Packard
+832,cc:16:7e:dd:9b:64,"Cisco Systems, Inc"
+833,84:3d:c6:0a:1b:0b,"Cisco Systems, Inc"
+834,cc:16:7e:dd:9b:6b,"Cisco Systems, Inc"
+835,00:c8:8b:60:87:6b,"Cisco Systems, Inc"
+836,84:3d:c6:0a:1b:04,"Cisco Systems, Inc"
+837,00:c8:8b:60:87:0b,"Cisco Systems, Inc"
+838,00:2a:10:f3:ad:eb,"Cisco Systems, Inc"
+839,00:2a:10:f4:c2:44,"Cisco Systems, Inc"
+840,00:2a:10:f3:aa:bb,"Cisco Systems, Inc"
+841,00:2a:10:f3:ad:e4,"Cisco Systems, Inc"
+842,18:33:9d:8d:bf:ee,"Cisco Systems, Inc"
+843,00:2a:10:f3:aa:b4,"Cisco Systems, Inc"
+844,84:3d:c6:06:22:64,"Cisco Systems, Inc"
+845,00:2a:10:f4:c2:4b,"Cisco Systems, Inc"
+846,84:3d:c6:06:22:6b,"Cisco Systems, Inc"
+847,00:2a:10:f4:c2:4b,"Cisco Systems, Inc"
+848,00:2a:10:f4:c2:44,"Cisco Systems, Inc"
+849,00:2a:10:f3:ad:ab,"Cisco Systems, Inc"
+851,00:2a:10:f4:a9:24,"Cisco Systems, Inc"
+852,84:3d:c6:06:22:a4,"Cisco Systems, Inc"
+853,00:2a:10:f4:a8:bb,"Cisco Systems, Inc"
+854,84:3d:c6:06:22:ab,"Cisco Systems, Inc"
+855,00:2a:10:1b:00:04,"Cisco Systems, Inc"
+856,00:2a:10:f4:a9:2b,"Cisco Systems, Inc"
+857,cc:16:7e:dd:c3:cb,"Cisco Systems, Inc"
+858,84:3d:c6:06:1d:8b,"Cisco Systems, Inc"
+859,84:3d:c6:06:1d:8b,"Cisco Systems, Inc"
+860,84:3d:c6:06:1d:4b,"Cisco Systems, Inc"
+861,00:2a:10:f4:c0:5b,"Cisco Systems, Inc"
+862,00:2a:10:f3:ae:1b,"Cisco Systems, Inc"
+863,cc:16:7e:dd:c3:cb,"Cisco Systems, Inc"
+864,84:3d:c6:06:1d:8b,"Cisco Systems, Inc"
+865,00:2a:10:f4:c0:5b,"Cisco Systems, Inc"
+866,00:2a:10:f3:ae:1b,"Cisco Systems, Inc"
+867,cc:16:7e:dd:c3:c4,"Cisco Systems, Inc"
+868,54:64:d9:bf:cf:36,Sagemcom Broadband Sas
+869,84:3d:c6:06:21:5b,"Cisco Systems, Inc"
+870,54:64:d9:bf:cf:3a,Sagemcom Broadband Sas
+872,84:3d:c6:06:1d:8b,"Cisco Systems, Inc"
+873,84:3d:c6:06:21:5b,"Cisco Systems, Inc"
+874,00:2a:10:f4:a8:c4,"Cisco Systems, Inc"
+875,84:3d:c6:06:21:54,"Cisco Systems, Inc"
+876,00:2a:10:f4:a8:cb,"Cisco Systems, Inc"
+877,84:3d:c6:06:21:5b,"Cisco Systems, Inc"
+878,84:3d:c6:06:21:54,"Cisco Systems, Inc"
+879,84:3d:c6:06:1d:84,"Cisco Systems, Inc"
+880,00:2a:10:f4:a8:cb,"Cisco Systems, Inc"
+882,00:2a:10:f4:a8:cb,"Cisco Systems, Inc"
+883,00:2a:10:13:7c:14,"Cisco Systems, Inc"
+884,3c:f7:a4:c8:ed:d1,"Samsung Electronics Co, Ltd"
+885,84:3d:c6:06:21:54,"Cisco Systems, Inc"
+886,00:2a:10:f4:a8:c4,"Cisco Systems, Inc"
+887,00:2a:10:f3:aa:9b,"Cisco Systems, Inc"
+888,00:2a:10:f3:aa:9b,"Cisco Systems, Inc"
+890,00:2a:10:ca:b0:6b,"Cisco Systems, Inc"
+892,00:2a:10:f3:aa:94,"Cisco Systems, Inc"
+893,00:f2:8b:27:0d:db,"Cisco Systems, Inc"
+895,00:2a:10:ca:b0:6b,"Cisco Systems, Inc"
+896,00:f2:8b:27:0d:db,"Cisco Systems, Inc"
+897,54:64:d9:bf:cf:36,Sagemcom Broadband Sas
+898,54:64:d9:bf:cf:3a,Sagemcom Broadband Sas
+899,00:f2:8b:27:0f:0b,"Cisco Systems, Inc"
+900,00:2a:10:f4:be:5b,"Cisco Systems, Inc"
+901,00:2a:10:f4:c0:54,"Cisco Systems, Inc"
+902,00:2a:10:f4:be:5b,"Cisco Systems, Inc"
+903,00:2a:10:f3:ae:14,"Cisco Systems, Inc"
+904,14:d6:4d:4b:00:46,D-Link International
+905,00:2a:10:f4:be:54,"Cisco Systems, Inc"
+906,30:74:96:6c:29:b4,"Huawei Tech Co, Ltd"
+907,00:2a:10:f3:aa:fb,"Cisco Systems, Inc"
+908,60:83:34:f5:c1:34,"Huawei Tech Co, Ltd"
+909,00:2a:10:f4:a7:db,"Cisco Systems, Inc"
+910,14:d6:4d:4b:00:46,D-Link International
+911,00:2a:10:ca:b0:64,"Cisco Systems, Inc"
+912,00:f2:8b:27:0e:94,"Cisco Systems, Inc"
+913,00:f2:8b:27:0e:9b,"Cisco Systems, Inc"
+915,00:f2:8b:27:0f:0b,"Cisco Systems, Inc"
+916,00:f2:8b:27:0d:d4,"Cisco Systems, Inc"
+918,00:2a:10:ca:b0:64,"Cisco Systems, Inc"
+919,00:2a:10:ca:b0:6b,"Cisco Systems, Inc"
+921,00:f2:8b:27:0f:04,"Cisco Systems, Inc"
+923,00:2a:10:f3:aa:94,"Cisco Systems, Inc"
+924,84:3d:c6:29:8d:a4,"Cisco Systems, Inc"
+925,7c:dd:90:87:d2:5b,"Shenzhen Ogemray Tech Co, Ltd"
+927,84:3d:c6:29:8d:ab,"Cisco Systems, Inc"
+928,e8:65:49:45:2c:bb,"Cisco Systems, Inc"
+929,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+930,50:0f:80:ed:71:2b,"Cisco Systems, Inc"
+931,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+932,00:2a:10:f4:a7:54,"Cisco Systems, Inc"
+933,20:f8:5e:cd:44:b2,Delta Electronics
+934,38:90:a5:08:a4:6b,"Cisco Systems, Inc"
+935,2c:d0:2d:e2:64:a4,"Cisco Systems, Inc"
+936,00:2a:10:f4:a7:5b,"Cisco Systems, Inc"
+937,38:90:a5:08:4e:6b,"Cisco Systems, Inc"
+938,50:0f:80:ed:71:2b,"Cisco Systems, Inc"
+939,00:2a:10:f4:a7:54,"Cisco Systems, Inc"
+940,00:2a:10:f4:a7:5b,"Cisco Systems, Inc"
+941,20:f8:5e:cd:44:b2,Delta Electronics
+942,20:f8:5e:d1:82:7e,Delta Electronics
+943,84:3d:c6:06:1f:1b,"Cisco Systems, Inc"
+944,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+945,50:0f:80:ed:71:24,"Cisco Systems, Inc"
+946,a4:ca:a0:4b:ac:e9,"Huawei Tech Co, Ltd"
+947,84:3d:c6:0a:1a:a4,"Cisco Systems, Inc"
+948,a4:ca:a0:4b:ac:e7,"Huawei Tech Co, Ltd"
+949,a4:ca:a0:4b:ac:e9,"Huawei Tech Co, Ltd"
+950,00:2a:10:20:9f:5b,"Cisco Systems, Inc"
+951,84:3d:c6:0a:1a:ab,"Cisco Systems, Inc"
+952,00:2a:10:f3:a9:fb,"Cisco Systems, Inc"
+953,10:be:f5:4d:6c:8c,D-Link International
+954,84:3d:c6:0a:15:bb,"Cisco Systems, Inc"
+955,84:3d:c6:09:fd:0b,"Cisco Systems, Inc"
+956,84:3d:c6:0a:1a:ab,"Cisco Systems, Inc"
+957,84:3d:c6:06:1f:14,"Cisco Systems, Inc"
+958,00:2a:10:20:d4:8b,"Cisco Systems, Inc"
+959,a4:ca:a0:4b:ac:e9,"Huawei Tech Co, Ltd"
+960,84:3d:c6:06:1f:14,"Cisco Systems, Inc"
+961,00:2a:10:20:9f:54,"Cisco Systems, Inc"
+962,20:f8:5e:d1:82:7e,Delta Electronics
+963,38:90:a5:08:7b:24,"Cisco Systems, Inc"
+964,38:90:a5:08:7b:2b,"Cisco Systems, Inc"
+965,00:2a:10:f3:a9:fb,"Cisco Systems, Inc"
+966,38:90:a5:08:4e:64,"Cisco Systems, Inc"
+967,00:2a:10:f4:a8:2b,"Cisco Systems, Inc"
+968,00:2a:10:f4:be:0b,"Cisco Systems, Inc"
+969,00:2a:10:13:71:14,"Cisco Systems, Inc"
+970,00:2a:10:13:71:1b,"Cisco Systems, Inc"
+971,cc:16:7e:dd:c3:ab,"Cisco Systems, Inc"
+972,00:2a:10:f4:be:0b,"Cisco Systems, Inc"
+973,00:2a:10:11:35:9b,"Cisco Systems, Inc"
+975,00:2a:10:f4:be:04,"Cisco Systems, Inc"
+976,cc:16:7e:dd:c3:a4,"Cisco Systems, Inc"
+977,00:2a:10:11:35:9b,"Cisco Systems, Inc"
+978,00:81:c4:f9:8b:c4,"Cisco Systems, Inc"
+979,00:2a:10:11:35:94,"Cisco Systems, Inc"
+980,00:2a:10:11:32:1b,"Cisco Systems, Inc"
+981,00:81:c4:f9:8b:cb,"Cisco Systems, Inc"
+982,cc:16:7e:dd:c3:9b,"Cisco Systems, Inc"
+983,00:2a:10:20:c9:db,"Cisco Systems, Inc"
+984,84:3d:c6:06:13:1b,"Cisco Systems, Inc"
+985,00:2a:10:20:c8:6b,"Cisco Systems, Inc"
+986,00:2a:10:f4:c0:6b,"Cisco Systems, Inc"
+987,00:2a:10:13:6d:7b,"Cisco Systems, Inc"
+988,00:2a:10:20:c8:6b,"Cisco Systems, Inc"
+989,00:2a:10:13:6d:74,"Cisco Systems, Inc"
+990,84:3d:c6:0a:15:74,"Cisco Systems, Inc"
+991,00:2a:10:13:6d:7b,"Cisco Systems, Inc"
+992,84:3d:c6:0a:15:7b,"Cisco Systems, Inc"
+993,00:c8:8b:60:87:2b,"Cisco Systems, Inc"
+994,84:3d:c6:0a:15:74,"Cisco Systems, Inc"
+995,00:c8:8b:60:87:24,"Cisco Systems, Inc"
+996,00:c8:8b:60:87:2b,"Cisco Systems, Inc"
+998,00:2a:10:1a:fe:c4,"Cisco Systems, Inc"
+999,00:2a:10:11:32:14,"Cisco Systems, Inc"
+1000,00:2a:10:f4:bd:4b,"Cisco Systems, Inc"
+1001,00:2a:10:13:6d:74,"Cisco Systems, Inc"
+1002,00:2a:10:11:35:64,"Cisco Systems, Inc"
+1004,00:2a:10:f4:c2:3b,"Cisco Systems, Inc"
+1005,00:2a:10:f4:c2:34,"Cisco Systems, Inc"
+1006,00:2a:10:f4:be:6b,"Cisco Systems, Inc"
+1007,00:2a:10:13:6d:7b,"Cisco Systems, Inc"
+1008,00:2a:10:f4:c2:34,"Cisco Systems, Inc"
+1009,3c:33:00:a6:00:16,Shenzhen Bilian Electronic Co，Ltd
+1010,00:2a:10:f4:be:6b,"Cisco Systems, Inc"
+1013,00:2a:10:f4:c0:cb,"Cisco Systems, Inc"
+1014,00:2a:10:f4:c0:cb,"Cisco Systems, Inc"
+1015,00:2a:10:20:c5:44,"Cisco Systems, Inc"
+1016,00:2a:10:f4:c0:c4,"Cisco Systems, Inc"
+1017,84:3d:c6:29:a6:5b,"Cisco Systems, Inc"
+1018,84:3d:c6:29:a6:54,"Cisco Systems, Inc"
+1019,84:3d:c6:29:a6:5b,"Cisco Systems, Inc"
+1021,00:2a:10:f3:9d:5b,"Cisco Systems, Inc"
+1022,84:3d:c6:35:5c:cb,"Cisco Systems, Inc"
+1023,00:2a:10:11:32:1b,"Cisco Systems, Inc"
+1024,84:3d:c6:09:fe:1b,"Cisco Systems, Inc"
+1025,00:2a:10:11:35:6b,"Cisco Systems, Inc"
+1026,00:2a:10:f3:9d:54,"Cisco Systems, Inc"
+1028,00:2a:10:11:31:4b,"Cisco Systems, Inc"
+1029,00:2a:10:11:31:44,"Cisco Systems, Inc"
+1030,00:2a:10:11:35:9b,"Cisco Systems, Inc"
+1031,00:2a:10:11:31:44,"Cisco Systems, Inc"
+1032,00:2a:10:f3:a2:db,"Cisco Systems, Inc"
+1033,cc:16:7e:dd:94:6b,"Cisco Systems, Inc"
+1034,00:c8:8b:60:81:5b,"Cisco Systems, Inc"
+1036,00:2a:10:f3:a2:db,"Cisco Systems, Inc"
+1037,00:2a:10:13:6c:34,"Cisco Systems, Inc"
+1039,cc:16:7e:dd:c7:f4,"Cisco Systems, Inc"
+1040,00:2a:10:13:6b:e4,"Cisco Systems, Inc"
+1041,cc:16:7e:dd:c7:fb,"Cisco Systems, Inc"
+1042,00:2a:10:13:6b:eb,"Cisco Systems, Inc"
+1044,00:2a:10:f3:a2:d4,"Cisco Systems, Inc"
+1046,cc:16:7e:dd:94:6b,"Cisco Systems, Inc"
+1047,00:2a:10:f4:c1:3b,"Cisco Systems, Inc"
+1048,00:2a:10:f4:c1:34,"Cisco Systems, Inc"
+1049,00:2a:10:11:35:3b,"Cisco Systems, Inc"
+1050,00:2a:10:f4:c1:3b,"Cisco Systems, Inc"
+1051,cc:16:7e:dd:94:64,"Cisco Systems, Inc"
+1052,00:81:c4:f9:9c:9b,"Cisco Systems, Inc"
+1053,00:2a:10:11:35:34,"Cisco Systems, Inc"
+1054,00:2a:10:1a:fe:cb,"Cisco Systems, Inc"
+1055,cc:16:7e:dd:94:6b,"Cisco Systems, Inc"
+1056,00:2a:10:11:35:3b,"Cisco Systems, Inc"
+1058,00:2a:10:11:35:6b,"Cisco Systems, Inc"
+1059,00:2a:10:20:c5:4b,"Cisco Systems, Inc"
+1061,84:3d:c6:7a:2f:1b,"Cisco Systems, Inc"
+1062,54:c9:df:32:85:bb,FN-Link Tech Ltd
+1063,84:3d:c6:7a:2f:14,"Cisco Systems, Inc"
+1064,00:2a:10:1a:fe:9b,"Cisco Systems, Inc"
+1065,3c:47:11:b1:5e:f4,"Huawei Tech Co, Ltd"
+1066,00:2a:10:1a:fe:94,"Cisco Systems, Inc"
+1067,00:81:c4:33:d9:f4,"Cisco Systems, Inc"
+1068,00:81:c4:33:d9:fb,"Cisco Systems, Inc"
+1070,3c:47:11:b1:5e:f4,"Huawei Tech Co, Ltd"
+1072,3c:47:11:b1:5e:f4,"Huawei Tech Co, Ltd"
+1073,00:81:c4:33:d9:f4,"Cisco Systems, Inc"
+1074,00:2a:10:1a:fe:14,"Cisco Systems, Inc"
+1075,00:2a:10:f4:bd:74,"Cisco Systems, Inc"
+1076,00:2a:10:f3:b8:8b,"Cisco Systems, Inc"
+1077,00:2a:10:f3:ad:6b,"Cisco Systems, Inc"
+1078,a0:2c:36:51:f0:5d,FN-Link Tech Ltd
+1079,00:2a:10:f4:bd:7b,"Cisco Systems, Inc"
+1080,a0:2c:36:51:f0:5d,FN-Link Tech Ltd
+1081,00:2a:10:f3:b8:8b,"Cisco Systems, Inc"
+1082,00:2a:10:f3:ab:14,"Cisco Systems, Inc"
+1083,88:83:5d:22:27:7c,FN-Link Tech Ltd
+1084,00:81:c4:33:d9:f4,"Cisco Systems, Inc"
+1085,00:2a:10:f3:ab:1b,"Cisco Systems, Inc"
+1086,00:2a:10:f3:ab:14,"Cisco Systems, Inc"
+1087,00:81:c4:33:d9:fb,"Cisco Systems, Inc"
+1088,00:2a:10:f4:bd:7b,"Cisco Systems, Inc"
+1089,84:3d:c6:0a:15:fb,"Cisco Systems, Inc"
+1090,84:3d:c6:09:ff:eb,"Cisco Systems, Inc"
+1092,84:3d:c6:44:6a:04,"Cisco Systems, Inc"
+1093,b0:39:56:8b:f7:6c,Netgear
+1094,b0:39:56:8b:f7:6c,Netgear
+1095,84:3d:c6:06:1d:9b,"Cisco Systems, Inc"
+1096,00:2a:10:f3:ab:44,"Cisco Systems, Inc"
+1097,00:2a:10:f4:a8:fb,"Cisco Systems, Inc"
+1098,84:3d:c6:06:1d:9b,"Cisco Systems, Inc"
+1099,00:2a:10:f4:a8:fb,"Cisco Systems, Inc"
+1100,00:2a:10:f3:b8:ab,"Cisco Systems, Inc"
+1101,38:1d:d9:82:e0:d8,FN-Link Tech Ltd
+1102,00:2a:10:f3:b8:a4,"Cisco Systems, Inc"
+1103,84:3d:c6:0a:15:f4,"Cisco Systems, Inc"
+1104,00:2a:10:f3:b8:ab,"Cisco Systems, Inc"
+1105,cc:16:7e:dd:c3:5b,"Cisco Systems, Inc"
+1106,84:3d:c6:0a:16:9b,"Cisco Systems, Inc"
+1107,cc:16:7e:dd:c3:5b,"Cisco Systems, Inc"
+1108,84:3d:c6:09:fe:8b,"Cisco Systems, Inc"
+1109,84:3d:c6:09:fe:8b,"Cisco Systems, Inc"
+1110,84:3d:c6:09:fe:84,"Cisco Systems, Inc"
+1112,84:3d:c6:09:fe:84,"Cisco Systems, Inc"
+1114,00:f6:63:cc:09:bb,"Cisco Systems, Inc"
+1115,88:83:5d:22:27:7c,FN-Link Tech Ltd
+1116,3c:47:11:b1:5e:f4,"Huawei Tech Co, Ltd"
+1117,84:3d:c6:09:ff:db,"Cisco Systems, Inc"
+1118,00:2a:10:13:6e:c4,"Cisco Systems, Inc"
+1119,00:81:c4:33:d9:fb,"Cisco Systems, Inc"
+1120,84:3d:c6:0a:16:3b,"Cisco Systems, Inc"
+1121,a0:2c:36:51:f0:5d,FN-Link Tech Ltd
+1122,84:3d:c6:09:ff:d4,"Cisco Systems, Inc"
+1123,88:83:5d:22:27:7c,FN-Link Tech Ltd
+1124,00:81:c4:33:d9:fb,"Cisco Systems, Inc"
+1126,00:f6:63:cc:09:bb,"Cisco Systems, Inc"
+1127,84:3d:c6:0a:16:34,"Cisco Systems, Inc"
+1128,84:3d:c6:09:ff:e4,"Cisco Systems, Inc"
+1130,84:3d:c6:0a:16:3b,"Cisco Systems, Inc"
+1131,00:f6:63:cc:09:b4,"Cisco Systems, Inc"
+1132,00:2a:10:13:6e:c4,"Cisco Systems, Inc"
+1133,b0:39:56:8b:f7:6c,Netgear
+1134,84:3d:c6:06:1d:94,"Cisco Systems, Inc"
+1135,00:2a:10:f3:ab:4b,"Cisco Systems, Inc"
+1137,b0:39:56:8b:f7:6c,Netgear
+1138,b0:39:56:8b:f7:6c,Netgear
+1139,84:3d:c6:44:6a:0b,"Cisco Systems, Inc"
+1140,00:2a:10:f4:aa:cb,"Cisco Systems, Inc"
+1142,cc:16:7e:dd:c4:04,"Cisco Systems, Inc"
+1143,00:f2:8b:27:0e:fb,"Cisco Systems, Inc"
+1144,84:3d:c6:35:5c:54,"Cisco Systems, Inc"
+1145,00:f2:8b:27:0e:f4,"Cisco Systems, Inc"
+1146,00:f2:8b:27:0e:f4,"Cisco Systems, Inc"
+1147,00:f2:8b:27:0e:fb,"Cisco Systems, Inc"
+1148,cc:16:7e:dd:c4:04,"Cisco Systems, Inc"
+1149,cc:16:7e:dd:c4:0b,"Cisco Systems, Inc"
+1150,cc:16:7e:dd:c4:04,"Cisco Systems, Inc"
+1151,cc:16:7e:dd:c4:24,"Cisco Systems, Inc"
+1152,cc:16:7e:dd:c4:2b,"Cisco Systems, Inc"
+1153,b0:39:56:8b:f7:6c,Netgear
+1154,00:2a:10:f4:aa:c4,"Cisco Systems, Inc"
+1155,b0:39:56:8b:f7:6c,Netgear
+1156,84:3d:c6:44:6a:04,"Cisco Systems, Inc"
+1157,84:3d:c6:44:6a:04,"Cisco Systems, Inc"
+1158,84:3d:c6:44:6a:04,"Cisco Systems, Inc"
+1159,84:3d:c6:44:6a:0b,"Cisco Systems, Inc"
+1160,00:2a:10:f4:aa:cb,"Cisco Systems, Inc"
+1161,00:2a:10:f4:aa:c4,"Cisco Systems, Inc"
+1162,cc:16:7e:dd:c4:24,"Cisco Systems, Inc"
+1163,84:3d:c6:0a:1a:64,"Cisco Systems, Inc"
+1164,84:3d:c6:35:5c:54,"Cisco Systems, Inc"
+1165,84:3d:c6:0a:1a:6b,"Cisco Systems, Inc"
+1166,84:3d:c6:44:6a:04,"Cisco Systems, Inc"
+1167,84:3d:c6:06:13:24,"Cisco Systems, Inc"
+1168,00:2a:10:f3:9c:e4,"Cisco Systems, Inc"
+1169,84:3d:c6:06:13:2b,"Cisco Systems, Inc"
+1170,84:3d:c6:35:5c:2b,"Cisco Systems, Inc"
+1171,00:2a:10:f3:9c:eb,"Cisco Systems, Inc"
+1172,84:3d:c6:06:10:d4,"Cisco Systems, Inc"
+1173,84:3d:c6:35:5c:24,"Cisco Systems, Inc"
+1174,84:3d:c6:06:10:d4,"Cisco Systems, Inc"
+1175,00:2a:10:f3:9c:e4,"Cisco Systems, Inc"
+1176,00:2a:10:f3:9c:e4,"Cisco Systems, Inc"
+1177,00:2a:10:f3:9c:eb,"Cisco Systems, Inc"
+1178,84:3d:c6:06:13:2b,"Cisco Systems, Inc"
+1181,00:2a:10:f3:ad:8b,"Cisco Systems, Inc"
+1183,84:3d:c6:0a:21:db,"Cisco Systems, Inc"
+1184,00:78:88:fe:25:3b,"Cisco Systems, Inc"
+1185,d4:61:2e:50:6a:33,"Huawei Tech Co, Ltd"
+1186,84:3d:c6:0a:1b:64,"Cisco Systems, Inc"
+1187,84:3d:c6:0a:21:db,"Cisco Systems, Inc"
+1188,00:2a:10:f3:ad:8b,"Cisco Systems, Inc"
+1189,84:3d:c6:06:0b:db,"Cisco Systems, Inc"
+1190,84:3d:c6:0a:15:8b,"Cisco Systems, Inc"
+1192,84:3d:c6:0a:1b:64,"Cisco Systems, Inc"
+1193,84:3d:c6:0a:1b:6b,"Cisco Systems, Inc"
+1194,00:2a:10:f3:9c:e4,"Cisco Systems, Inc"
+1195,84:3d:c6:44:6a:74,"Cisco Systems, Inc"
+1196,84:3d:c6:06:0b:d4,"Cisco Systems, Inc"
+1197,00:2a:10:f3:aa:e4,"Cisco Systems, Inc"
+1198,d4:61:2e:50:6a:35,"Huawei Tech Co, Ltd"
+1199,d4:61:2e:50:6a:33,"Huawei Tech Co, Ltd"
+1200,84:3d:c6:06:0b:db,"Cisco Systems, Inc"
+1201,00:2a:10:f3:aa:eb,"Cisco Systems, Inc"
+1202,d4:61:2e:50:6a:33,"Huawei Tech Co, Ltd"
+1203,84:3d:c6:06:10:d4,"Cisco Systems, Inc"
+1204,d4:61:2e:50:6a:35,"Huawei Tech Co, Ltd"
+1214,84:3d:c6:06:13:24,"Cisco Systems, Inc"
+1215,84:3d:c6:09:fe:4b,"Cisco Systems, Inc"
+1216,00:2a:10:f3:aa:e4,"Cisco Systems, Inc"
+1217,84:3d:c6:44:6a:7b,"Cisco Systems, Inc"
+1218,84:3d:c6:06:13:64,"Cisco Systems, Inc"
+1219,84:3d:c6:06:13:6b,"Cisco Systems, Inc"
+1220,84:3d:c6:44:6a:74,"Cisco Systems, Inc"
+1221,84:3d:c6:06:13:6b,"Cisco Systems, Inc"
+1222,84:3d:c6:06:13:64,"Cisco Systems, Inc"
+1224,00:78:88:92:94:44,"Cisco Systems, Inc"
+1225,84:3d:c6:09:fe:44,"Cisco Systems, Inc"
+1226,f8:d1:11:54:af:02,"TP-Link Tech Co, Ltd"
+1227,00:78:88:92:94:4b,"Cisco Systems, Inc"
+1231,d4:61:2e:50:6a:33,"Huawei Tech Co, Ltd"
+1234,00:78:88:a4:bb:94,"Cisco Systems, Inc"
+1235,00:78:88:a4:bb:9b,"Cisco Systems, Inc"
+1237,ec:8e:b5:cd:77:d3,Hewlett Packard
+1238,00:2a:10:f3:b8:e4,"Cisco Systems, Inc"
+1239,fc:5b:39:68:5e:24,"Cisco Systems, Inc"
+1240,f8:d1:11:54:af:02,"TP-Link Tech Co, Ltd"
+1243,cc:16:7e:df:00:7b,"Cisco Systems, Inc"
+1244,88:1f:a1:35:75:58,"Apple, Inc"
+1247,84:3d:c6:09:fe:4b,"Cisco Systems, Inc"
+1249,00:78:88:a4:bb:9b,"Cisco Systems, Inc"
+1250,00:24:36:ac:78:ca,"Apple, Inc"
+1251,c0:ff:d4:84:61:2e,Netgear
+1252,1c:74:0d:c6:1d:31,Zyxel Communications Corp
+1253,00:78:88:92:94:44,"Cisco Systems, Inc"
+1257,cc:16:7e:df:00:7b,"Cisco Systems, Inc"
+1258,84:3d:c6:09:fe:4b,"Cisco Systems, Inc"
+1259,00:2a:10:f4:c0:8b,"Cisco Systems, Inc"
+1263,00:2a:10:f4:aa:b4,"Cisco Systems, Inc"
+1264,84:3d:c6:06:13:7b,"Cisco Systems, Inc"
+1265,84:3d:c6:06:13:74,"Cisco Systems, Inc"
+1266,3c:95:09:d3:69:8d,Liteon Tech Corp
+1267,00:78:88:a4:bb:9b,"Cisco Systems, Inc"
+1268,cc:16:7e:df:00:7b,"Cisco Systems, Inc"
+1269,84:3d:c6:09:fe:44,"Cisco Systems, Inc"
+1271,cc:16:7e:df:00:74,"Cisco Systems, Inc"
+1272,00:2a:10:f4:aa:bb,"Cisco Systems, Inc"
+1273,00:2a:10:f3:b7:1b,"Cisco Systems, Inc"
+1274,84:3d:c6:06:10:cb,"Cisco Systems, Inc"
+1275,00:2a:10:f3:b8:e4,"Cisco Systems, Inc"
+1276,00:2a:10:f4:c1:24,"Cisco Systems, Inc"
+1277,00:2a:10:f3:b8:eb,"Cisco Systems, Inc"
+1279,00:2a:10:f4:c1:24,"Cisco Systems, Inc"
+1280,00:2a:10:f3:b7:14,"Cisco Systems, Inc"
+1281,3c:95:09:d3:69:8d,Liteon Tech Corp
+1282,00:2a:10:f4:c1:2b,"Cisco Systems, Inc"
+1283,a0:39:ee:9e:09:79,Sagemcom Broadband Sas
+1284,8c:25:05:3d:ca:e7,"Huawei Tech Co, Ltd"
+1285,00:2a:10:f4:c0:84,"Cisco Systems, Inc"
+1286,50:6a:03:e0:c6:f4,Netgear
+1287,84:3d:c6:06:13:7b,"Cisco Systems, Inc"
+1288,00:2a:10:f4:c0:8b,"Cisco Systems, Inc"
+1289,c0:ff:d4:8a:37:6c,Netgear
+1290,f8:d1:11:54:af:02,"TP-Link Tech Co, Ltd"
+1291,00:2a:10:f4:c0:8b,"Cisco Systems, Inc"
+1292,00:2a:10:f4:a9:9b,"Cisco Systems, Inc"
+1293,00:2a:10:f4:a9:eb,"Cisco Systems, Inc"
+1294,00:2a:10:f4:c0:8b,"Cisco Systems, Inc"
+1295,00:2a:10:f4:aa:b4,"Cisco Systems, Inc"
+1296,f8:d1:11:54:af:02,"TP-Link Tech Co, Ltd"
+1297,84:3d:c6:06:13:74,"Cisco Systems, Inc"
+1298,00:2a:10:f3:b7:1b,"Cisco Systems, Inc"
+1299,00:2a:10:f4:aa:b4,"Cisco Systems, Inc"
+1300,f8:d1:11:54:af:02,"TP-Link Tech Co, Ltd"
+1301,cc:16:7e:df:00:7b,"Cisco Systems, Inc"
+1303,00:2a:10:f4:c0:84,"Cisco Systems, Inc"
+1304,cc:16:7e:df:00:74,"Cisco Systems, Inc"
+1305,00:2a:10:f4:aa:bb,"Cisco Systems, Inc"
+1306,00:2a:10:f3:9c:b4,"Cisco Systems, Inc"
+1307,00:2a:10:f4:aa:b4,"Cisco Systems, Inc"
+1308,00:2a:10:f4:aa:bb,"Cisco Systems, Inc"
+1310,00:c8:8b:60:86:d4,"Cisco Systems, Inc"
+1311,00:2a:10:f4:a9:e4,"Cisco Systems, Inc"
+1312,00:c8:8b:60:86:d4,"Cisco Systems, Inc"
+1313,00:c8:8b:60:86:db,"Cisco Systems, Inc"
+1314,84:3d:c6:09:fe:44,"Cisco Systems, Inc"
+1316,a0:8e:78:65:2c:f4,Sagemcom Broadband Sas
+1317,90:e6:ba:a1:b4:56,ASUSTek Computer Inc
+1318,24:7f:20:01:42:46,Sagemcom Broadband Sas
+1319,9c:5c:8e:ba:3b:b8,ASUSTek Computer Inc
+1320,a0:8e:78:65:2c:f5,Sagemcom Broadband Sas
+1321,a0:8e:78:65:2c:f4,Sagemcom Broadband Sas
+1327,d4:6e:0e:e6:6a:4e,"TP-Link Tech Co, Ltd"
+1328,ec:8e:b5:b8:d1:47,Hewlett Packard
+1329,10:bd:18:aa:5b:f1,"Cisco Systems, Inc"
+1330,44:94:fc:3e:d4:54,Netgear
+1331,1c:b7:2c:c1:44:70,ASUSTek Computer Inc
+1332,9c:5c:8e:ba:3b:b0,ASUSTek Computer Inc
+1333,e8:94:f6:2a:c8:a0,"TP-Link Tech Co, Ltd"
+1334,b0:98:2b:6f:82:7c,Sagemcom Broadband Sas
+1335,50:c7:bf:16:69:80,"TP-Link Tech Co, Ltd"
+1336,44:94:fc:3e:d4:54,Netgear
+1337,a4:08:f5:17:18:76,Sagemcom Broadband Sas
+1338,44:94:fc:36:dc:53,Netgear
+1339,c0:ff:d4:9c:f3:6a,Netgear
+1340,a0:8e:78:64:59:82,Sagemcom Broadband Sas
+1341,24:7f:20:01:42:47,Sagemcom Broadband Sas
+1342,8c:25:05:3d:ca:e7,"Huawei Tech Co, Ltd"
+1344,a0:39:ee:9e:09:79,Sagemcom Broadband Sas
+1345,e8:37:7a:82:60:6e,Zyxel Communications Corp
+1346,a0:8e:78:63:a9:cb,Sagemcom Broadband Sas
+1349,24:7f:20:01:42:46,Sagemcom Broadband Sas
+1350,e8:37:7a:82:60:6d,Zyxel Communications Corp
+1351,b8:ec:a3:76:57:dd,Zyxel Communications Corp
+1352,9c:5c:8e:ba:3b:b8,ASUSTek Computer Inc
+1353,ec:8e:b5:b8:d1:47,Hewlett Packard
+1354,8c:3b:ad:13:94:f3,Netgear
+1355,b8:ee:0e:45:ad:8a,Sagemcom Broadband Sas
+1356,40:f2:01:ad:90:66,Sagemcom Broadband Sas
+1357,30:e1:71:05:89:6c,Hewlett Packard
+1358,9c:5c:8e:ba:3b:b4,ASUSTek Computer Inc
+1359,9c:5c:8e:ba:3b:b8,ASUSTek Computer Inc
+1360,9c:5c:8e:ba:3b:b0,ASUSTek Computer Inc
+1361,a4:b1:e9:dc:5b:af,Technicolor
+1362,74:44:01:f4:0f:82,Netgear
+1363,ec:8e:b5:b8:d1:47,Hewlett Packard
+1364,40:f2:01:ad:90:6a,Sagemcom Broadband Sas
+1365,00:8e:f2:d7:88:6f,Netgear
+1366,00:19:70:9e:c8:c2,"Z-Com, Inc"
+1367,a4:08:f5:17:18:77,Sagemcom Broadband Sas
+1368,b8:3a:08:18:21:51,"Tenda Tech Co, LtdDongguan branch"
+1369,9c:97:26:49:c3:fd,Technicolor
+1370,58:90:43:60:42:24,Sagemcom Broadband Sas
+1371,d4:6e:0e:36:de:45,"TP-Link Tech Co, Ltd"
+1372,d4:6e:0e:36:de:45,"TP-Link Tech Co, Ltd"
+1373,94:46:96:2b:89:2e,BaudTec Corp
+1374,24:7f:20:03:5f:a6,Sagemcom Broadband Sas
+1375,80:3f:5d:58:6e:d8,Winstars Tech Ltd
+1377,04:a1:51:31:d0:f1,Netgear
+1378,d4:6e:0e:3f:b7:72,"TP-Link Tech Co, Ltd"
+1379,00:26:5a:f9:98:50,D-Link Corp
+1380,bc:25:e0:88:9b:c0,"Huawei Tech Co, Ltd"
+1381,00:1e:58:3d:3e:a7,D-Link Corp
+1382,00:26:5a:b2:1b:d0,D-Link Corp
+1383,ac:07:5f:61:d6:00,"Huawei Tech Co, Ltd"
+1384,d4:6e:0e:e6:6a:4e,"TP-Link Tech Co, Ltd"
+1385,9c:3d:cf:01:1a:82,Netgear
+1386,9c:3d:cf:01:1a:83,Netgear
+1387,94:46:96:2b:89:2e,BaudTec Corp
+1388,1c:b7:2c:c1:44:70,ASUSTek Computer Inc
+1389,b8:3a:08:18:21:51,"Tenda Tech Co, LtdDongguan branch"
+1390,50:c7:bf:16:69:80,"TP-Link Tech Co, Ltd"
+1391,70:4f:57:c6:c5:84,"TP-Link Tech Co, Ltd"
+1392,d4:61:2e:76:9c:80,"Huawei Tech Co, Ltd"
+1393,bc:ee:7b:c4:c4:ec,ASUSTek Computer Inc
+1394,00:26:5a:b2:1b:d0,D-Link Corp
+1395,ac:07:5f:61:d5:fe,"Huawei Tech Co, Ltd"
+1396,b0:4e:26:46:9b:6c,"TP-Link Tech Co, Ltd"
+1397,80:ea:96:f3:95:36,"Apple, Inc"
+1398,bc:ee:7b:c4:c4:e8,ASUSTek Computer Inc
+1399,80:ea:96:f3:95:37,"Apple, Inc"
+1400,10:7b:44:b5:ad:88,ASUSTek Computer Inc
+1401,80:ea:96:f3:95:36,"Apple, Inc"
+1402,a4:2b:8c:02:f5:20,Netgear
+1404,1c:5f:2b:fd:58:78,D-Link International
+1405,00:25:42:82:96:55,Pittasoft
+1406,8c:3b:ad:13:94:f3,Netgear
+1407,00:25:42:82:96:55,Pittasoft
+1408,e8:65:49:38:c8:14,"Cisco Systems, Inc"
+1409,e8:65:49:38:c8:14,"Cisco Systems, Inc"
+1410,00:c8:8b:60:81:74,"Cisco Systems, Inc"
+1411,e8:65:49:38:c8:1b,"Cisco Systems, Inc"
+1413,00:25:42:82:96:55,Pittasoft
+1414,00:2a:10:f3:ab:3b,"Cisco Systems, Inc"
+1415,00:25:42:82:96:55,Pittasoft
+1416,84:3d:c6:0a:1a:54,"Cisco Systems, Inc"
+1417,00:2a:10:f3:ab:34,"Cisco Systems, Inc"
+1419,84:3d:c6:06:0f:d4,"Cisco Systems, Inc"
+1420,00:f2:8b:27:0e:64,"Cisco Systems, Inc"
+1421,e8:65:49:11:3b:34,"Cisco Systems, Inc"
+1422,00:f2:8b:27:0e:6b,"Cisco Systems, Inc"
+1423,14:d6:4d:4b:00:46,D-Link International
+1424,14:d6:4d:4b:00:46,D-Link International
+1425,50:56:bf:1f:66:d3,"Samsung Electronics Co, Ltd"
+1426,00:f2:8b:27:0e:64,"Cisco Systems, Inc"
+1427,e8:65:49:45:2c:b4,"Cisco Systems, Inc"
+1428,00:f2:8b:27:0e:6b,"Cisco Systems, Inc"
+1429,50:56:bf:1f:66:d3,"Samsung Electronics Co, Ltd"
+1431,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1432,e8:65:49:38:b1:34,"Cisco Systems, Inc"
+1434,7c:dd:90:87:d2:5b,"Shenzhen Ogemray Tech Co, Ltd"
+1436,50:56:bf:1f:66:d3,"Samsung Electronics Co, Ltd"
+1437,84:3d:c6:09:fe:34,"Cisco Systems, Inc"
+1440,00:2a:10:f4:c8:fb,"Cisco Systems, Inc"
+1442,84:3d:c6:0a:07:44,"Cisco Systems, Inc"
+1443,84:3d:c6:0a:07:4b,"Cisco Systems, Inc"
+1444,e8:65:49:45:41:6b,"Cisco Systems, Inc"
+1445,e8:65:49:04:93:a4,"Cisco Systems, Inc"
+1446,e8:65:49:45:2b:34,"Cisco Systems, Inc"
+1447,e8:65:49:04:93:ab,"Cisco Systems, Inc"
+1448,e8:65:49:04:93:ab,"Cisco Systems, Inc"
+1449,fc:5b:39:6f:71:bb,"Cisco Systems, Inc"
+1450,00:2a:10:f3:a6:d4,"Cisco Systems, Inc"
+1451,00:2a:10:f3:a6:db,"Cisco Systems, Inc"
+1452,00:2a:10:f4:c8:f4,"Cisco Systems, Inc"
+1453,00:c8:8b:60:81:7b,"Cisco Systems, Inc"
+1455,cc:16:7e:df:00:3b,"Cisco Systems, Inc"
+1456,84:3d:c6:09:fe:34,"Cisco Systems, Inc"
+1457,e8:65:49:38:b1:34,"Cisco Systems, Inc"
+1458,00:2a:10:20:c5:0b,"Cisco Systems, Inc"
+1459,e8:65:49:11:3b:34,"Cisco Systems, Inc"
+1460,00:c8:8b:60:82:64,"Cisco Systems, Inc"
+1461,e8:65:49:11:3b:3b,"Cisco Systems, Inc"
+1463,00:2a:10:20:c5:04,"Cisco Systems, Inc"
+1464,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1465,38:90:a5:08:4e:6b,"Cisco Systems, Inc"
+1467,e8:65:49:45:2c:b4,"Cisco Systems, Inc"
+1468,2c:d0:2d:e2:65:2b,"Cisco Systems, Inc"
+1469,2c:d0:2d:e2:65:24,"Cisco Systems, Inc"
+1470,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1471,38:90:a5:08:4e:64,"Cisco Systems, Inc"
+1472,2c:d0:2d:e2:64:ab,"Cisco Systems, Inc"
+1473,84:3d:c6:06:10:cb,"Cisco Systems, Inc"
+1474,2c:d0:2d:e2:64:ab,"Cisco Systems, Inc"
+1475,2c:d0:2d:e2:64:a4,"Cisco Systems, Inc"
+1476,84:3d:c6:06:10:c4,"Cisco Systems, Inc"
+1477,2c:d0:2d:e2:65:2b,"Cisco Systems, Inc"
+1478,2c:d0:2d:e2:64:a4,"Cisco Systems, Inc"
+1479,84:3d:c6:06:10:cb,"Cisco Systems, Inc"
+1480,00:2a:10:f4:aa:94,"Cisco Systems, Inc"
+1481,00:2a:10:f4:a9:eb,"Cisco Systems, Inc"
+1482,00:2a:10:f4:aa:9b,"Cisco Systems, Inc"
+1483,2c:d0:2d:e2:65:24,"Cisco Systems, Inc"
+1484,00:2a:10:f4:aa:9b,"Cisco Systems, Inc"
+1485,00:2a:10:ca:72:6b,"Cisco Systems, Inc"
+1486,84:3d:c6:0a:07:b4,"Cisco Systems, Inc"
+1487,84:3d:c6:09:ff:fb,"Cisco Systems, Inc"
+1488,00:2a:10:f4:aa:9b,"Cisco Systems, Inc"
+1489,84:3d:c6:05:de:7b,"Cisco Systems, Inc"
+1490,84:3d:c6:0a:0c:64,"Cisco Systems, Inc"
+1491,00:2a:10:f4:aa:94,"Cisco Systems, Inc"
+1492,84:3d:c6:05:de:7b,"Cisco Systems, Inc"
+1493,84:3d:c6:29:8d:b4,"Cisco Systems, Inc"
+1494,84:3d:c6:29:8d:bb,"Cisco Systems, Inc"
+1495,84:3d:c6:05:de:7b,"Cisco Systems, Inc"
+1496,84:3d:c6:35:5c:44,"Cisco Systems, Inc"
+1497,00:2a:10:f4:a9:94,"Cisco Systems, Inc"
+1498,84:3d:c6:05:de:74,"Cisco Systems, Inc"
+1500,84:3d:c6:35:5c:4b,"Cisco Systems, Inc"
+1501,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1502,a0:8e:78:64:59:81,Sagemcom Broadband Sas
+1503,50:6a:03:e0:c6:f4,Netgear
+1504,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1505,00:34:fe:eb:1a:04,"Huawei Tech Co, Ltd"
+1506,84:3d:c6:05:de:74,"Cisco Systems, Inc"
+1507,38:4b:76:01:91:50,Airtame ApS
+1508,84:3d:c6:35:5c:44,"Cisco Systems, Inc"
+1509,e8:65:49:45:41:64,"Cisco Systems, Inc"
+1510,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1511,84:3d:c6:09:ff:f4,"Cisco Systems, Inc"
+1512,00:2a:10:c8:16:34,"Cisco Systems, Inc"
+1514,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1515,84:3d:c6:06:10:c4,"Cisco Systems, Inc"
+1516,38:90:a5:08:4e:64,"Cisco Systems, Inc"
+1517,84:3d:c6:0a:07:bb,"Cisco Systems, Inc"
+1518,2c:d0:2d:e2:65:24,"Cisco Systems, Inc"
+1519,2c:d0:2d:e2:65:2b,"Cisco Systems, Inc"
+1520,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1522,38:90:a5:08:a4:64,"Cisco Systems, Inc"
+1523,50:0f:80:ed:71:2b,"Cisco Systems, Inc"
+1524,00:2a:10:f4:a8:24,"Cisco Systems, Inc"
+1525,50:0f:80:ed:71:24,"Cisco Systems, Inc"
+1526,84:3d:c6:0a:07:b4,"Cisco Systems, Inc"
+1527,00:2a:10:f4:a8:2b,"Cisco Systems, Inc"
+1528,38:90:a5:08:7b:2b,"Cisco Systems, Inc"
+1529,38:90:a5:08:7b:24,"Cisco Systems, Inc"
+1530,00:2a:10:f4:be:04,"Cisco Systems, Inc"
+1531,00:2a:10:13:71:14,"Cisco Systems, Inc"
+1532,38:90:a5:08:a4:6b,"Cisco Systems, Inc"
+1533,00:25:42:82:96:55,Pittasoft
+1534,38:90:a5:08:7b:24,"Cisco Systems, Inc"
+1535,38:90:a5:08:a4:6b,"Cisco Systems, Inc"
+1536,38:90:a5:08:4e:64,"Cisco Systems, Inc"
+1538,00:2a:10:13:71:1b,"Cisco Systems, Inc"
+1539,38:90:a5:08:a4:64,"Cisco Systems, Inc"
+1540,38:90:a5:08:7b:2b,"Cisco Systems, Inc"
+1541,3c:95:09:d3:69:8d,Liteon Tech Corp
+1542,00:2a:10:c8:16:34,"Cisco Systems, Inc"
+1543,84:3d:c6:0a:15:8b,"Cisco Systems, Inc"
+1544,d4:61:2e:50:6a:33,"Huawei Tech Co, Ltd"
+1545,84:3d:c6:06:04:c4,"Cisco Systems, Inc"
+1546,84:3d:c6:06:0d:54,"Cisco Systems, Inc"
+1547,00:42:68:9c:2d:e4,"Cisco Systems, Inc"
+1548,00:42:68:9c:2d:eb,"Cisco Systems, Inc"
+1549,00:42:68:74:b1:7b,"Cisco Systems, Inc"
+1550,00:42:68:74:b1:74,"Cisco Systems, Inc"
+1551,c8:d7:19:33:3a:12,"Cisco-Linksys, Llc"
+1552,20:f8:5e:c2:34:58,Delta Electronics
+1553,c8:d7:19:33:3a:14,"Cisco-Linksys, Llc"
+1554,00:78:88:69:08:74,"Cisco Systems, Inc"
+1555,00:42:68:81:dc:d4,"Cisco Systems, Inc"
+1556,00:78:88:cc:c9:a4,"Cisco Systems, Inc"
+1557,00:42:68:81:dc:db,"Cisco Systems, Inc"
+1558,00:42:68:74:b1:7b,"Cisco Systems, Inc"
+1559,00:42:68:81:d6:e4,"Cisco Systems, Inc"
+1560,c8:d7:19:33:3a:14,"Cisco-Linksys, Llc"
+1561,20:f8:5e:c0:e4:81,Delta Electronics
+1562,00:42:68:6e:58:0b,"Cisco Systems, Inc"
+1563,00:0e:8e:6c:3c:2c,"SparkLAN Communications, Inc"
+1564,c8:d7:19:33:3a:50,"Cisco-Linksys, Llc"
+1565,00:42:68:74:b1:74,"Cisco Systems, Inc"
+1566,00:42:68:81:d6:e4,"Cisco Systems, Inc"
+1567,00:42:68:81:d6:eb,"Cisco Systems, Inc"
+1568,00:42:68:13:76:4b,"Cisco Systems, Inc"
+1569,00:78:88:3c:e4:0b,"Cisco Systems, Inc"
+1570,00:78:88:e8:4d:4b,"Cisco Systems, Inc"
+1571,00:78:88:fe:60:4b,"Cisco Systems, Inc"
+1572,00:42:68:6e:58:0b,"Cisco Systems, Inc"
+1573,00:42:68:81:dc:db,"Cisco Systems, Inc"
+1574,00:0e:8e:6c:3c:2c,"SparkLAN Communications, Inc"
+1575,00:78:88:e8:4d:44,"Cisco Systems, Inc"
+1576,c8:d7:19:33:3a:4e,"Cisco-Linksys, Llc"
+1577,00:78:88:69:08:7b,"Cisco Systems, Inc"
+1578,00:78:88:cc:be:7b,"Cisco Systems, Inc"
+1579,00:78:88:de:6a:5b,"Cisco Systems, Inc"
+1580,28:cf:da:b6:ab:68,"Apple, Inc"
+1581,00:78:88:cc:c9:ab,"Cisco Systems, Inc"
+1583,00:42:68:80:1e:bb,"Cisco Systems, Inc"
+1584,00:42:68:74:b1:7b,"Cisco Systems, Inc"
+1585,00:42:68:13:76:44,"Cisco Systems, Inc"
+1586,20:f8:5e:c2:34:58,Delta Electronics
+1587,00:42:68:13:76:4b,"Cisco Systems, Inc"
+1588,00:78:88:3c:e4:0b,"Cisco Systems, Inc"
+1589,00:42:68:6e:58:04,"Cisco Systems, Inc"
+1590,80:ea:96:f0:3e:06,"Apple, Inc"
+1591,28:cf:da:b6:ab:67,"Apple, Inc"
+1593,00:78:88:fe:29:7b,"Cisco Systems, Inc"
+1594,00:42:68:81:d6:e4,"Cisco Systems, Inc"
+1595,00:78:88:69:08:74,"Cisco Systems, Inc"
+1596,20:f8:5e:c0:e4:81,Delta Electronics
+1597,00:78:88:69:08:7b,"Cisco Systems, Inc"
+1598,00:42:68:81:dc:d4,"Cisco Systems, Inc"
+1599,00:42:68:81:d6:eb,"Cisco Systems, Inc"
+1600,00:42:68:13:76:44,"Cisco Systems, Inc"
+1601,20:f8:5e:c2:70:40,Delta Electronics
+1602,00:78:88:fe:29:7b,"Cisco Systems, Inc"
+1603,00:42:68:13:76:4b,"Cisco Systems, Inc"
+1604,20:f8:5e:c2:70:40,Delta Electronics
+1605,20:f8:5e:c2:34:58,Delta Electronics
+1606,00:78:88:3c:e4:04,"Cisco Systems, Inc"
+1607,00:78:88:fe:29:7b,"Cisco Systems, Inc"
+1608,00:78:88:8f:13:fb,"Cisco Systems, Inc"
+1609,00:78:88:69:08:7b,"Cisco Systems, Inc"
+1610,00:42:68:81:d6:e4,"Cisco Systems, Inc"
+1611,00:78:88:3c:e4:04,"Cisco Systems, Inc"
+1613,84:3d:c6:0a:1b:64,"Cisco Systems, Inc"
+1614,84:3d:c6:0a:21:d4,"Cisco Systems, Inc"
+1615,84:3d:c6:0a:15:8b,"Cisco Systems, Inc"
+1616,84:3d:c6:0a:15:84,"Cisco Systems, Inc"
+1617,84:3d:c6:0a:15:84,"Cisco Systems, Inc"
+1618,00:2a:10:f3:ad:5b,"Cisco Systems, Inc"
+1619,00:2a:10:f3:ab:0b,"Cisco Systems, Inc"
+1620,00:2a:10:f3:ab:04,"Cisco Systems, Inc"
+1621,84:3d:c6:0a:1b:14,"Cisco Systems, Inc"
+1622,84:3d:c6:0a:1b:1b,"Cisco Systems, Inc"
+1624,38:90:a5:08:7b:24,"Cisco Systems, Inc"
+1625,00:2a:10:f4:a8:24,"Cisco Systems, Inc"
+1626,38:90:a5:08:7b:2b,"Cisco Systems, Inc"
+1628,2c:d0:2d:e2:65:2b,"Cisco Systems, Inc"
+1629,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1630,00:2a:10:f3:a9:f4,"Cisco Systems, Inc"
+1631,80:d0:9b:b2:ff:53,"Huawei Tech Co, Ltd"
+1632,00:2a:10:f4:a9:1b,"Cisco Systems, Inc"
+1633,a4:ca:a0:4b:ac:e7,"Huawei Tech Co, Ltd"
+1634,84:3d:c6:06:11:04,"Cisco Systems, Inc"
+1636,00:2a:10:20:9f:54,"Cisco Systems, Inc"
+1637,00:2a:10:f4:a7:e4,"Cisco Systems, Inc"
+1638,00:2a:10:f4:a7:eb,"Cisco Systems, Inc"
+1639,00:2a:10:20:d4:84,"Cisco Systems, Inc"
+1640,84:3d:c6:06:1f:1b,"Cisco Systems, Inc"
+1641,00:2a:10:f4:a8:04,"Cisco Systems, Inc"
+1642,84:3d:c6:0a:1a:0b,"Cisco Systems, Inc"
+1643,00:2a:10:20:9f:54,"Cisco Systems, Inc"
+1644,84:3d:c6:0a:15:bb,"Cisco Systems, Inc"
+1645,20:f8:5e:d1:82:7e,Delta Electronics
+1646,84:3d:c6:06:1f:14,"Cisco Systems, Inc"
+1647,10:be:f5:4d:6c:8a,D-Link International
+1648,84:3d:c6:06:1f:1b,"Cisco Systems, Inc"
+1649,00:2a:10:20:d4:8b,"Cisco Systems, Inc"
+1650,84:3d:c6:0a:1a:0b,"Cisco Systems, Inc"
+1651,84:3d:c6:0a:15:b4,"Cisco Systems, Inc"
+1652,84:3d:c6:06:1f:14,"Cisco Systems, Inc"
+1653,84:3d:c6:06:1f:1b,"Cisco Systems, Inc"
+1654,84:3d:c6:0a:1a:04,"Cisco Systems, Inc"
+1655,84:3d:c6:06:1e:84,"Cisco Systems, Inc"
+1656,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1658,84:3d:c6:06:1f:14,"Cisco Systems, Inc"
+1659,84:3d:c6:06:1f:1b,"Cisco Systems, Inc"
+1660,84:3d:c6:0a:1a:a4,"Cisco Systems, Inc"
+1661,20:f8:5e:d1:82:7e,Delta Electronics
+1662,84:3d:c6:0a:1a:ab,"Cisco Systems, Inc"
+1663,84:3d:c6:0a:15:bb,"Cisco Systems, Inc"
+1664,84:3d:c6:0a:1a:0b,"Cisco Systems, Inc"
+1665,00:f2:8b:27:0f:04,"Cisco Systems, Inc"
+1666,00:2a:10:f4:c1:0b,"Cisco Systems, Inc"
+1667,00:2a:10:11:3b:c4,"Cisco Systems, Inc"
+1668,84:3d:c6:06:1e:84,"Cisco Systems, Inc"
+1669,00:2a:10:11:3b:cb,"Cisco Systems, Inc"
+1670,84:3d:c6:06:1e:8b,"Cisco Systems, Inc"
+1671,00:2a:10:20:d5:64,"Cisco Systems, Inc"
+1672,84:3d:c6:06:1f:0b,"Cisco Systems, Inc"
+1673,84:3d:c6:0a:1a:0b,"Cisco Systems, Inc"
+1674,00:2a:10:11:3b:cb,"Cisco Systems, Inc"
+1675,84:3d:c6:0a:1a:04,"Cisco Systems, Inc"
+1676,84:3d:c6:06:1f:04,"Cisco Systems, Inc"
+1677,00:2a:10:20:d5:64,"Cisco Systems, Inc"
+1678,10:be:f5:4d:6c:8c,D-Link International
+1679,00:2a:10:f3:63:a4,"Cisco Systems, Inc"
+1680,00:2a:10:20:d5:6b,"Cisco Systems, Inc"
+1681,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1683,00:18:f8:32:be:c8,"Cisco-Linksys, Llc"
+1684,84:3d:c6:06:1e:84,"Cisco Systems, Inc"
+1685,00:2a:10:20:d5:64,"Cisco Systems, Inc"
+1686,84:3d:c6:06:1e:8b,"Cisco Systems, Inc"
+1687,cc:16:7e:dd:c3:64,"Cisco Systems, Inc"
+1688,00:2a:10:f4:c1:04,"Cisco Systems, Inc"
+1689,84:3d:c6:06:1f:0b,"Cisco Systems, Inc"
+1690,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1692,00:2a:10:f3:b8:c4,"Cisco Systems, Inc"
+1693,84:3d:c6:0a:1a:0b,"Cisco Systems, Inc"
+1694,84:3d:c6:06:1f:04,"Cisco Systems, Inc"
+1696,00:2a:10:1b:14:24,"Cisco Systems, Inc"
+1697,00:2a:10:20:d5:6b,"Cisco Systems, Inc"
+1698,00:2a:10:f4:c1:0b,"Cisco Systems, Inc"
+1699,00:2a:10:f4:c0:44,"Cisco Systems, Inc"
+1700,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1701,00:2a:10:11:3b:c4,"Cisco Systems, Inc"
+1702,84:3d:c6:06:1e:8b,"Cisco Systems, Inc"
+1703,00:2a:10:f4:b8:14,"Cisco Systems, Inc"
+1704,00:2a:10:f4:b8:16,"Cisco Systems, Inc"
+1705,00:2a:10:1b:14:2b,"Cisco Systems, Inc"
+1706,84:3d:c6:06:1f:0b,"Cisco Systems, Inc"
+1707,00:18:f8:32:be:c8,"Cisco-Linksys, Llc"
+1708,00:2a:10:f4:c1:04,"Cisco Systems, Inc"
+1709,00:2a:10:f3:b8:cb,"Cisco Systems, Inc"
+1710,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1711,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1712,84:3d:c6:29:8a:7b,"Cisco Systems, Inc"
+1713,00:2a:10:f4:c0:4b,"Cisco Systems, Inc"
+1714,00:2a:10:f4:c0:44,"Cisco Systems, Inc"
+1715,84:3d:c6:29:8a:74,"Cisco Systems, Inc"
+1716,00:f2:8b:27:0e:94,"Cisco Systems, Inc"
+1717,84:3d:c6:06:21:fb,"Cisco Systems, Inc"
+1718,84:3d:c6:06:21:fb,"Cisco Systems, Inc"
+1719,00:2a:10:1a:ff:84,"Cisco Systems, Inc"
+1720,00:2a:10:1a:ff:8b,"Cisco Systems, Inc"
+1721,6c:19:8f:07:87:ba,D-Link International
+1722,84:3d:c6:06:27:14,"Cisco Systems, Inc"
+1724,00:2a:10:f4:a8:54,"Cisco Systems, Inc"
+1725,00:2a:10:f4:bd:14,"Cisco Systems, Inc"
+1726,3c:46:d8:82:28:51,"TP-Link Tech Co, Ltd"
+1727,00:2a:10:f4:a8:5b,"Cisco Systems, Inc"
+1728,6c:19:8f:07:87:ba,D-Link International
+1729,84:3d:c6:06:12:eb,"Cisco Systems, Inc"
+1730,84:3d:c6:06:21:f4,"Cisco Systems, Inc"
+1731,00:2a:10:f4:a8:54,"Cisco Systems, Inc"
+1732,84:3d:c6:06:12:e4,"Cisco Systems, Inc"
+1733,00:2a:10:f4:a8:5b,"Cisco Systems, Inc"
+1734,c0:ee:fb:e1:af:ba,OnePlus Tech (Shenzhen) Ltd
+1735,00:c8:8b:60:87:0b,"Cisco Systems, Inc"
+1736,00:c8:8b:60:87:04,"Cisco Systems, Inc"
+1737,c0:ee:fb:e1:af:ba,OnePlus Tech (Shenzhen) Ltd
+1738,cc:16:7e:dd:9b:64,"Cisco Systems, Inc"
+1739,cc:16:7e:dd:9b:6b,"Cisco Systems, Inc"
+1740,00:c8:8b:45:a1:3b,"Cisco Systems, Inc"
+1741,00:c8:8b:45:a0:34,"Cisco Systems, Inc"
+1742,00:c8:8b:45:a1:34,"Cisco Systems, Inc"
+1744,00:c8:8b:45:a0:34,"Cisco Systems, Inc"
+1746,00:c8:8b:26:51:6b,"Cisco Systems, Inc"
+1747,00:25:42:82:96:55,Pittasoft
+1748,f0:0f:ec:d8:12:c7,"Huawei Tech Co, Ltd"
+1749,00:a0:57:16:82:c0,Lancom Systems GmbH
+1750,c0:ee:fb:d5:17:57,OnePlus Tech (Shenzhen) Ltd
+1752,b0:c5:54:3e:38:68,D-Link International
+1754,a0:e0:af:a9:30:45,"Cisco Systems, Inc"
+1755,00:a0:57:16:81:c5,Lancom Systems GmbH
+1756,00:a0:57:16:83:28,Lancom Systems GmbH
+1760,a0:e0:af:87:a8:25,"Cisco Systems, Inc"
+1763,a0:e0:af:87:b0:05,"Cisco Systems, Inc"
+1765,a0:e0:af:87:b0:05,"Cisco Systems, Inc"
+1766,28:6f:7f:3a:2f:e5,"Cisco Systems, Inc"
+1767,04:18:d6:82:1e:3c,Ubiquiti Networks Inc
+1768,00:2a:10:13:7e:bb,"Cisco Systems, Inc"
+1770,00:2a:10:13:7e:b4,"Cisco Systems, Inc"
+1771,a8:c8:3a:cb:2f:41,"Huawei Tech Co, Ltd"
+1772,00:2a:10:1b:11:44,"Cisco Systems, Inc"
+1773,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+1775,00:a0:57:16:81:b6,Lancom Systems GmbH
+1777,00:20:a6:5b:98:e4,Proxim Wireless
+1779,00:2a:10:20:d5:c4,"Cisco Systems, Inc"
+1780,00:a0:57:16:81:c5,Lancom Systems GmbH
+1782,a4:56:30:47:0d:54,"Cisco Systems, Inc"
+1783,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+1784,00:a0:57:16:83:28,Lancom Systems GmbH
+1786,00:2a:10:20:c5:eb,"Cisco Systems, Inc"
+1788,54:78:1a:aa:8c:e4,"Cisco Systems, Inc"
+1789,00:2a:10:20:d5:cb,"Cisco Systems, Inc"
+1793,00:2a:10:1b:11:44,"Cisco Systems, Inc"
+1794,04:18:d6:82:1e:3c,Ubiquiti Networks Inc
+1795,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+1797,00:20:a6:5b:98:e4,Proxim Wireless
+1799,00:2a:10:20:c5:e4,"Cisco Systems, Inc"
+1800,dc:9f:db:1c:c2:73,Ubiquiti Networks Inc
+1804,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+1808,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+1810,00:20:a6:5b:98:e3,Proxim Wireless
+1811,04:18:d6:82:1e:3c,Ubiquiti Networks Inc
+1812,00:20:a6:5b:98:e4,Proxim Wireless
+1813,00:2a:10:20:c5:e4,"Cisco Systems, Inc"
+1815,dc:9f:db:1c:c2:73,Ubiquiti Networks Inc
+1816,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+1820,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+1821,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+1822,00:20:a6:5b:98:e4,Proxim Wireless
+1823,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+1824,dc:9f:db:1c:c4:91,Ubiquiti Networks Inc
+1827,00:20:a6:5b:98:e3,Proxim Wireless
+1829,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+1831,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+1832,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+1833,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+1836,00:20:a6:5b:98:e4,Proxim Wireless
+1839,00:2a:10:f3:9c:af,"Cisco Systems, Inc"
+1841,78:8a:20:d4:61:01,Ubiquiti Networks Inc
+1843,00:2a:10:f3:9c:af,"Cisco Systems, Inc"
+1844,94:f6:65:0e:a6:08,Ruckus Wireless
+1845,44:d9:e7:03:11:81,Ubiquiti Networks Inc
+1848,80:2a:a8:55:62:d0,Ubiquiti Networks Inc
+1849,e4:aa:5d:14:90:0b,"Cisco Systems, Inc"
+1850,00:c8:8b:11:76:eb,"Cisco Systems, Inc"
+1851,44:d9:e7:91:e0:af,Ubiquiti Networks Inc
+1854,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+1855,00:c8:8b:11:76:e4,"Cisco Systems, Inc"
+1856,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+1858,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+1859,00:c8:8b:45:c6:9b,"Cisco Systems, Inc"
+1860,00:c8:8b:45:c6:94,"Cisco Systems, Inc"
+1861,00:a0:57:16:81:b6,Lancom Systems GmbH
+1863,94:f6:65:0e:a6:0c,Ruckus Wireless
+1864,d8:eb:97:a7:38:fa,"TRENDnet, Inc"
+1868,78:8a:20:d4:61:01,Ubiquiti Networks Inc
+1869,94:f6:65:0e:a6:08,Ruckus Wireless
+1870,94:f6:65:0e:a6:0c,Ruckus Wireless
+1871,20:f8:5e:cd:2e:b6,Delta Electronics
+1873,00:c8:8b:11:76:24,"Cisco Systems, Inc"
+1874,00:c8:8b:13:e8:54,"Cisco Systems, Inc"
+1876,fc:5b:39:68:60:6b,"Cisco Systems, Inc"
+1878,94:f6:65:0e:a6:08,Ruckus Wireless
+1879,78:8a:20:d4:61:01,Ubiquiti Networks Inc
+1880,fc:5b:39:68:60:64,"Cisco Systems, Inc"
+1881,00:c8:8b:11:76:24,"Cisco Systems, Inc"
+1883,78:8a:20:d5:61:01,Ubiquiti Networks Inc
+1885,00:c8:8b:1c:66:c4,"Cisco Systems, Inc"
+1887,78:8a:20:d5:61:01,Ubiquiti Networks Inc
+1888,00:c8:8b:45:bf:64,"Cisco Systems, Inc"
+1889,00:c8:8b:1c:66:cb,"Cisco Systems, Inc"
+1891,00:c8:8b:45:bf:6b,"Cisco Systems, Inc"
+1892,80:2a:a8:54:62:d0,Ubiquiti Networks Inc
+1893,00:19:5b:dd:67:58,D-Link Corp
+1894,84:3d:c6:06:05:f0,"Cisco Systems, Inc"
+1895,00:25:42:82:96:55,Pittasoft
+1896,34:a8:4e:ba:92:44,"Cisco Systems, Inc"
+1897,00:c8:8b:11:76:e4,"Cisco Systems, Inc"
+1898,6c:b0:ce:f7:be:62,Netgear
+1899,00:24:21:44:c3:38,"Micro-Star Int'L Co, Ltd"
+1900,14:5f:94:a0:93:cc,"Huawei Tech Co, Ltd"
+1901,94:f6:65:0e:a6:08,Ruckus Wireless
+1902,78:8a:20:d4:61:01,Ubiquiti Networks Inc
+1906,c0:a0:bb:f5:19:14,D-Link International
+1907,b0:4e:26:46:9b:6c,"TP-Link Tech Co, Ltd"
+1910,bc:25:e0:88:9b:c0,"Huawei Tech Co, Ltd"
+1911,f0:9f:c2:f1:db:e0,Ubiquiti Networks Inc
+1912,38:d5:47:e3:8b:fc,ASUSTek Computer Inc
+1913,f0:9f:c2:7a:22:1f,Ubiquiti Networks Inc
+1914,b8:3a:08:18:21:55,"Tenda Tech Co, LtdDongguan branch"
+1915,f0:9f:c2:f1:e1:14,Ubiquiti Networks Inc
+1916,e4:f0:42:d4:0e:8c,"Google, Inc"
+1917,1c:5f:2b:fd:58:78,D-Link International
+1918,94:46:96:2b:89:2e,BaudTec Corp
+1919,8c:3b:ad:13:94:f3,Netgear
+1920,94:77:2b:92:9e:90,"Huawei Tech Co, Ltd"
+1921,b0:4e:26:46:9b:6c,"TP-Link Tech Co, Ltd"
+1922,a0:ab:1b:87:87:10,D-Link International
+1923,a8:9d:21:da:29:fb,"Cisco Systems, Inc"
+1924,10:7b:44:99:44:dc,ASUSTek Computer Inc
+1925,f0:9f:c2:f1:dd:ee,Ubiquiti Networks Inc
+1926,70:4f:57:22:57:53,"TP-Link Tech Co, Ltd"
+1927,00:1e:58:3d:3e:a7,D-Link Corp
+1928,c0:a0:bb:f5:19:16,D-Link International
+1929,f0:9f:c2:f1:e0:0e,Ubiquiti Networks Inc
+1930,94:77:2b:92:9e:90,"Huawei Tech Co, Ltd"
+1931,d4:6e:0e:6d:33:96,"TP-Link Tech Co, Ltd"
+1932,b8:3a:08:18:21:51,"Tenda Tech Co, LtdDongguan branch"
+1933,f0:9f:c2:f1:db:5d,Ubiquiti Networks Inc
+1934,d4:6e:0e:e6:ab:52,"TP-Link Tech Co, Ltd"
+1935,10:7b:44:99:44:d8,ASUSTek Computer Inc
+1936,b0:39:56:0b:ae:c5,Netgear
+1937,88:d7:f6:6c:80:80,ASUSTek Computer Inc
+1938,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+1939,f0:9f:c2:f1:db:e0,Ubiquiti Networks Inc
+1940,10:7b:44:99:44:dc,ASUSTek Computer Inc
+1941,f0:9f:c2:f1:e3:89,Ubiquiti Networks Inc
+1942,50:c7:bf:89:5e:7c,"TP-Link Tech Co, Ltd"
+1943,00:26:5a:f9:98:50,D-Link Corp
+1944,c0:a0:bb:f5:19:14,D-Link International
+1945,d4:6e:0e:e6:ab:52,"TP-Link Tech Co, Ltd"
+1946,f0:9f:c2:f1:dd:b0,Ubiquiti Networks Inc
+1947,00:19:70:33:a4:3b,"Z-Com, Inc"
+1948,50:c7:bf:b6:90:92,"TP-Link Tech Co, Ltd"
+1949,00:24:b2:5b:1b:e0,Netgear
+1950,48:f8:b3:f2:37:e0,"Cisco-Linksys, Llc"
+1951,b0:39:56:0b:ae:c5,Netgear
+1952,58:6d:8f:d8:59:d1,"Cisco-Linksys, Llc"
+1953,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+1954,9c:3d:cf:41:fe:f0,Netgear
+1955,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+1956,38:d5:47:e3:8b:f8,ASUSTek Computer Inc
+1957,88:d7:f6:6c:80:84,ASUSTek Computer Inc
+1958,f0:9f:c2:7a:22:1f,Ubiquiti Networks Inc
+1959,c8:d3:a3:05:00:20,D-Link International
+1960,58:6d:8f:d8:59:d2,"Cisco-Linksys, Llc"
+1961,2c:56:dc:4f:ff:ac,ASUSTek Computer Inc
+1962,70:4f:57:24:2c:68,"TP-Link Tech Co, Ltd"
+1963,10:da:43:1c:96:d3,Netgear
+1964,20:cf:30:cd:f9:34,ASUSTek Computer Inc
+1965,50:c7:bf:23:99:90,"TP-Link Tech Co, Ltd"
+1966,d4:6e:0e:57:3d:d6,"TP-Link Tech Co, Ltd"
+1967,b8:3a:08:18:21:51,"Tenda Tech Co, LtdDongguan branch"
+1968,38:d5:47:e3:8b:fc,ASUSTek Computer Inc
+1969,00:24:b2:5b:1b:e0,Netgear
+1970,08:02:8e:e2:8e:e6,Netgear
+1971,9c:3d:cf:41:fe:ef,Netgear
+1973,f0:9f:c2:f1:df:a1,Ubiquiti Networks Inc
+1974,08:02:8e:99:d8:60,Netgear
+1975,58:6d:8f:51:28:f2,"Cisco-Linksys, Llc"
+1976,b8:a3:86:50:c5:7a,D-Link International
+1977,a0:04:60:9f:a5:20,Netgear
+1978,50:c7:bf:b6:91:60,"TP-Link Tech Co, Ltd"
+1979,dc:fe:18:3e:fa:5b,"TP-Link Tech Co, Ltd"
+1980,d4:6e:0e:e6:ab:52,"TP-Link Tech Co, Ltd"
+1981,88:d7:f6:6c:80:80,ASUSTek Computer Inc
+1982,9c:3d:cf:41:fe:f0,Netgear
+1983,38:d5:47:e3:8b:f8,ASUSTek Computer Inc
+1984,c8:d3:a3:05:00:20,D-Link International
+1985,70:4f:57:22:57:53,"TP-Link Tech Co, Ltd"
+1986,58:6d:8f:d8:59:d1,"Cisco-Linksys, Llc"
+1987,e4:f0:42:d4:0e:8c,"Google, Inc"
+1988,8c:3b:ad:13:94:f3,Netgear
+1989,40:9b:cd:43:bd:cf,D-Link International
+1990,08:02:8e:e2:8e:e8,Netgear
+1991,20:cf:30:cd:f9:34,ASUSTek Computer Inc
+1992,c0:a0:bb:e3:ec:34,D-Link International
+1993,58:8b:f3:99:fc:30,Zyxel Communications Corp
+1994,88:d7:f6:6c:80:84,ASUSTek Computer Inc
+1995,00:1e:58:3d:3e:a7,D-Link Corp
+1996,04:a1:51:27:23:bd,Netgear
+1997,24:7f:20:03:5f:a6,Sagemcom Broadband Sas
+1998,04:a1:51:31:d0:f1,Netgear
+1999,1c:5f:2b:fd:58:78,D-Link International
+2000,50:c7:bf:23:92:fc,"TP-Link Tech Co, Ltd"
+2001,d4:61:2e:76:9c:80,"Huawei Tech Co, Ltd"
+2002,88:1f:a1:45:35:74,"Apple, Inc"
+2003,00:26:5a:f9:98:50,D-Link Corp
+2005,b8:3a:08:18:21:51,"Tenda Tech Co, LtdDongguan branch"
+2006,88:d7:f6:6c:80:80,ASUSTek Computer Inc
+2007,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+2008,9c:3d:cf:41:fe:f0,Netgear
+2009,34:21:09:24:fe:18,Jensen Scandinavia AS
+2010,b8:3a:08:18:21:55,"Tenda Tech Co, LtdDongguan branch"
+2011,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+2012,38:d5:47:e3:8b:f8,ASUSTek Computer Inc
+2013,88:d7:f6:6c:80:84,ASUSTek Computer Inc
+2014,58:6d:8f:d8:59:d1,"Cisco-Linksys, Llc"
+2015,70:4f:57:c6:c5:84,"TP-Link Tech Co, Ltd"
+2016,74:da:da:35:9e:c1,D-Link International
+2017,30:5a:3a:70:ac:30,ASUSTek Computer Inc
+2018,ec:8e:b5:b8:d1:47,Hewlett Packard
+2019,34:21:09:24:fe:18,Jensen Scandinavia AS
+2020,b8:3a:08:18:21:55,"Tenda Tech Co, LtdDongguan branch"
+2021,70:4f:57:c6:c5:84,"TP-Link Tech Co, Ltd"
+2022,00:1e:58:3d:3e:a7,D-Link Corp
+2023,88:1f:a1:45:35:74,"Apple, Inc"
+2024,f0:9f:c2:f1:df:2c,Ubiquiti Networks Inc
+2025,88:1f:a1:45:35:75,"Apple, Inc"
+2026,f0:9f:c2:f1:de:8c,Ubiquiti Networks Inc
+2027,34:21:09:31:f3:8f,Jensen Scandinavia AS
+2028,30:b5:c2:36:ec:75,"TP-Link Tech Co, Ltd"
+2029,00:19:70:34:4d:1e,"Z-Com, Inc"
+2030,bc:ee:7b:c4:c4:e8,ASUSTek Computer Inc
+2031,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+2032,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+2033,00:1e:58:3d:3e:a7,D-Link Corp
+2034,00:26:5a:f9:98:50,D-Link Corp
+2035,8c:3b:ad:13:94:f3,Netgear
+2036,34:21:09:31:f3:8f,Jensen Scandinavia AS
+2037,00:19:70:34:4d:1e,"Z-Com, Inc"
+2038,30:5a:3a:70:ac:34,ASUSTek Computer Inc
+2039,f0:9f:c2:f1:e3:89,Ubiquiti Networks Inc
+2040,74:da:da:35:9e:c3,D-Link International
+2041,30:5a:3a:70:ac:30,ASUSTek Computer Inc
+2042,80:3f:5d:58:6e:d8,Winstars Tech Ltd
+2043,1c:b7:2c:c1:44:70,ASUSTek Computer Inc
+2044,48:f8:b3:f2:37:e0,"Cisco-Linksys, Llc"
+2045,1c:5f:2b:fd:58:78,D-Link International
+2046,00:26:5a:f9:98:50,D-Link Corp
+2047,30:5a:3a:70:ac:34,ASUSTek Computer Inc
+2048,74:da:da:35:9e:c3,D-Link International
+2049,30:5a:3a:70:ac:30,ASUSTek Computer Inc
+2050,94:46:96:2b:89:2e,BaudTec Corp
+2051,1c:5f:2b:fd:58:7a,D-Link International
+2052,74:da:da:35:9e:c1,D-Link International
+2053,d4:6e:0e:3f:b7:72,"TP-Link Tech Co, Ltd"
+2054,50:c7:bf:16:69:80,"TP-Link Tech Co, Ltd"
+2055,00:26:5a:b2:1b:d0,D-Link Corp
+2056,34:21:09:24:fe:18,Jensen Scandinavia AS
+2057,74:da:da:35:9e:c1,D-Link International
+2058,d4:6e:0e:e6:6a:4e,"TP-Link Tech Co, Ltd"
+2059,6c:59:40:99:92:ac,"Mercury Communication Tech Co, Ltd"
+2062,f0:9f:c2:f1:de:ac,Ubiquiti Networks Inc
+2063,f0:9f:c2:f1:db:5d,Ubiquiti Networks Inc
+2064,d4:6e:0e:36:de:45,"TP-Link Tech Co, Ltd"
+2065,88:1f:a1:45:35:74,"Apple, Inc"
+2066,f0:9f:c2:f1:db:e0,Ubiquiti Networks Inc
+2067,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+2068,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+2069,10:7b:44:99:44:d8,ASUSTek Computer Inc
+2070,58:6d:8f:d8:59:d1,"Cisco-Linksys, Llc"
+2071,38:d5:47:e3:8b:f8,ASUSTek Computer Inc
+2072,38:d5:47:e3:8b:fc,ASUSTek Computer Inc
+2073,9c:3d:cf:41:fe:f0,Netgear
+2074,9c:3d:cf:41:fe:ef,Netgear
+2076,70:4f:57:22:57:52,"TP-Link Tech Co, Ltd"
+2077,50:c7:bf:23:92:fc,"TP-Link Tech Co, Ltd"
+2079,50:c7:bf:89:5e:7c,"TP-Link Tech Co, Ltd"
+2080,f0:9f:c2:f1:e4:16,Ubiquiti Networks Inc
+2081,00:1f:1f:2a:12:8c,Edimax Tech Co Ltd
+2082,50:c7:bf:8c:26:79,"TP-Link Tech Co, Ltd"
+2084,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+2085,58:6d:8f:d8:59:d1,"Cisco-Linksys, Llc"
+2086,48:f8:b3:f2:37:e1,"Cisco-Linksys, Llc"
+2087,48:f8:b3:f2:37:e0,"Cisco-Linksys, Llc"
+2088,58:6d:8f:51:28:f2,"Cisco-Linksys, Llc"
+2089,20:cf:30:cd:f9:34,ASUSTek Computer Inc
+2091,f0:9f:c2:f1:df:a1,Ubiquiti Networks Inc
+2092,48:f8:b3:f2:37:e1,"Cisco-Linksys, Llc"
+2093,c0:a0:bb:e3:ec:32,D-Link International
+2094,a4:2b:b0:e9:f7:8d,"TP-Link Tech Co, Ltd"
+2095,50:64:2b:7c:3c:83,"Xiaomi Electronics, Co, Ltd"
+2096,84:c9:b2:aa:0c:f4,D-Link International
+2097,58:6d:8f:d8:59:d2,"Cisco-Linksys, Llc"
+2098,10:7b:44:99:44:d8,ASUSTek Computer Inc
+2100,f0:9f:c2:f1:e0:0e,Ubiquiti Networks Inc
+2101,10:7b:44:b5:b0:0c,ASUSTek Computer Inc
+2102,48:f8:b3:f2:37:e0,"Cisco-Linksys, Llc"
+2103,10:7b:44:99:44:d8,ASUSTek Computer Inc
+2104,48:f8:b3:f2:37:e1,"Cisco-Linksys, Llc"
+2105,f0:9f:c2:f1:db:5d,Ubiquiti Networks Inc
+2106,10:7b:44:99:44:dc,ASUSTek Computer Inc
+2107,f0:9f:c2:f1:e1:14,Ubiquiti Networks Inc
+2108,f0:9f:c2:f1:e1:33,Ubiquiti Networks Inc
+2111,70:4f:57:24:2c:68,"TP-Link Tech Co, Ltd"
+2112,dc:fe:18:3e:fa:5b,"TP-Link Tech Co, Ltd"
+2113,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+2114,d4:6e:0e:e6:ab:52,"TP-Link Tech Co, Ltd"
+2115,f0:9f:c2:f1:db:5d,Ubiquiti Networks Inc
+2116,f0:9f:c2:f1:e3:89,Ubiquiti Networks Inc
+2117,b0:4e:26:46:9b:6b,"TP-Link Tech Co, Ltd"
+2118,74:ea:3a:d3:ab:62,"TP-Link Tech Co, Ltd"
+2119,e4:6f:13:f9:4e:ec,D-Link International
+2121,c0:a0:bb:f5:19:14,D-Link International
+2122,b0:39:56:0b:ae:c5,Netgear
+2123,b0:4e:26:46:9b:6b,"TP-Link Tech Co, Ltd"
+2124,c0:a0:bb:f5:19:16,D-Link International
+2125,d4:6e:0e:6d:33:96,"TP-Link Tech Co, Ltd"
+2126,a8:9d:21:da:29:fb,"Cisco Systems, Inc"
+2127,b0:39:56:0b:ae:c7,Netgear
+2128,f0:9f:c2:f1:e4:16,Ubiquiti Networks Inc
+2129,ac:07:5f:61:d6:00,"Huawei Tech Co, Ltd"
+2130,74:da:38:cd:0c:79,Edimax Tech Co Ltd
+2131,ac:07:5f:61:d5:fe,"Huawei Tech Co, Ltd"
+2132,9c:3d:cf:cb:ef:70,Netgear
+2133,94:77:2b:92:9e:90,"Huawei Tech Co, Ltd"
+2134,b0:4e:26:46:9b:6c,"TP-Link Tech Co, Ltd"
+2135,b0:4e:26:46:9b:6b,"TP-Link Tech Co, Ltd"
+2136,d4:6e:0e:6d:33:96,"TP-Link Tech Co, Ltd"
+2137,a0:ab:1b:87:87:10,D-Link International
+2138,ac:07:5f:61:d5:fe,"Huawei Tech Co, Ltd"
+2139,10:da:43:1c:96:d3,Netgear
+2140,1c:5f:2b:10:da:7c,D-Link International
+2141,bc:25:e0:88:9b:c0,"Huawei Tech Co, Ltd"
+2142,d4:6e:0e:6d:33:95,"TP-Link Tech Co, Ltd"
+2143,bc:25:e0:be:37:24,"Huawei Tech Co, Ltd"
+2144,10:7b:44:b5:ad:88,ASUSTek Computer Inc
+2145,a0:04:60:3d:04:67,Netgear
+2146,b0:39:56:0b:ae:c5,Netgear
+2147,ac:07:5f:61:d5:fe,"Huawei Tech Co, Ltd"
+2148,bc:25:e0:88:9b:c0,"Huawei Tech Co, Ltd"
+2149,10:7b:44:b5:ad:88,ASUSTek Computer Inc
+2150,74:ea:3a:d3:ab:62,"TP-Link Tech Co, Ltd"
+2151,00:26:5a:b2:1b:d0,D-Link Corp
+2152,d4:6e:0e:3f:b7:72,"TP-Link Tech Co, Ltd"
+2153,5c:d9:98:e5:4e:10,D-Link Corp
+2154,9c:3d:cf:cb:ef:70,Netgear
+2155,34:21:09:31:fa:af,Jensen Scandinavia AS
+2156,00:26:5a:b2:1b:d0,D-Link Corp
+2157,9c:3d:cf:01:1a:83,Netgear
+2158,9c:3d:cf:01:1a:82,Netgear
+2159,d4:6e:0e:e6:6a:4e,"TP-Link Tech Co, Ltd"
+2160,d4:6e:0e:36:de:45,"TP-Link Tech Co, Ltd"
+2161,1c:b7:2c:c1:44:70,ASUSTek Computer Inc
+2162,50:c7:bf:16:69:80,"TP-Link Tech Co, Ltd"
+2163,50:c7:bf:16:69:80,"TP-Link Tech Co, Ltd"
+2164,94:46:96:2b:89:2e,BaudTec Corp
+2165,ec:8e:b5:b8:d1:47,Hewlett Packard
+2166,80:3f:5d:58:6e:d8,Winstars Tech Ltd
+2167,bc:ee:7b:c4:c4:e8,ASUSTek Computer Inc
+2168,84:3d:c6:0a:07:a4,"Cisco Systems, Inc"
+2169,a4:2b:8c:02:f5:20,Netgear
+2170,80:ea:96:f3:95:36,"Apple, Inc"
+2171,d4:6e:0e:36:de:45,"TP-Link Tech Co, Ltd"
+2172,00:2a:10:f4:bd:d4,"Cisco Systems, Inc"
+2174,84:3d:c6:37:30:64,"Cisco Systems, Inc"
+2175,84:3d:c6:7a:2c:54,"Cisco Systems, Inc"
+2176,84:3d:c6:06:0f:d4,"Cisco Systems, Inc"
+2177,84:3d:c6:0a:1a:54,"Cisco Systems, Inc"
+2178,00:2a:10:13:7c:14,"Cisco Systems, Inc"
+2179,00:78:88:99:5f:fb,"Cisco Systems, Inc"
+2180,00:2a:10:1b:00:04,"Cisco Systems, Inc"
+2181,00:78:88:ad:a5:04,"Cisco Systems, Inc"
+2182,00:78:88:92:97:54,"Cisco Systems, Inc"
+2183,00:2a:10:f4:be:14,"Cisco Systems, Inc"
+2185,00:2a:10:1b:0f:44,"Cisco Systems, Inc"
+2186,00:2a:10:11:35:e4,"Cisco Systems, Inc"
+2187,00:78:88:92:96:64,"Cisco Systems, Inc"
+2188,00:2a:10:f4:aa:a4,"Cisco Systems, Inc"
+2189,00:78:88:07:86:64,"Cisco Systems, Inc"
+2190,00:2a:10:1b:0f:4b,"Cisco Systems, Inc"
+2191,00:2a:10:1b:00:0b,"Cisco Systems, Inc"
+2192,00:78:88:92:97:54,"Cisco Systems, Inc"
+2193,00:2a:10:f4:be:14,"Cisco Systems, Inc"
+2194,00:2a:10:f4:aa:a4,"Cisco Systems, Inc"
+2195,00:78:88:aa:b2:f4,"Cisco Systems, Inc"
+2196,00:78:88:aa:b2:fb,"Cisco Systems, Inc"
+2197,00:78:88:99:65:74,"Cisco Systems, Inc"
+2198,00:2a:10:f3:ad:a4,"Cisco Systems, Inc"
+2199,00:78:88:99:59:b4,"Cisco Systems, Inc"
+2200,00:2a:10:f4:aa:ab,"Cisco Systems, Inc"
+2201,84:3d:c6:0a:16:64,"Cisco Systems, Inc"
+2202,00:78:88:92:97:5b,"Cisco Systems, Inc"
+2203,00:78:88:99:59:bb,"Cisco Systems, Inc"
+2204,00:78:88:99:5f:f4,"Cisco Systems, Inc"
+2205,00:2a:10:f3:ae:24,"Cisco Systems, Inc"
+2206,00:2a:10:f3:ad:ab,"Cisco Systems, Inc"
+2209,00:78:88:aa:b2:f4,"Cisco Systems, Inc"
+2210,00:78:88:99:65:74,"Cisco Systems, Inc"
+2211,00:78:88:a4:bb:84,"Cisco Systems, Inc"
+2212,00:78:88:92:9a:e4,"Cisco Systems, Inc"
+2213,00:78:88:aa:b1:cb,"Cisco Systems, Inc"
+2214,b8:08:d7:d4:91:5a,"Huawei Tech Co, Ltd"
+2215,84:db:ac:3e:bb:0b,"Huawei Tech Co, Ltd"
+2216,fc:5b:39:54:0e:54,"Cisco Systems, Inc"
+2217,b8:08:d7:d4:91:58,"Huawei Tech Co, Ltd"
+2218,2c:d0:2d:e2:6d:6b,"Cisco Systems, Inc"
+2220,0c:8d:db:65:83:32,Cisco Meraki
+2223,fc:5b:39:54:0e:5b,"Cisco Systems, Inc"
+2229,b8:08:d7:d4:91:58,"Huawei Tech Co, Ltd"
+2230,00:2c:c8:87:79:8b,"Cisco Systems, Inc"
+2231,00:2c:c8:87:79:6b,"Cisco Systems, Inc"
+2232,2c:d0:2d:91:65:44,"Cisco Systems, Inc"
+2233,54:c9:df:1e:bc:fa,FN-Link Tech Ltd
+2234,0c:8d:db:65:cf:34,Cisco Meraki
+2236,2c:d0:2d:91:65:44,"Cisco Systems, Inc"
+2237,00:27:0d:48:d7:04,"Cisco Systems, Inc"
+2238,00:2c:c8:69:f1:e4,"Cisco Systems, Inc"
+2239,00:2c:c8:87:7e:0b,"Cisco Systems, Inc"
+2242,00:2c:c8:87:79:64,"Cisco Systems, Inc"
+2243,00:2c:c8:87:79:84,"Cisco Systems, Inc"
+2244,2c:d0:2d:e2:6d:64,"Cisco Systems, Inc"
+2245,2c:d0:2d:91:65:4b,"Cisco Systems, Inc"
+2247,00:c8:8b:45:c7:64,"Cisco Systems, Inc"
+2248,a8:9d:21:da:40:4b,"Cisco Systems, Inc"
+2250,00:c8:8b:45:c7:6b,"Cisco Systems, Inc"
+2254,b8:08:d7:d4:91:5a,"Huawei Tech Co, Ltd"
+2255,00:2c:c8:87:79:8b,"Cisco Systems, Inc"
+2256,00:2c:c8:87:79:6b,"Cisco Systems, Inc"
+2257,2c:d0:2d:91:65:4b,"Cisco Systems, Inc"
+2259,a8:9d:21:da:40:4b,"Cisco Systems, Inc"
+2262,00:c8:8b:45:c7:6b,"Cisco Systems, Inc"
+2268,fc:5b:39:68:5d:c4,"Cisco Systems, Inc"
+2269,fc:5b:39:54:0e:8b,"Cisco Systems, Inc"
+2270,00:2a:10:f4:af:f4,"Cisco Systems, Inc"
+2271,28:6c:07:37:cf:54,"Xiaomi Electronics, Co, Ltd"
+2272,28:6c:07:e7:0b:b2,"Xiaomi Electronics, Co, Ltd"
+2273,bc:25:e0:be:37:24,"Huawei Tech Co, Ltd"
+2274,78:4f:43:7b:4c:f2,"Apple, Inc"
+2277,28:6c:07:37:cf:54,"Xiaomi Electronics, Co, Ltd"
+2278,bc:25:e0:be:37:24,"Huawei Tech Co, Ltd"
+2279,a0:04:60:3d:04:67,Netgear
+2280,1c:7e:e5:94:32:6a,D-Link International
+2281,94:46:96:2b:ce:2b,BaudTec Corp
+2282,70:4f:57:da:31:5f,"TP-Link Tech Co, Ltd"
+2283,a4:2b:b0:e9:f7:8d,"TP-Link Tech Co, Ltd"
+2284,a4:2b:b0:e9:f7:8c,"TP-Link Tech Co, Ltd"
+2285,74:da:da:4a:36:b3,D-Link International
+2286,70:4f:57:da:31:5e,"TP-Link Tech Co, Ltd"
+2287,00:1a:2a:97:f7:3e,Arcadyan Tech Corp
+2288,80:3f:5d:5a:88:ab,Winstars Tech Ltd
+2289,28:6c:07:37:cf:54,"Xiaomi Electronics, Co, Ltd"
+2290,28:6c:07:e7:0b:b2,"Xiaomi Electronics, Co, Ltd"
+2292,1c:7e:e5:94:32:6a,D-Link International
+2293,94:46:96:2b:ce:2b,BaudTec Corp
+2294,a0:04:60:3d:04:68,Netgear
+2295,80:37:73:af:4c:10,Netgear
+2296,10:7b:44:3f:5d:18,ASUSTek Computer Inc
+2297,10:7b:44:b5:ad:6c,ASUSTek Computer Inc
+2298,50:c7:bf:c1:55:22,"TP-Link Tech Co, Ltd"
+2299,d4:6e:0e:b4:b8:1a,"TP-Link Tech Co, Ltd"
+2300,e8:fc:af:97:c7:1f,Netgear
+2301,b0:39:56:8b:d1:22,Netgear
+2302,34:21:09:29:c5:34,Jensen Scandinavia AS
+2303,58:8b:f3:99:fc:30,Zyxel Communications Corp
+2304,c8:3a:35:0e:9b:c0,"Tenda Tech Co, Ltd"
+2305,50:64:2b:7c:3c:83,"Xiaomi Electronics, Co, Ltd"
+2308,50:c7:bf:23:99:90,"TP-Link Tech Co, Ltd"
+2309,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2310,34:21:09:31:1b:7f,Jensen Scandinavia AS
+2311,b0:39:56:8b:bf:68,Netgear
+2312,70:4f:57:da:31:5e,"TP-Link Tech Co, Ltd"
+2313,80:37:73:af:4c:10,Netgear
+2314,10:7b:44:3f:5d:18,ASUSTek Computer Inc
+2315,d4:6e:0e:b4:b8:1a,"TP-Link Tech Co, Ltd"
+2316,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2317,10:7b:44:3f:5d:1c,ASUSTek Computer Inc
+2318,dc:ef:09:ff:f8:36,Netgear
+2319,f0:9f:c2:f1:e1:96,Ubiquiti Networks Inc
+2321,50:c7:bf:c1:15:8e,"TP-Link Tech Co, Ltd"
+2322,d8:15:0d:5d:a7:c6,"TP-Link Tech Co, Ltd"
+2323,f0:9f:c2:f1:dd:97,Ubiquiti Networks Inc
+2324,ec:08:6b:fe:97:27,"TP-Link Tech Co, Ltd"
+2325,88:d7:f6:c2:6c:c0,ASUSTek Computer Inc
+2326,28:6c:07:e7:0b:b2,"Xiaomi Electronics, Co, Ltd"
+2327,94:46:96:2b:ce:2b,BaudTec Corp
+2328,70:4f:57:da:31:5f,"TP-Link Tech Co, Ltd"
+2329,10:7b:44:3f:5d:18,ASUSTek Computer Inc
+2330,10:7b:44:b5:ad:6c,ASUSTek Computer Inc
+2331,e8:fc:af:97:c7:1f,Netgear
+2332,50:64:2b:7c:3c:83,"Xiaomi Electronics, Co, Ltd"
+2333,d8:15:0d:5d:a7:c6,"TP-Link Tech Co, Ltd"
+2334,f0:9f:c2:f1:dd:97,Ubiquiti Networks Inc
+2335,f0:9f:c2:f1:de:5d,Ubiquiti Networks Inc
+2336,f0:9f:c2:f1:e0:80,Ubiquiti Networks Inc
+2337,f0:9f:c2:f1:db:64,Ubiquiti Networks Inc
+2338,94:46:96:2b:7d:3b,BaudTec Corp
+2339,68:a8:6d:5f:55:bf,"Raisecom Tech Co, Ltd"
+2340,18:d6:c7:fb:cd:e6,"TP-Link Tech Co, Ltd"
+2341,00:1a:2a:97:f7:3e,Arcadyan Tech Corp
+2342,50:c7:bf:c1:15:8e,"TP-Link Tech Co, Ltd"
+2343,00:24:b2:5b:1b:e0,Netgear
+2344,b0:39:56:8b:cb:7e,Netgear
+2345,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2346,ac:cf:85:95:4f:2a,"Huawei Tech Co, Ltd"
+2347,34:ce:00:2f:bb:b2,"Xiaomi Electronics, Co, Ltd"
+2348,c8:3a:35:0e:9b:c0,"Tenda Tech Co, Ltd"
+2349,50:64:2b:7c:3c:83,"Xiaomi Electronics, Co, Ltd"
+2350,d8:15:0d:5d:a7:c6,"TP-Link Tech Co, Ltd"
+2351,ac:cf:85:95:4f:2a,"Huawei Tech Co, Ltd"
+2352,60:a4:4c:27:8d:80,ASUSTek Computer Inc
+2353,20:6b:e7:02:5e:00,"TP-Link Tech Co, Ltd"
+2354,18:d6:c7:fb:cd:e6,"TP-Link Tech Co, Ltd"
+2355,b0:6e:bf:d7:d8:64,ASUSTek Computer Inc
+2356,58:ef:68:b8:b0:c5,Belkin International Inc
+2357,14:91:82:a9:fd:1a,Belkin International Inc
+2358,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2360,00:24:b2:5b:1b:e0,Netgear
+2361,b0:39:56:8b:cb:7e,Netgear
+2362,14:91:82:a9:fd:1a,Belkin International Inc
+2363,84:c9:b2:aa:0c:f4,D-Link International
+2364,74:da:da:35:bc:0a,D-Link International
+2365,b0:6e:bf:4c:c9:a8,ASUSTek Computer Inc
+2366,10:7b:44:b5:b0:0c,ASUSTek Computer Inc
+2367,70:4f:57:b6:14:b0,"TP-Link Tech Co, Ltd"
+2368,50:c7:bf:1f:be:90,"TP-Link Tech Co, Ltd"
+2369,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2370,90:f6:52:97:73:38,"TP-Link Tech Co, Ltd"
+2371,20:e5:2a:50:ba:12,Netgear
+2372,10:7b:44:b5:b0:0c,ASUSTek Computer Inc
+2375,ac:cf:85:95:4f:2a,"Huawei Tech Co, Ltd"
+2376,74:da:da:35:bc:0a,D-Link International
+2377,74:da:da:35:bc:0c,D-Link International
+2378,d4:6e:0e:57:3d:d6,"TP-Link Tech Co, Ltd"
+2379,f0:9f:c2:f1:e1:2a,Ubiquiti Networks Inc
+2380,4c:9e:ff:a5:a9:60,Zyxel Communications Corp
+2381,00:1d:73:2d:81:5a,Buffalo.Inc
+2382,4c:9e:ff:a5:a9:60,Zyxel Communications Corp
+2383,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2384,50:bd:5f:76:38:be,"TP-Link Tech Co, Ltd"
+2385,10:7b:44:b5:b0:0c,ASUSTek Computer Inc
+2386,c0:3f:0e:78:36:9a,Netgear
+2387,f0:5c:19:96:98:c2,"Aruba, a Hewlett Packard Enterprise Co"
+2388,40:e3:d6:b6:18:42,"Aruba, a Hewlett Packard Enterprise Co"
+2389,bc:25:e0:be:37:24,"Huawei Tech Co, Ltd"
+2391,a0:04:60:3d:04:68,Netgear
+2392,c4:e9:84:b5:f5:ba,"TP-Link Tech Co, Ltd"
+2393,6c:3b:6b:31:39:07,Routerboard.com
+2394,80:37:73:af:4c:10,Netgear
+2395,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2396,dc:ef:09:ff:f8:36,Netgear
+2398,40:e3:d6:b6:18:d2,"Aruba, a Hewlett Packard Enterprise Co"
+2399,40:e3:d6:b6:18:c2,"Aruba, a Hewlett Packard Enterprise Co"
+2400,b0:39:56:92:50:9c,Netgear
+2401,40:e3:d6:b2:f5:42,"Aruba, a Hewlett Packard Enterprise Co"
+2402,c8:94:bb:0f:db:c0,"Huawei Tech Co, Ltd"
+2403,d4:6e:0e:b4:b8:1a,"TP-Link Tech Co, Ltd"
+2404,c0:3f:0e:78:36:9a,Netgear
+2405,f0:5c:19:96:98:c2,"Aruba, a Hewlett Packard Enterprise Co"
+2406,38:4b:76:01:56:29,Airtame ApS
+2407,74:da:da:35:bd:ce,D-Link International
+2410,58:ef:68:b8:b0:c5,Belkin International Inc
+2411,c4:e9:84:b5:f5:ba,"TP-Link Tech Co, Ltd"
+2412,f4:28:53:7f:58:c6,Zioncom Electronics (Shenzhen) Ltd
+2413,9c:3d:cf:41:fe:f0,Netgear
+2414,f4:28:53:10:21:10,Zioncom Electronics (Shenzhen) Ltd
+2416,b0:39:56:92:50:9c,Netgear
+2417,80:37:73:af:4c:10,Netgear
+2418,34:21:09:24:fe:18,Jensen Scandinavia AS
+2419,1c:7e:e5:94:32:6a,D-Link International
+2420,2c:56:dc:4f:ff:a9,ASUSTek Computer Inc
+2421,2c:56:dc:4f:ff:a8,ASUSTek Computer Inc
+2422,38:d5:47:e3:8b:f8,ASUSTek Computer Inc
+2423,b0:39:56:8b:d1:22,Netgear
+2424,70:4f:57:1b:5e:54,"TP-Link Tech Co, Ltd"
+2425,50:c7:bf:c1:55:22,"TP-Link Tech Co, Ltd"
+2426,14:a5:1a:1e:f6:10,"Huawei Tech Co, Ltd"
+2428,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2429,b0:6e:bf:d7:d8:64,ASUSTek Computer Inc
+2430,b0:39:56:92:50:9c,Netgear
+2431,94:46:96:2b:7d:3b,BaudTec Corp
+2432,80:37:73:af:4c:10,Netgear
+2433,70:4f:57:1b:5e:54,"TP-Link Tech Co, Ltd"
+2434,14:a5:1a:1e:f6:10,"Huawei Tech Co, Ltd"
+2435,d4:6e:0e:b4:b8:1a,"TP-Link Tech Co, Ltd"
+2436,18:a6:f7:fe:c9:aa,"TP-Link Tech Co, Ltd"
+2437,50:c7:bf:89:5b:58,"TP-Link Tech Co, Ltd"
+2438,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2439,b0:39:56:92:50:9c,Netgear
+2440,94:46:96:2b:7d:3b,BaudTec Corp
+2441,50:bd:5f:76:38:be,"TP-Link Tech Co, Ltd"
+2442,20:6b:e7:02:5e:00,"TP-Link Tech Co, Ltd"
+2443,a0:04:60:3d:04:68,Netgear
+2444,b0:7f:b9:53:71:ff,Netgear
+2445,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2446,64:66:b3:da:40:c0,"TP-Link Tech Co, Ltd"
+2447,e8:fc:af:97:c7:1f,Netgear
+2448,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2449,b0:39:56:92:50:9c,Netgear
+2450,c8:3a:35:0e:9b:c0,"Tenda Tech Co, Ltd"
+2451,70:4f:57:1b:5e:54,"TP-Link Tech Co, Ltd"
+2452,14:a5:1a:1e:f6:10,"Huawei Tech Co, Ltd"
+2453,f4:28:53:7f:58:c6,Zioncom Electronics (Shenzhen) Ltd
+2454,18:a6:f7:fe:c9:aa,"TP-Link Tech Co, Ltd"
+2455,50:bd:5f:76:38:be,"TP-Link Tech Co, Ltd"
+2456,94:46:96:2b:ce:2b,BaudTec Corp
+2457,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2458,90:f6:52:97:73:38,"TP-Link Tech Co, Ltd"
+2459,c8:94:bb:0f:db:c0,"Huawei Tech Co, Ltd"
+2460,94:46:96:2b:d6:f9,BaudTec Corp
+2461,90:9f:33:b1:12:a6,Efm Networks
+2462,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2463,8c:3b:ad:13:a6:f1,Netgear
+2464,f8:1a:67:6f:c1:d6,"TP-Link Tech Co, Ltd"
+2465,2c:ae:2b:ae:d8:65,"Samsung Electronics Co, Ltd"
+2466,00:6f:64:72:2a:97,"Samsung Electronics Co, Ltd"
+2467,50:fa:84:59:49:c8,"TP-Link Tech Co, Ltd"
+2468,00:1d:73:2d:81:5a,Buffalo.Inc
+2469,50:c7:bf:c1:15:8e,"TP-Link Tech Co, Ltd"
+2470,b0:6e:bf:4c:c9:a8,ASUSTek Computer Inc
+2471,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2472,28:6c:07:e7:0b:b2,"Xiaomi Electronics, Co, Ltd"
+2473,00:24:b2:5b:1b:e0,Netgear
+2474,50:c7:bf:1f:be:90,"TP-Link Tech Co, Ltd"
+2475,7c:8b:ca:82:db:32,"TP-Link Tech Co, Ltd"
+2476,78:11:dc:11:96:f5,"Xiaomi Electronics, Co, Ltd"
+2477,14:91:82:a9:fd:1a,Belkin International Inc
+2478,f4:28:53:7f:58:c4,Zioncom Electronics (Shenzhen) Ltd
+2479,f4:28:53:7f:58:c6,Zioncom Electronics (Shenzhen) Ltd
+2480,50:bd:5f:76:38:be,"TP-Link Tech Co, Ltd"
+2481,90:9f:33:b1:12:a6,Efm Networks
+2482,60:a4:4c:27:8d:80,ASUSTek Computer Inc
+2483,7c:8b:ca:82:db:32,"TP-Link Tech Co, Ltd"
+2484,6c:3b:6b:31:39:07,Routerboard.com
+2485,c8:94:bb:0f:db:c0,"Huawei Tech Co, Ltd"
+2486,10:7b:ef:db:05:15,Zyxel Communications Corp
+2487,00:26:66:c5:f8:f8,Efm Networks
+2488,c0:3f:0e:19:c5:c2,Netgear
+2489,30:b4:9e:68:39:75,"TP-Link Tech Co, Ltd"
+2490,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2492,00:26:66:c5:f8:fc,Efm Networks
+2493,b0:6e:bf:d7:d8:64,ASUSTek Computer Inc
+2494,90:9f:33:b1:12:a6,Efm Networks
+2495,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2496,7c:8b:ca:82:db:32,"TP-Link Tech Co, Ltd"
+2497,78:11:dc:11:96:f5,"Xiaomi Electronics, Co, Ltd"
+2498,c8:94:bb:0f:db:c0,"Huawei Tech Co, Ltd"
+2499,10:7b:ef:db:05:15,Zyxel Communications Corp
+2500,00:26:66:c5:f8:fc,Efm Networks
+2501,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2502,00:18:4d:12:27:a4,Netgear
+2503,b0:39:56:92:50:9c,Netgear
+2504,14:a5:1a:1e:f6:10,"Huawei Tech Co, Ltd"
+2505,4c:9e:ff:a5:a9:60,Zyxel Communications Corp
+2506,8c:3b:ad:13:a6:f1,Netgear
+2507,c8:3a:35:0e:9b:c0,"Tenda Tech Co, Ltd"
+2508,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2509,b0:7f:b9:53:71:ff,Netgear
+2510,4c:9e:ff:a5:a9:60,Zyxel Communications Corp
+2512,64:66:b3:3c:0f:e8,"TP-Link Tech Co, Ltd"
+2513,90:f6:52:97:73:38,"TP-Link Tech Co, Ltd"
+2514,f4:28:53:10:21:10,Zioncom Electronics (Shenzhen) Ltd
+2515,f8:1a:67:6f:c1:d6,"TP-Link Tech Co, Ltd"
+2517,94:46:96:2b:d6:f9,BaudTec Corp
+2518,34:ce:00:2f:bb:b2,"Xiaomi Electronics, Co, Ltd"
+2519,18:a6:f7:fe:ef:ee,"TP-Link Tech Co, Ltd"
+2520,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2521,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2522,f4:28:53:10:21:10,Zioncom Electronics (Shenzhen) Ltd
+2524,50:64:2b:7c:3c:83,"Xiaomi Electronics, Co, Ltd"
+2525,64:66:b3:3c:0f:e8,"TP-Link Tech Co, Ltd"
+2526,18:d6:c7:fb:cd:e6,"TP-Link Tech Co, Ltd"
+2527,20:6b:e7:02:5e:00,"TP-Link Tech Co, Ltd"
+2528,34:ce:00:2f:bb:b2,"Xiaomi Electronics, Co, Ltd"
+2529,ec:08:6b:ab:24:64,"TP-Link Tech Co, Ltd"
+2530,fc:5b:39:69:e1:e4,"Cisco Systems, Inc"
+2531,a0:63:91:e9:00:d9,Netgear
+2532,64:a0:e7:26:e5:0b,"Cisco Systems, Inc"
+2533,30:b4:9e:6f:90:09,"TP-Link Tech Co, Ltd"
+2534,70:4f:57:b6:14:b0,"TP-Link Tech Co, Ltd"
+2536,fc:5b:39:69:e1:eb,"Cisco Systems, Inc"
+2537,28:cf:e9:84:ff:92,"Apple, Inc"
+2538,f4:28:53:10:21:10,Zioncom Electronics (Shenzhen) Ltd
+2540,20:6b:e7:02:5e:00,"TP-Link Tech Co, Ltd"
+2541,70:4f:57:b6:14:b0,"TP-Link Tech Co, Ltd"
+2543,90:f6:52:97:73:38,"TP-Link Tech Co, Ltd"
+2544,70:4f:57:b6:14:af,"TP-Link Tech Co, Ltd"
+2545,18:a6:f7:fe:ef:ee,"TP-Link Tech Co, Ltd"
+2546,18:d6:c7:6b:87:72,"TP-Link Tech Co, Ltd"
+2547,00:1e:a6:b6:74:b0,Best IT World (India) Pvt. Ltd
+2548,78:11:dc:11:96:f5,"Xiaomi Electronics, Co, Ltd"
+2549,00:26:66:c5:f8:f8,Efm Networks
+2550,00:4b:f3:0b:26:a6,"Shenzhen Mercury Communication Tech Co, Ltd"
+2551,18:a6:f7:fe:c9:aa,"TP-Link Tech Co, Ltd"
+2552,64:66:b3:da:40:c0,"TP-Link Tech Co, Ltd"
+2553,50:fa:84:59:49:c8,"TP-Link Tech Co, Ltd"
+2554,c8:94:bb:0f:db:c0,"Huawei Tech Co, Ltd"
+2555,7c:8b:ca:82:db:32,"TP-Link Tech Co, Ltd"
+2556,70:4f:57:1b:5e:54,"TP-Link Tech Co, Ltd"
+2557,b0:7f:b9:53:71:ff,Netgear
+2558,90:9f:33:b1:12:a6,Efm Networks
+2559,30:b4:9e:68:39:75,"TP-Link Tech Co, Ltd"
+2560,d8:c7:71:76:68:e7,"Huawei Tech Co, Ltd"
+2561,00:26:66:c5:f8:fc,Efm Networks
+2562,6c:3b:6b:31:39:07,Routerboard.com
+2563,78:11:dc:11:96:f5,"Xiaomi Electronics, Co, Ltd"
+2564,00:26:66:c5:f8:f8,Efm Networks
+2565,7c:8b:ca:82:db:32,"TP-Link Tech Co, Ltd"
+2566,30:b4:9e:68:39:75,"TP-Link Tech Co, Ltd"
+2567,c0:3f:0e:19:c5:c2,Netgear
+2568,d8:c7:71:76:68:e7,"Huawei Tech Co, Ltd"
+2569,00:26:66:c5:f8:fc,Efm Networks
+2570,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2571,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2572,6c:3b:6b:31:39:07,Routerboard.com
+2573,30:b4:9e:68:39:75,"TP-Link Tech Co, Ltd"
+2574,c0:3f:0e:19:c5:c2,Netgear
+2575,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2576,2c:ae:2b:ae:d8:65,"Samsung Electronics Co, Ltd"
+2577,34:97:f6:51:74:00,ASUSTek Computer Inc
+2578,c8:67:5e:54:2a:96,"Extreme Networks, Inc"
+2579,00:18:4d:12:27:a4,Netgear
+2580,c8:67:5e:54:2a:95,"Extreme Networks, Inc"
+2581,8c:3b:ad:13:a6:f1,Netgear
+2582,30:b4:9e:68:39:75,"TP-Link Tech Co, Ltd"
+2583,2c:ae:2b:ae:d8:65,"Samsung Electronics Co, Ltd"
+2584,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2585,d4:83:04:c1:c6:5c,"Shenzhen Fast Tech Co, Ltd"
+2586,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2587,64:66:b3:da:40:c0,"TP-Link Tech Co, Ltd"
+2588,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2589,2c:ae:2b:ae:d8:65,"Samsung Electronics Co, Ltd"
+2590,10:be:f5:d5:64:20,D-Link International
+2591,00:6f:64:72:2a:97,"Samsung Electronics Co, Ltd"
+2592,70:4f:57:b6:14:af,"TP-Link Tech Co, Ltd"
+2593,70:4f:57:b6:14:b0,"TP-Link Tech Co, Ltd"
+2594,94:46:96:2b:d6:f9,BaudTec Corp
+2595,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2596,f8:1a:67:6f:c1:d6,"TP-Link Tech Co, Ltd"
+2597,18:a6:f7:fe:ef:ee,"TP-Link Tech Co, Ltd"
+2598,28:cf:e9:84:ff:92,"Apple, Inc"
+2599,64:a0:e7:29:02:74,"Cisco Systems, Inc"
+2600,70:4f:57:b6:14:af,"TP-Link Tech Co, Ltd"
+2601,00:6f:64:72:2a:97,"Samsung Electronics Co, Ltd"
+2602,18:a6:f7:fe:ef:ee,"TP-Link Tech Co, Ltd"
+2603,18:d6:c7:6b:87:72,"TP-Link Tech Co, Ltd"
+2604,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2605,b8:a3:86:4c:87:78,D-Link International
+2606,d4:83:04:c1:c6:5c,"Shenzhen Fast Tech Co, Ltd"
+2607,00:6f:64:72:2a:97,"Samsung Electronics Co, Ltd"
+2608,28:cf:e9:84:ff:92,"Apple, Inc"
+2609,30:b4:9e:6f:90:09,"TP-Link Tech Co, Ltd"
+2610,18:d6:c7:6b:87:72,"TP-Link Tech Co, Ltd"
+2611,00:1e:a6:b6:74:b0,Best IT World (India) Pvt. Ltd
+2612,10:7b:44:b5:ad:6c,ASUSTek Computer Inc
+2613,ec:08:6b:8a:3c:24,"TP-Link Tech Co, Ltd"
+2614,70:4f:57:da:31:5f,"TP-Link Tech Co, Ltd"
+2615,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2617,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2618,00:1e:a6:b6:74:b0,Best IT World (India) Pvt. Ltd
+2619,ec:08:6b:8a:3c:24,"TP-Link Tech Co, Ltd"
+2620,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2622,a0:63:91:e9:00:d9,Netgear
+2623,34:97:f6:51:74:08,ASUSTek Computer Inc
+2624,98:de:d0:38:90:a2,"TP-Link Tech Co, Ltd"
+2626,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2628,c8:e7:d8:d3:c4:24,"Mercury Communication Tech Co, Ltd"
+2630,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2631,34:97:f6:51:74:04,ASUSTek Computer Inc
+2632,6c:c2:17:d8:87:5f,Hewlett Packard
+2633,c8:67:5e:54:29:e6,"Extreme Networks, Inc"
+2634,c8:67:5e:54:96:16,"Extreme Networks, Inc"
+2635,c8:67:5e:54:29:e5,"Extreme Networks, Inc"
+2636,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2637,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2638,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2639,10:be:f5:d5:64:22,D-Link International
+2640,c8:67:5e:54:93:94,"Extreme Networks, Inc"
+2641,c8:67:5e:54:30:a6,"Extreme Networks, Inc"
+2642,c8:67:5e:54:30:a4,"Extreme Networks, Inc"
+2643,c8:67:5e:54:96:14,"Extreme Networks, Inc"
+2644,c8:67:5e:54:93:96,"Extreme Networks, Inc"
+2645,c8:67:5e:54:30:a5,"Extreme Networks, Inc"
+2646,c8:67:5e:54:a3:95,"Extreme Networks, Inc"
+2647,c8:67:5e:54:93:95,"Extreme Networks, Inc"
+2648,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2649,34:97:f6:51:74:00,ASUSTek Computer Inc
+2650,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2651,34:97:f6:51:74:08,ASUSTek Computer Inc
+2652,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2653,10:be:f5:d5:64:20,D-Link International
+2655,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2656,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2658,c8:67:5e:54:29:e4,"Extreme Networks, Inc"
+2659,c8:67:5e:54:a3:94,"Extreme Networks, Inc"
+2660,c8:67:5e:54:96:15,"Extreme Networks, Inc"
+2661,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2662,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2663,34:97:f6:51:74:08,ASUSTek Computer Inc
+2665,c8:67:5e:54:a3:94,"Extreme Networks, Inc"
+2666,c8:67:5e:54:30:a6,"Extreme Networks, Inc"
+2667,c8:67:5e:54:30:a4,"Extreme Networks, Inc"
+2668,c8:67:5e:54:2a:a4,"Extreme Networks, Inc"
+2669,c8:67:5e:54:2a:a6,"Extreme Networks, Inc"
+2670,c8:67:5e:54:93:a6,"Extreme Networks, Inc"
+2671,c8:67:5e:54:93:a4,"Extreme Networks, Inc"
+2672,c8:67:5e:54:2a:94,"Extreme Networks, Inc"
+2673,c8:67:5e:54:30:a5,"Extreme Networks, Inc"
+2674,c8:67:5e:54:2a:a5,"Extreme Networks, Inc"
+2676,c8:67:5e:54:93:a5,"Extreme Networks, Inc"
+2677,c8:67:5e:54:2a:95,"Extreme Networks, Inc"
+2678,34:97:f6:51:74:00,ASUSTek Computer Inc
+2679,34:97:f6:51:74:04,ASUSTek Computer Inc
+2680,c8:67:5e:54:2a:96,"Extreme Networks, Inc"
+2681,c8:67:5e:54:2a:94,"Extreme Networks, Inc"
+2682,c8:67:5e:54:29:e4,"Extreme Networks, Inc"
+2683,c8:67:5e:54:2d:64,"Extreme Networks, Inc"
+2684,c8:67:5e:54:29:e6,"Extreme Networks, Inc"
+2685,c8:67:5e:54:2d:66,"Extreme Networks, Inc"
+2686,c8:67:5e:54:a3:96,"Extreme Networks, Inc"
+2687,c8:67:5e:54:30:96,"Extreme Networks, Inc"
+2688,c8:67:5e:54:a3:a6,"Extreme Networks, Inc"
+2689,c8:67:5e:54:28:14,"Extreme Networks, Inc"
+2690,c8:67:5e:54:30:94,"Extreme Networks, Inc"
+2691,c8:67:5e:54:28:16,"Extreme Networks, Inc"
+2692,c8:67:5e:54:2d:65,"Extreme Networks, Inc"
+2694,c8:67:5e:54:30:95,"Extreme Networks, Inc"
+2695,c8:67:5e:54:28:15,"Extreme Networks, Inc"
+2696,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2697,34:97:f6:51:74:04,ASUSTek Computer Inc
+2698,c8:67:5e:54:93:95,"Extreme Networks, Inc"
+2699,c8:67:5e:54:30:94,"Extreme Networks, Inc"
+2700,c8:67:5e:54:93:94,"Extreme Networks, Inc"
+2701,c8:67:5e:54:93:96,"Extreme Networks, Inc"
+2703,c8:67:5e:54:96:16,"Extreme Networks, Inc"
+2704,c8:67:5e:54:29:d6,"Extreme Networks, Inc"
+2705,c8:67:5e:54:2d:54,"Extreme Networks, Inc"
+2706,c8:67:5e:54:96:15,"Extreme Networks, Inc"
+2709,6c:c2:17:d8:87:5f,Hewlett Packard
+2710,c8:67:5e:54:95:e6,"Extreme Networks, Inc"
+2711,c8:67:5e:54:95:e4,"Extreme Networks, Inc"
+2712,c8:67:5e:54:29:d4,"Extreme Networks, Inc"
+2713,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2714,c8:67:5e:54:95:d4,"Extreme Networks, Inc"
+2715,c8:67:5e:54:95:d6,"Extreme Networks, Inc"
+2716,c8:67:5e:54:96:14,"Extreme Networks, Inc"
+2717,c8:67:5e:54:2d:a6,"Extreme Networks, Inc"
+2718,c8:67:5e:54:2d:96,"Extreme Networks, Inc"
+2719,c8:67:5e:54:2d:94,"Extreme Networks, Inc"
+2720,c8:67:5e:54:95:e5,"Extreme Networks, Inc"
+2721,c8:67:5e:54:29:d5,"Extreme Networks, Inc"
+2722,c8:67:5e:54:95:d5,"Extreme Networks, Inc"
+2723,c8:67:5e:54:2d:95,"Extreme Networks, Inc"
+2724,c8:67:5e:54:96:15,"Extreme Networks, Inc"
+2725,c8:67:5e:54:96:14,"Extreme Networks, Inc"
+2727,94:46:96:2b:7d:3b,BaudTec Corp
+2728,c8:67:5e:54:2d:95,"Extreme Networks, Inc"
+2729,c8:67:5e:54:2d:a4,"Extreme Networks, Inc"
+2730,c8:67:5e:54:2d:a5,"Extreme Networks, Inc"
+2731,c8:67:5e:54:2d:94,"Extreme Networks, Inc"
+2732,a0:63:91:e9:00:d8,Netgear
+2733,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2735,00:2a:10:11:34:c4,"Cisco Systems, Inc"
+2736,c0:62:6b:e5:54:3b,"Cisco Systems, Inc"
+2738,b8:27:eb:87:bb:f2,Raspberry Pi Foundation
+2739,40:5d:82:d6:c2:5e,Netgear
+2740,ec:1f:72:77:59:75,Samsung Electro-Mechanics(Thailand)
+2741,ec:08:6b:8a:3c:24,"TP-Link Tech Co, Ltd"
+2742,c0:62:6b:e5:54:34,"Cisco Systems, Inc"
+2743,44:e4:d9:85:be:8b,"Cisco Systems, Inc"
+2744,00:2a:10:13:6c:2b,"Cisco Systems, Inc"
+2745,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2746,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2747,b8:27:eb:87:bb:f2,Raspberry Pi Foundation
+2748,00:2a:10:11:34:cb,"Cisco Systems, Inc"
+2749,00:2a:10:13:6c:24,"Cisco Systems, Inc"
+2750,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+2751,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+2752,00:2a:10:13:6c:24,"Cisco Systems, Inc"
+2754,b8:27:eb:87:bb:f2,Raspberry Pi Foundation
+2755,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+2756,80:2a:a8:8a:13:a3,Ubiquiti Networks Inc
+2758,00:19:5b:b0:d8:b0,D-Link Corp
+2759,00:19:5b:b0:d8:b0,D-Link Corp
+2760,00:2a:10:13:70:7b,"Cisco Systems, Inc"
+2761,58:63:56:d7:9d:6c,FN-Link Tech Ltd
+2762,00:2a:10:13:6c:0b,"Cisco Systems, Inc"
+2763,f4:5e:ab:f8:cd:5a,Texas Instruments
+2765,f4:5e:ab:f8:cd:5a,Texas Instruments
+2766,00:2a:10:13:70:74,"Cisco Systems, Inc"
+2767,00:2a:10:1a:fd:74,"Cisco Systems, Inc"
+2768,00:19:5b:b0:d8:b0,D-Link Corp
+2769,00:2a:10:13:6c:04,"Cisco Systems, Inc"
+2770,00:2a:10:1a:fd:7b,"Cisco Systems, Inc"
+2771,b8:27:eb:55:89:01,Raspberry Pi Foundation
+2772,18:31:bf:06:80:90,ASUSTek Computer Inc
+2773,00:19:5b:b0:d8:b0,D-Link Corp
+2774,e8:65:49:04:6d:c4,"Cisco Systems, Inc"
+2776,58:63:56:d7:9d:6c,FN-Link Tech Ltd
+2777,f4:5e:ab:f8:cd:5a,Texas Instruments
+2778,00:2a:10:1a:fd:74,"Cisco Systems, Inc"
+2779,b8:27:eb:55:89:01,Raspberry Pi Foundation
+2781,00:2a:10:13:6c:04,"Cisco Systems, Inc"
+2782,00:2a:10:11:34:c4,"Cisco Systems, Inc"
+2783,00:2a:10:13:6c:0b,"Cisco Systems, Inc"
+2784,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+2785,00:19:5b:b0:d8:b0,D-Link Corp
+2786,18:31:bf:06:80:90,ASUSTek Computer Inc
+2788,e8:65:49:04:93:eb,"Cisco Systems, Inc"
+2789,e8:65:49:38:c9:cb,"Cisco Systems, Inc"
+2791,80:2a:a8:8a:13:a3,Ubiquiti Networks Inc
+2792,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2793,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+2794,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+2796,bc:30:7e:07:e0:f1,Wistron Neweb Corp
+2797,40:5d:82:d6:c2:5e,Netgear
+2799,64:a2:f9:0e:da:7f,"OnePlus Tech (Shenzhen) Co, Ltd"
+2800,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+2801,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+2802,84:3d:c6:05:f1:c4,"Cisco Systems, Inc"
+2803,00:2a:10:11:35:74,"Cisco Systems, Inc"
+2804,00:19:5b:b0:d8:b0,D-Link Corp
+2805,a8:9d:21:da:31:44,"Cisco Systems, Inc"
+2806,00:19:5b:b0:d8:b0,D-Link Corp
+2807,00:2a:10:f4:91:84,"Cisco Systems, Inc"
+2808,e8:65:49:04:6d:c4,"Cisco Systems, Inc"
+2809,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+2810,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2811,00:19:5b:b0:d8:b0,D-Link Corp
+2812,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+2813,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+2814,a8:9d:21:da:31:44,"Cisco Systems, Inc"
+2815,00:2a:10:f4:91:84,"Cisco Systems, Inc"
+2816,e8:65:49:04:6d:c4,"Cisco Systems, Inc"
+2817,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+2818,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2819,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+2820,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+2821,00:1a:dd:e8:47:24,PePWave Ltd
+2822,e4:aa:5d:14:92:74,"Cisco Systems, Inc"
+2823,00:1c:f0:5e:e2:6d,D-Link Corp
+2824,00:1a:dd:e8:47:24,PePWave Ltd
+2825,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+2826,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2827,10:9a:dd:8a:ab:d1,"Apple, Inc"
+2828,e8:8d:28:5e:e1:45,"Apple, Inc"
+2829,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2830,00:81:c4:73:e3:8b,"Cisco Systems, Inc"
+2831,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+2832,00:1a:dd:e8:47:24,PePWave Ltd
+2833,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+2834,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+2835,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2836,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2837,00:11:95:3c:cc:1f,D-Link Corp
+2838,54:b1:21:8a:be:39,"Huawei Tech Co, Ltd"
+2839,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2841,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2842,a0:63:91:e9:00:d8,Netgear
+2843,90:f6:52:97:73:38,"TP-Link Tech Co, Ltd"
+2844,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2845,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2846,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2847,a0:63:91:e9:00:d8,Netgear
+2848,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2849,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2850,20:6b:e7:02:5e:00,"TP-Link Tech Co, Ltd"
+2851,ec:08:6b:8a:3c:24,"TP-Link Tech Co, Ltd"
+2852,f4:28:53:10:21:10,Zioncom Electronics (Shenzhen) Ltd
+2854,70:4f:57:5a:77:48,"TP-Link Tech Co, Ltd"
+2858,58:63:56:d7:c6:3a,FN-Link Tech Ltd
+2859,64:a2:f9:0e:da:7f,"OnePlus Tech (Shenzhen) Co, Ltd"
+2860,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2861,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2862,a0:63:91:e9:00:d9,Netgear
+2864,a0:63:91:e9:00:d8,Netgear
+2865,c8:67:5e:54:a3:94,"Extreme Networks, Inc"
+2866,c8:67:5e:54:2d:56,"Extreme Networks, Inc"
+2867,c8:67:5e:54:a3:95,"Extreme Networks, Inc"
+2868,c8:67:5e:54:2d:55,"Extreme Networks, Inc"
+2869,98:fc:11:78:8e:1c,"Cisco-Linksys, Llc"
+2871,58:63:56:d7:c4:c3,FN-Link Tech Ltd
+2872,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2873,58:63:56:d7:c4:c3,FN-Link Tech Ltd
+2874,98:fc:11:78:8e:1c,"Cisco-Linksys, Llc"
+2875,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+2876,58:63:56:ee:f9:fb,FN-Link Tech Ltd
+2877,98:de:d0:38:90:a3,"TP-Link Tech Co, Ltd"
+2878,58:63:56:ee:f9:fb,FN-Link Tech Ltd
+2879,84:38:38:62:af:72,Samsung Electro-Mechanics(Thailand)
+2881,a0:63:91:e9:00:d9,Netgear
+2882,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+2883,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2884,34:21:09:25:9f:c8,Jensen Scandinavia AS
+2885,84:9f:b5:f4:9b:76,"Huawei Tech Co, Ltd"
+2886,38:1d:d9:82:e1:f9,FN-Link Tech Ltd
+2887,48:f8:b3:d4:c3:9f,"Cisco-Linksys, Llc"
+2888,00:02:cf:8d:9b:9e,"ZyGate Communications, Inc"
+2889,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+2890,10:bf:48:d3:9c:ed,ASUSTek Computer Inc
+2891,10:bf:48:d3:9c:ec,ASUSTek Computer Inc
+2892,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+2893,34:08:04:08:ef:5c,D-Link Corp
+2894,9c:d6:43:c7:c8:8c,D-Link International
+2895,10:bf:48:d3:9c:e8,ASUSTek Computer Inc
+2896,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+2897,58:63:56:d7:c6:3a,FN-Link Tech Ltd
+2898,00:2a:10:1a:fc:cb,"Cisco Systems, Inc"
+2899,10:62:eb:99:0c:44,D-Link International
+2900,00:27:0d:8b:4f:43,"Cisco Systems, Inc"
+2901,14:dd:a9:c9:73:e8,ASUSTek Computer Inc
+2902,00:02:cf:8d:9b:9e,"ZyGate Communications, Inc"
+2903,14:dd:a9:c9:73:e8,ASUSTek Computer Inc
+2904,d8:30:62:36:d2:75,"Apple, Inc"
+2905,10:bf:48:d3:9c:ed,ASUSTek Computer Inc
+2906,00:27:0d:8b:4f:40,"Cisco Systems, Inc"
+2907,00:27:0d:8b:4f:41,"Cisco Systems, Inc"
+2908,00:27:0d:48:b5:62,"Cisco Systems, Inc"
+2909,00:27:0d:8b:4f:4f,"Cisco Systems, Inc"
+2910,10:c3:7b:c5:d1:5c,ASUSTek Computer Inc
+2911,00:27:0d:8b:4f:44,"Cisco Systems, Inc"
+2912,14:dd:a9:c9:73:e8,ASUSTek Computer Inc
+2913,00:27:0d:8b:4f:40,"Cisco Systems, Inc"
+2914,00:27:0d:8b:4f:44,"Cisco Systems, Inc"
+2915,00:27:0d:8b:4f:43,"Cisco Systems, Inc"
+2916,00:2a:10:1a:fc:c4,"Cisco Systems, Inc"
+2917,00:27:0d:8b:4f:42,"Cisco Systems, Inc"
+2918,bc:67:1c:1f:1e:a4,"Cisco Systems, Inc"
+2919,10:bf:48:d3:9c:e8,ASUSTek Computer Inc
+2920,20:4e:7f:0f:91:39,Netgear
+2921,9c:d6:43:c7:c8:8c,D-Link International
+2922,14:dd:a9:c9:73:ec,ASUSTek Computer Inc
+2924,9c:d6:43:c7:c8:8e,D-Link International
+2925,6c:aa:b3:07:19:38,Ruckus Wireless
+2926,6c:aa:b3:47:19:37,Ruckus Wireless
+2927,6c:aa:b3:07:19:3c,Ruckus Wireless
+2928,78:8a:20:87:b6:e0,Ubiquiti Networks Inc
+2929,10:bf:48:d3:9c:e9,ASUSTek Computer Inc
+2931,8c:0d:76:20:a8:f4,"Huawei Tech Co, Ltd"
+2932,10:be:f5:d9:d2:04,D-Link International
+2933,00:27:0d:8b:4f:4b,"Cisco Systems, Inc"
+2934,20:4e:7f:0f:91:39,Netgear
+2935,34:21:09:25:9f:c8,Jensen Scandinavia AS
+2936,20:4e:7f:0f:91:3a,Netgear
+2937,34:08:04:08:ef:5c,D-Link Corp
+2939,00:26:f2:13:3a:0e,Netgear
+2940,64:a5:c3:6b:55:06,"Apple, Inc"
+2941,48:f8:b3:d4:c3:9f,"Cisco-Linksys, Llc"
+2942,10:bf:48:d3:9c:ec,ASUSTek Computer Inc
+2943,10:bf:48:d3:9c:e8,ASUSTek Computer Inc
+2944,6c:aa:b3:07:19:38,Ruckus Wireless
+2945,10:bf:48:d3:9c:e9,ASUSTek Computer Inc
+2946,6c:aa:b3:47:19:33,Ruckus Wireless
+2947,e0:5f:b9:0c:73:a1,"Cisco Systems, Inc"
+2949,10:c3:7b:c5:d1:58,ASUSTek Computer Inc
+2951,14:91:82:1a:f5:84,Belkin International Inc
+2952,6c:aa:b3:07:19:38,Ruckus Wireless
+2953,6c:aa:b3:47:19:37,Ruckus Wireless
+2954,6c:aa:b3:07:19:3c,Ruckus Wireless
+2956,6c:aa:b3:47:19:33,Ruckus Wireless
+2957,e4:6f:13:39:bb:b2,D-Link International
+2958,90:72:40:17:57:62,"Apple, Inc"
+2959,b4:75:0e:fa:02:fc,Belkin International Inc
+2961,50:a7:2b:8b:a0:64,"Huawei Tech Co, Ltd"
+2962,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+2963,00:27:0d:8b:4f:54,"Cisco Systems, Inc"
+2964,90:72:40:17:57:62,"Apple, Inc"
+2966,10:c3:7b:c5:d1:5c,ASUSTek Computer Inc
+2967,10:c3:7b:c5:d1:58,ASUSTek Computer Inc
+2968,00:2a:10:1a:fa:bb,"Cisco Systems, Inc"
+2969,34:21:09:25:9f:cc,Jensen Scandinavia AS
+2970,00:27:0d:8b:4f:52,"Cisco Systems, Inc"
+2971,00:27:0d:8b:4f:50,"Cisco Systems, Inc"
+2972,bc:f6:85:c0:92:6c,D-Link International
+2974,00:2a:10:1a:fa:bb,"Cisco Systems, Inc"
+2975,34:21:09:25:9f:cc,Jensen Scandinavia AS
+2976,10:bf:48:d3:9c:ed,ASUSTek Computer Inc
+2977,b4:75:0e:fa:02:fd,Belkin International Inc
+2978,00:27:0d:8b:4e:b0,"Cisco Systems, Inc"
+2980,a4:5d:36:1b:92:9f,Hewlett Packard
+2981,14:dd:a9:c9:73:e8,ASUSTek Computer Inc
+2982,b4:75:0e:fa:02:fc,Belkin International Inc
+2984,bc:f6:85:c0:92:6c,D-Link International
+2985,a4:5d:36:1b:92:9f,Hewlett Packard
+2986,00:27:0d:8b:4e:b1,"Cisco Systems, Inc"
+2987,f8:3d:ff:e8:a8:36,"Huawei Tech Co, Ltd"
+2988,00:26:f2:13:3a:0e,Netgear
+2989,14:dd:a9:c9:73:ec,ASUSTek Computer Inc
+2990,00:3a:99:2b:ed:53,"Cisco Systems, Inc"
+2991,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+2992,a4:5d:36:43:9c:88,Hewlett Packard
+2993,00:27:0d:8b:49:22,"Cisco Systems, Inc"
+2994,80:37:73:f7:f0:b0,Netgear
+2995,28:37:37:43:fb:2e,"Apple, Inc"
+2996,90:72:40:21:ff:e6,"Apple, Inc"
+2997,a0:04:60:e6:a6:ac,Netgear
+2998,34:21:09:19:0f:e0,Jensen Scandinavia AS
+2999,00:27:0d:48:b5:64,"Cisco Systems, Inc"
+3000,00:27:0d:8b:49:24,"Cisco Systems, Inc"
+3001,00:27:0d:8b:49:2b,"Cisco Systems, Inc"
+3002,bc:f6:85:c0:92:6c,D-Link International
+3003,14:dd:a9:c9:73:ec,ASUSTek Computer Inc
+3004,a0:04:60:e6:a6:ac,Netgear
+3005,00:2a:10:1a:fa:b4,"Cisco Systems, Inc"
+3006,00:3a:99:2b:ed:55,"Cisco Systems, Inc"
+3007,00:27:0d:48:b5:61,"Cisco Systems, Inc"
+3008,00:3a:99:2b:ed:52,"Cisco Systems, Inc"
+3009,00:27:0d:8b:49:2d,"Cisco Systems, Inc"
+3010,14:91:82:1a:f5:84,Belkin International Inc
+3011,00:27:0d:8b:49:2e,"Cisco Systems, Inc"
+3012,00:3a:99:2b:ed:51,"Cisco Systems, Inc"
+3013,00:27:0d:8b:49:2c,"Cisco Systems, Inc"
+3014,70:62:b8:62:a3:c0,D-Link International
+3015,00:27:0d:8b:49:23,"Cisco Systems, Inc"
+3016,2c:41:38:f1:3b:b0,Hewlett Packard
+3018,48:f8:b3:d4:c3:9f,"Cisco-Linksys, Llc"
+3019,10:bf:48:d3:9c:ec,ASUSTek Computer Inc
+3020,10:bf:48:d3:9c:e8,ASUSTek Computer Inc
+3021,34:21:09:25:9f:c8,Jensen Scandinavia AS
+3022,10:bf:48:d3:9c:e9,ASUSTek Computer Inc
+3023,34:08:04:08:ef:5c,D-Link Corp
+3024,84:9f:b5:f4:9b:76,"Huawei Tech Co, Ltd"
+3025,e0:5f:b9:0c:73:a1,"Cisco Systems, Inc"
+3026,00:27:0d:8a:eb:a2,"Cisco Systems, Inc"
+3027,00:27:0d:8a:eb:a0,"Cisco Systems, Inc"
+3028,00:27:0d:8a:eb:a3,"Cisco Systems, Inc"
+3029,b8:c7:5d:0b:33:69,"Apple, Inc"
+3030,08:02:8e:99:e4:12,Netgear
+3031,10:da:43:08:b7:5a,Netgear
+3032,dc:ef:09:b2:d3:ce,Netgear
+3033,b8:c7:5d:0b:33:6a,"Apple, Inc"
+3034,00:27:0d:8b:50:a3,"Cisco Systems, Inc"
+3035,00:27:0d:8b:50:a1,"Cisco Systems, Inc"
+3036,00:27:0d:8a:eb:a4,"Cisco Systems, Inc"
+3037,00:27:0d:8b:50:a4,"Cisco Systems, Inc"
+3039,a0:04:60:e6:a6:ac,Netgear
+3040,70:62:b8:62:a3:c0,D-Link International
+3041,2c:41:38:f1:3b:b0,Hewlett Packard
+3042,08:02:8e:99:e4:12,Netgear
+3043,10:da:43:08:b7:5a,Netgear
+3044,b8:c7:5d:0b:33:6a,"Apple, Inc"
+3045,28:c6:8e:6e:39:a2,Netgear
+3046,9c:3d:cf:69:01:6e,Netgear
+3047,a0:04:60:a1:fe:cc,Netgear
+3048,1c:7e:e5:4b:12:8e,D-Link International
+3049,a0:04:60:a1:fe:c8,Netgear
+3050,94:10:3e:93:c9:9b,Belkin International Inc
+3051,20:4e:7f:5a:df:81,Netgear
+3052,20:4e:7f:6e:cd:18,Netgear
+3053,6c:19:8f:cc:29:b0,D-Link International
+3055,00:27:0d:8a:eb:a1,"Cisco Systems, Inc"
+3056,dc:ef:09:b2:d3:cd,Netgear
+3057,20:4e:7f:5a:df:83,Netgear
+3058,e0:91:f5:db:56:24,Netgear
+3059,9c:3d:cf:69:01:70,Netgear
+3060,00:27:0d:8a:eb:ac,"Cisco Systems, Inc"
+3061,00:27:0d:8b:4f:73,"Cisco Systems, Inc"
+3062,00:27:0d:8a:eb:af,"Cisco Systems, Inc"
+3063,00:27:0d:8b:50:ad,"Cisco Systems, Inc"
+3064,28:c6:8e:6e:39:a1,Netgear
+3065,00:27:0d:8a:eb:ad,"Cisco Systems, Inc"
+3066,74:da:da:4a:51:be,D-Link International
+3067,58:6d:8f:36:ec:da,"Cisco-Linksys, Llc"
+3068,00:24:a8:b5:40:b0,ProCurve Networking by HP
+3069,70:62:b8:62:a3:c2,D-Link International
+3070,00:02:61:61:d1:38,Tilgin AB
+3071,00:27:0d:8b:50:a2,"Cisco Systems, Inc"
+3072,58:6d:8f:4a:bf:dc,"Cisco-Linksys, Llc"
+3073,e0:91:f5:a6:34:f8,Netgear
+3074,00:27:0d:8b:4f:72,"Cisco Systems, Inc"
+3075,00:27:0d:8b:50:af,"Cisco Systems, Inc"
+3076,00:27:0d:8b:4d:7d,"Cisco Systems, Inc"
+3077,00:27:0d:8b:4d:7f,"Cisco Systems, Inc"
+3078,00:27:0d:8b:4d:7c,"Cisco Systems, Inc"
+3079,00:11:6b:18:4c:f6,"Digital Data Communications Asia Co, Ltd"
+3080,00:27:0d:8b:50:a0,"Cisco Systems, Inc"
+3081,00:27:0d:8b:4f:7f,"Cisco Systems, Inc"
+3082,a0:ab:1b:f2:e2:4a,D-Link International
+3083,00:27:0d:8b:4f:7c,"Cisco Systems, Inc"
+3084,14:91:82:8d:01:44,Belkin International Inc
+3085,90:94:e4:39:d2:74,D-Link International
+3086,a0:40:a0:8a:d8:70,Netgear
+3087,00:17:3f:5d:dd:cf,Belkin International Inc
+3088,00:27:0d:8a:eb:ab,"Cisco Systems, Inc"
+3089,00:27:0d:8b:4d:7b,"Cisco Systems, Inc"
+3090,08:02:8e:99:e4:12,Netgear
+3091,10:da:43:08:b7:5a,Netgear
+3092,b8:c7:5d:0b:33:6a,"Apple, Inc"
+3093,20:4e:7f:5a:df:81,Netgear
+3094,6c:19:8f:cc:29:b0,D-Link International
+3096,20:4e:7f:5a:df:83,Netgear
+3097,e0:91:f5:db:56:24,Netgear
+3098,00:27:0d:8b:50:a2,"Cisco Systems, Inc"
+3099,00:27:0d:8b:4f:72,"Cisco Systems, Inc"
+3100,00:27:0d:8b:50:a0,"Cisco Systems, Inc"
+3101,00:27:0d:8b:4f:7f,"Cisco Systems, Inc"
+3102,00:27:0d:8b:4f:7c,"Cisco Systems, Inc"
+3103,00:17:3f:5d:dd:cf,Belkin International Inc
+3104,00:27:0d:8b:50:a3,"Cisco Systems, Inc"
+3105,00:27:0d:8b:50:a1,"Cisco Systems, Inc"
+3106,00:27:0d:8b:4f:70,"Cisco Systems, Inc"
+3107,00:27:0d:8b:4f:7e,"Cisco Systems, Inc"
+3108,00:1c:f0:5f:93:11,D-Link Corp
+3109,00:27:0d:8b:4f:7d,"Cisco Systems, Inc"
+3110,e0:91:f5:a6:34:f6,Netgear
+3112,00:27:0d:8b:50:ae,"Cisco Systems, Inc"
+3113,00:27:0d:8b:4d:7e,"Cisco Systems, Inc"
+3114,00:27:0d:8b:50:ac,"Cisco Systems, Inc"
+3115,00:f7:6f:d2:3b:36,"Apple, Inc"
+3116,e8:de:27:bb:6e:fc,"TP-Link Tech Co, Ltd"
+3117,6c:19:8f:cc:29:b2,D-Link International
+3118,00:1e:58:29:17:55,D-Link Corp
+3120,00:27:0d:8b:4f:74,"Cisco Systems, Inc"
+3121,84:4b:f5:07:e2:9a,"Hon Hai Precision Ind. Co, Ltd"
+3122,00:27:0d:8b:4f:7b,"Cisco Systems, Inc"
+3125,b8:c7:5d:0b:33:69,"Apple, Inc"
+3126,58:6d:8f:4a:bf:dc,"Cisco-Linksys, Llc"
+3127,6c:19:8f:cc:29:b2,D-Link International
+3128,dc:ef:09:b2:d3:ce,Netgear
+3129,8c:3b:ad:17:39:ed,Netgear
+3130,00:26:5a:b9:a8:c8,D-Link Corp
+3131,00:27:0d:8b:4d:70,"Cisco Systems, Inc"
+3132,00:27:0d:8b:4d:72,"Cisco Systems, Inc"
+3133,10:be:f5:d8:40:94,D-Link International
+3134,58:6d:8f:4a:bf:dd,"Cisco-Linksys, Llc"
+3136,08:62:66:8b:1d:98,ASUSTek Computer Inc
+3137,08:62:66:8b:1d:9c,ASUSTek Computer Inc
+3138,00:27:0d:8b:4d:71,"Cisco Systems, Inc"
+3140,00:26:5a:b9:a8:ca,D-Link Corp
+3141,e8:94:f6:2a:34:6e,"TP-Link Tech Co, Ltd"
+3142,fc:3f:db:71:a1:14,Hewlett Packard
+3143,88:5b:dd:80:96:54,"Extreme Networks, Inc"
+3144,00:27:0d:8b:4d:74,"Cisco Systems, Inc"
+3145,00:27:0d:8b:4d:7b,"Cisco Systems, Inc"
+3146,00:27:0d:8b:50:ab,"Cisco Systems, Inc"
+3147,00:1c:f0:5f:93:11,D-Link Corp
+3148,88:5b:dd:80:96:54,"Extreme Networks, Inc"
+3149,38:d5:47:44:e1:00,ASUSTek Computer Inc
+3150,b4:75:0e:19:de:a9,Belkin International Inc
+3151,00:f7:6f:d2:3b:37,"Apple, Inc"
+3152,f4:f2:6d:49:dd:12,"TP-Link Tech Co, Ltd"
+3153,8c:3b:ad:17:39:ef,Netgear
+3154,88:5b:dd:db:ca:d4,"Extreme Networks, Inc"
+3155,1c:b7:2c:86:9e:80,ASUSTek Computer Inc
+3156,b8:c7:5d:0b:33:69,"Apple, Inc"
+3157,58:6d:8f:36:ec:da,"Cisco-Linksys, Llc"
+3158,88:5b:dd:80:96:54,"Extreme Networks, Inc"
+3160,38:d5:47:44:e1:00,ASUSTek Computer Inc
+3161,84:4b:f5:07:e2:9a,"Hon Hai Precision Ind. Co, Ltd"
+3162,38:d5:47:44:e1:04,ASUSTek Computer Inc
+3163,c8:d3:a3:63:f6:a1,D-Link International
+3164,88:5b:dd:80:96:64,"Extreme Networks, Inc"
+3165,60:38:e0:dc:46:24,Belkin International Inc
+3166,58:ef:68:28:9c:2d,Belkin International Inc
+3167,88:5b:dd:80:96:54,"Extreme Networks, Inc"
+3168,1c:b7:2c:86:9e:80,ASUSTek Computer Inc
+3169,c8:d3:a3:63:f6:a1,D-Link International
+3170,88:5b:dd:80:96:64,"Extreme Networks, Inc"
+3171,58:ef:68:28:9c:2d,Belkin International Inc
+3172,08:62:66:8b:1d:9c,ASUSTek Computer Inc
+3173,88:5b:dd:db:ca:d4,"Extreme Networks, Inc"
+3174,48:f8:b3:f7:ab:cc,"Cisco-Linksys, Llc"
+3175,d8:38:fc:38:e5:8c,Ruckus Wireless
+3176,d8:38:fc:78:e5:8c,Ruckus Wireless
+3177,d8:38:fc:f8:e5:8c,Ruckus Wireless
+3178,88:5b:dd:db:ca:e4,"Extreme Networks, Inc"
+3179,08:62:66:8b:1d:98,ASUSTek Computer Inc
+3180,d8:38:fc:b8:e5:8c,Ruckus Wireless
+3182,fc:3f:db:71:a1:14,Hewlett Packard
+3183,58:ef:68:28:9c:2c,Belkin International Inc
+3184,1c:b7:2c:86:9e:88,ASUSTek Computer Inc
+3185,74:da:38:cd:04:f0,Edimax Tech Co Ltd
+3186,e0:1c:41:d2:2e:d4,"Extreme Networks, Inc"
+3187,70:73:cb:b5:0f:ab,"Apple, Inc"
+3188,70:4d:7b:94:cb:60,ASUSTek Computer Inc
+3190,1c:b7:2c:86:9e:80,ASUSTek Computer Inc
+3191,08:62:66:8b:1d:98,ASUSTek Computer Inc
+3193,74:da:38:cd:04:f0,Edimax Tech Co Ltd
+3194,e0:1c:41:d2:2e:d4,"Extreme Networks, Inc"
+3195,70:4d:7b:94:cb:60,ASUSTek Computer Inc
+3197,d8:38:fc:f8:e5:0c,Ruckus Wireless
+3198,d8:38:fc:78:e5:0c,Ruckus Wireless
+3199,48:f8:b3:f7:ab:ca,"Cisco-Linksys, Llc"
+3200,88:ce:fa:f4:b0:f7,"Huawei Tech Co, Ltd"
+3201,d8:38:fc:38:e5:0c,Ruckus Wireless
+3202,70:4d:7b:94:cb:68,ASUSTek Computer Inc
+3203,d8:38:fc:38:e5:88,Ruckus Wireless
+3204,d8:38:fc:f8:e5:88,Ruckus Wireless
+3205,d8:38:fc:b8:e5:0c,Ruckus Wireless
+3206,60:f4:45:e7:cc:95,"Apple, Inc"
+3207,60:f4:45:e7:cc:94,"Apple, Inc"
+3208,d8:38:fc:b8:e5:08,Ruckus Wireless
+3209,d8:38:fc:b8:e5:88,Ruckus Wireless
+3210,48:f8:b3:f7:ab:cb,"Cisco-Linksys, Llc"
+3211,d8:38:fc:78:e5:88,Ruckus Wireless
+3212,d8:38:fc:f8:e5:08,Ruckus Wireless
+3214,50:a7:2b:8b:a0:64,"Huawei Tech Co, Ltd"
+3215,80:37:73:f7:f0:b0,Netgear
+3216,d0:03:4b:62:0a:35,"Apple, Inc"
+3218,d8:38:fc:78:e5:08,Ruckus Wireless
+3219,50:c7:bf:5d:b7:cf,"TP-Link Tech Co, Ltd"
+3220,d0:03:4b:62:0a:34,"Apple, Inc"
+3221,d8:38:fc:38:e5:08,Ruckus Wireless
+3222,00:27:0d:8b:51:b3,"Cisco Systems, Inc"
+3225,00:27:0d:8a:ac:e4,"Cisco Systems, Inc"
+3226,b4:75:0e:19:de:a9,Belkin International Inc
+3227,74:da:38:cd:04:f0,Edimax Tech Co Ltd
+3228,e0:1c:41:d2:2e:d4,"Extreme Networks, Inc"
+3229,70:73:cb:b5:0f:ab,"Apple, Inc"
+3231,48:f8:b3:f7:ab:ca,"Cisco-Linksys, Llc"
+3232,48:f8:b3:f7:ab:cb,"Cisco-Linksys, Llc"
+3233,d8:38:fc:78:e5:08,Ruckus Wireless
+3234,d8:38:fc:38:e5:08,Ruckus Wireless
+3236,18:d6:c7:96:8b:ba,"TP-Link Tech Co, Ltd"
+3237,a8:54:b2:66:65:fa,Wistron Neweb Corp
+3239,00:1e:58:29:17:55,D-Link Corp
+3240,14:91:82:1a:f5:84,Belkin International Inc
+3242,1c:b7:2c:86:9e:84,ASUSTek Computer Inc
+3243,e0:1c:41:d2:2e:e8,"Extreme Networks, Inc"
+3244,b4:75:0e:19:de:aa,Belkin International Inc
+3245,00:27:0d:8b:51:b4,"Cisco Systems, Inc"
+3246,b4:75:0e:19:de:a9,Belkin International Inc
+3247,90:94:e4:39:d2:74,D-Link International
+3248,a0:2c:36:51:b8:19,FN-Link Tech Ltd
+3249,f0:9c:e9:bc:f7:28,"Extreme Networks, Inc"
+3250,f8:e9:03:da:59:2a,D-Link International
+3251,b4:75:0e:19:de:a9,Belkin International Inc
+3252,b4:75:0e:19:de:aa,Belkin International Inc
+3253,f8:e9:03:da:59:2a,D-Link International
+3254,c0:3f:0e:4a:24:02,Netgear
+3255,80:2a:a8:9a:71:65,Ubiquiti Networks Inc
+3256,b4:75:0e:19:da:1a,Belkin International Inc
+3258,64:a5:c3:6b:55:06,"Apple, Inc"
+3259,1c:b7:2c:86:9e:88,ASUSTek Computer Inc
+3260,70:73:cb:b5:0f:ac,"Apple, Inc"
+3261,1c:b7:2c:86:9e:88,ASUSTek Computer Inc
+3262,70:4d:7b:94:cb:64,ASUSTek Computer Inc
+3263,00:27:0d:8a:ac:e2,"Cisco Systems, Inc"
+3264,00:27:0d:8b:51:b1,"Cisco Systems, Inc"
+3265,00:27:0d:8a:ac:ee,"Cisco Systems, Inc"
+3266,88:5b:dd:80:96:54,"Extreme Networks, Inc"
+3267,d8:38:fc:38:e5:88,Ruckus Wireless
+3268,d8:38:fc:f8:e5:88,Ruckus Wireless
+3269,d8:38:fc:b8:e5:88,Ruckus Wireless
+3270,d8:38:fc:78:e5:88,Ruckus Wireless
+3271,00:27:0d:8b:4e:b2,"Cisco Systems, Inc"
+3272,00:27:0d:8b:4e:b0,"Cisco Systems, Inc"
+3273,88:5b:dd:db:ca:d4,"Extreme Networks, Inc"
+3274,00:26:5a:b9:a8:c8,D-Link Corp
+3275,00:24:a8:b5:50:90,ProCurve Networking by HP
+3276,00:27:0d:8b:4d:73,"Cisco Systems, Inc"
+3277,b8:c7:5d:0b:33:6a,"Apple, Inc"
+3278,6c:19:8f:cc:29:b2,D-Link International
+3279,e0:91:f5:a6:34:f6,Netgear
+3280,00:27:0d:8b:4d:7f,"Cisco Systems, Inc"
+3281,00:27:0d:8b:4d:7d,"Cisco Systems, Inc"
+3282,8c:3b:ad:17:39:ef,Netgear
+3283,00:1c:f0:5f:93:11,D-Link Corp
+3284,00:24:a8:b5:40:b0,ProCurve Networking by HP
+3285,e0:91:f5:a6:34:f6,Netgear
+3286,00:27:0d:8b:4d:7f,"Cisco Systems, Inc"
+3287,6c:19:8f:cc:29:b0,D-Link International
+3288,f4:f2:6d:49:dd:12,"TP-Link Tech Co, Ltd"
+3289,9c:3d:cf:69:01:6f,Netgear
+3290,20:4e:7f:5a:df:81,Netgear
+3291,e0:91:f5:db:56:24,Netgear
+3292,08:02:8e:99:e4:12,Netgear
+3293,00:27:0d:8b:4f:72,"Cisco Systems, Inc"
+3294,00:27:0d:8b:4d:7c,"Cisco Systems, Inc"
+3295,00:27:0d:8b:4f:73,"Cisco Systems, Inc"
+3296,00:27:0d:8b:50:a3,"Cisco Systems, Inc"
+3297,00:27:0d:8b:4d:72,"Cisco Systems, Inc"
+3298,28:c6:8e:6e:39:a1,Netgear
+3299,00:27:0d:8b:4d:7e,"Cisco Systems, Inc"
+3300,a0:ab:1b:f2:e2:48,D-Link International
+3301,00:27:0d:8a:eb:ae,"Cisco Systems, Inc"
+3302,00:27:0d:8b:49:21,"Cisco Systems, Inc"
+3303,00:27:0d:8b:50:a4,"Cisco Systems, Inc"
+3304,00:27:0d:8b:4f:74,"Cisco Systems, Inc"
+3305,1c:7e:e5:4b:12:8e,D-Link International
+3306,28:c6:8e:6e:39:a1,Netgear
+3307,9c:3d:cf:69:01:70,Netgear
+3308,00:27:0d:8a:eb:af,"Cisco Systems, Inc"
+3309,a0:ab:1b:f2:e2:48,D-Link International
+3310,00:27:0d:8a:eb:ad,"Cisco Systems, Inc"
+3311,00:27:0d:8a:eb:ae,"Cisco Systems, Inc"
+3312,a0:ab:1b:f2:e2:4a,D-Link International
+3313,00:27:0d:8a:eb:ab,"Cisco Systems, Inc"
+3314,70:62:b8:62:a3:c0,D-Link International
+3315,00:27:0d:8a:eb:a1,"Cisco Systems, Inc"
+3316,74:da:da:4a:51:bc,D-Link International
+3317,00:11:6b:18:4c:f6,"Digital Data Communications Asia Co, Ltd"
+3318,58:ef:68:b6:68:2e,Belkin International Inc
+3319,2c:41:38:f1:3b:a0,Hewlett Packard
+3320,34:21:09:19:0f:e0,Jensen Scandinavia AS
+3321,70:4d:7b:0c:93:00,ASUSTek Computer Inc
+3322,a0:ab:1b:f2:e2:4a,D-Link International
+3323,00:27:0d:8a:eb:a1,"Cisco Systems, Inc"
+3324,00:11:6b:18:4c:f6,"Digital Data Communications Asia Co, Ltd"
+3325,00:24:a8:b5:50:90,ProCurve Networking by HP
+3326,74:da:da:4a:51:be,D-Link International
+3327,00:27:0d:8a:eb:a3,"Cisco Systems, Inc"
+3328,e8:de:27:bb:6e:fc,"TP-Link Tech Co, Ltd"
+3329,00:27:0d:8b:4d:71,"Cisco Systems, Inc"
+3330,00:24:a8:b5:50:30,ProCurve Networking by HP
+3331,10:62:eb:e1:42:c0,D-Link International
+3332,a0:ab:1b:f2:e2:4a,D-Link International
+3333,74:da:da:4a:51:bc,D-Link International
+3334,00:24:a8:b5:50:30,ProCurve Networking by HP
+3335,a0:ab:1b:f2:e2:48,D-Link International
+3336,f0:b4:29:fc:6b:d1,Xiaomi Communications Co Ltd
+3337,00:24:a8:b5:02:b0,ProCurve Networking by HP
+3338,a0:48:1c:4b:46:10,Hewlett Packard
+3339,70:4d:7b:0c:93:00,ASUSTek Computer Inc
+3340,58:ef:68:b6:68:2f,Belkin International Inc
+3341,a0:63:91:d6:40:97,Netgear
+3342,40:49:0f:93:91:ca,"Hon Hai Precision Ind. Co, Ltd"
+3345,00:24:a8:b5:50:90,ProCurve Networking by HP
+3346,00:24:a8:b5:50:30,ProCurve Networking by HP
+3347,58:ef:68:b6:68:2e,Belkin International Inc
+3348,58:ef:68:b6:68:2f,Belkin International Inc
+3350,10:62:eb:9c:5a:58,D-Link International
+3351,a0:40:a0:8a:d8:70,Netgear
+3352,a0:40:a0:8a:d8:6f,Netgear
+3354,00:24:a8:b5:70:10,ProCurve Networking by HP
+3355,58:ef:68:0c:f1:e4,Belkin International Inc
+3356,64:70:02:78:a9:6e,"TP-Link Tech Co, Ltd"
+3357,f0:b4:29:fc:6b:d1,Xiaomi Communications Co Ltd
+3358,58:ef:68:b6:68:2e,Belkin International Inc
+3359,58:ef:68:b6:68:2f,Belkin International Inc
+3360,40:49:0f:93:91:ca,"Hon Hai Precision Ind. Co, Ltd"
+3362,a0:40:a0:8a:d8:70,Netgear
+3363,00:24:a8:b5:40:00,ProCurve Networking by HP
+3364,c8:d3:a3:6f:a9:b0,D-Link International
+3365,94:10:3e:89:9b:1c,Belkin International Inc
+3366,58:6d:8f:2c:75:c0,"Cisco-Linksys, Llc"
+3367,a0:04:60:41:09:ea,Netgear
+3368,c0:a0:bb:ee:41:c1,D-Link International
+3369,10:62:eb:9c:5a:5a,D-Link International
+3371,00:02:61:61:d1:38,Tilgin AB
+3372,00:24:a8:b5:02:b0,ProCurve Networking by HP
+3373,58:ef:68:b6:68:2f,Belkin International Inc
+3374,14:91:82:8d:01:44,Belkin International Inc
+3375,10:62:eb:9c:5a:58,D-Link International
+3376,00:24:a8:b5:40:00,ProCurve Networking by HP
+3377,c8:d3:a3:6f:a9:b0,D-Link International
+3378,a0:04:60:41:09:ea,Netgear
+3379,10:62:eb:9c:5a:5a,D-Link International
+3381,a0:8c:fd:99:e1:1f,Hewlett Packard
+3382,a0:63:91:d6:40:97,Netgear
+3383,a4:2b:b0:f6:2e:bb,"TP-Link Tech Co, Ltd"
+3384,00:24:a8:b5:40:f0,ProCurve Networking by HP
+3386,00:02:61:61:d1:38,Tilgin AB
+3387,14:91:82:8d:01:44,Belkin International Inc
+3388,a0:04:60:41:09:ea,Netgear
+3389,a0:8c:fd:99:e1:1f,Hewlett Packard
+3390,00:24:a8:b5:40:f0,ProCurve Networking by HP
+3392,a0:04:60:41:09:e9,Netgear
+3393,c0:a0:bb:ee:41:c1,D-Link International
+3394,00:25:9c:4d:20:3e,"Cisco-Linksys, Llc"
+3395,00:24:01:69:0a:a8,D-Link Corp
+3396,10:62:eb:9c:54:68,D-Link International
+3397,a4:2b:8c:eb:c4:10,Netgear
+3398,6c:19:8f:f4:4e:8e,D-Link International
+3399,50:04:b8:fb:cd:2a,"Huawei Tech Co, Ltd"
+3400,00:1e:58:fe:04:3f,D-Link Corp
+3402,00:02:61:61:d1:38,Tilgin AB
+3403,70:4d:7b:0c:93:00,ASUSTek Computer Inc
+3404,34:21:09:19:0f:e0,Jensen Scandinavia AS
+3405,a0:8c:fd:99:e1:1f,Hewlett Packard
+3406,00:24:a8:b5:40:f0,ProCurve Networking by HP
+3408,80:26:89:74:31:40,D-Link International
+3409,00:24:a8:b5:12:60,ProCurve Networking by HP
+3410,00:18:e7:da:ff:b1,"Cameo Communications, Inc"
+3411,00:1f:33:bd:7a:d5,Netgear
+3412,6c:19:8f:f4:4e:90,D-Link International
+3413,70:4d:7b:0c:93:04,ASUSTek Computer Inc
+3414,94:46:96:2b:7c:ee,BaudTec Corp
+3415,50:04:b8:fb:cd:2c,"Huawei Tech Co, Ltd"
+3416,90:72:40:17:57:62,"Apple, Inc"
+3417,10:62:eb:9c:54:6a,D-Link International
+3418,a4:2b:8c:96:6b:a5,Netgear
+3419,00:25:9c:4d:20:3e,"Cisco-Linksys, Llc"
+3420,10:62:eb:9c:54:68,D-Link International
+3421,6c:19:8f:f4:4e:8e,D-Link International
+3422,00:1e:58:fe:04:3f,D-Link Corp
+3423,70:4d:7b:0c:93:04,ASUSTek Computer Inc
+3424,10:62:eb:9c:54:6a,D-Link International
+3425,a4:2b:8c:96:6b:a5,Netgear
+3426,b0:39:56:92:49:62,Netgear
+3427,2c:41:38:f1:5d:f0,Hewlett Packard
+3428,00:24:a8:b5:22:10,ProCurve Networking by HP
+3430,2c:41:38:f1:5d:e0,Hewlett Packard
+3431,34:21:09:19:86:10,Jensen Scandinavia AS
+3433,70:4d:7b:0c:93:00,ASUSTek Computer Inc
+3434,00:25:9c:4d:20:3e,"Cisco-Linksys, Llc"
+3435,10:62:eb:9c:54:68,D-Link International
+3437,6c:19:8f:f4:4e:90,D-Link International
+3438,70:4d:7b:0c:93:04,ASUSTek Computer Inc
+3439,90:72:40:17:57:62,"Apple, Inc"
+3440,2c:41:38:f1:5d:f0,Hewlett Packard
+3441,00:24:a8:b5:22:10,ProCurve Networking by HP
+3443,2c:41:38:f1:5d:e0,Hewlett Packard
+3444,00:24:a8:b5:40:70,ProCurve Networking by HP
+3445,08:02:8e:99:e0:34,Netgear
+3446,b0:b9:8a:4e:88:bc,Netgear
+3449,94:46:96:2b:7c:ee,BaudTec Corp
+3450,fc:5b:39:68:5f:6b,"Cisco Systems, Inc"
+3451,50:04:b8:fb:cd:2a,"Huawei Tech Co, Ltd"
+3452,00:24:a8:b5:60:80,ProCurve Networking by HP
+3453,00:02:61:61:d1:38,Tilgin AB
+3454,70:4d:7b:0c:93:00,ASUSTek Computer Inc
+3455,00:24:a8:b5:40:f0,ProCurve Networking by HP
+3456,6c:19:8f:f4:4e:8e,D-Link International
+3458,00:1f:33:bd:7a:d5,Netgear
+3459,70:4d:7b:0c:93:04,ASUSTek Computer Inc
+3460,94:46:96:2b:7c:ee,BaudTec Corp
+3461,90:72:40:17:57:62,"Apple, Inc"
+3462,10:62:eb:9c:54:6a,D-Link International
+3463,a4:2b:8c:96:6b:a5,Netgear
+3464,2c:41:38:f1:5d:f0,Hewlett Packard
+3465,00:24:a8:b5:22:10,ProCurve Networking by HP
+3467,2c:41:38:f1:5d:e0,Hewlett Packard
+3469,00:24:a8:b5:40:70,ProCurve Networking by HP
+3470,b0:b9:8a:4e:88:bc,Netgear
+3471,50:04:b8:fb:cd:2a,"Huawei Tech Co, Ltd"
+3472,00:24:a8:b5:60:80,ProCurve Networking by HP
+3473,6c:70:9f:e1:bc:c9,"Apple, Inc"
+3474,00:27:0d:8b:50:20,"Cisco Systems, Inc"
+3475,f0:9f:c2:f1:90:9b,Ubiquiti Networks Inc
+3476,80:ea:96:eb:be:99,"Apple, Inc"
+3477,60:38:e0:dc:46:25,Belkin International Inc
+3478,c0:ff:d4:b0:a9:f3,Netgear
+3480,00:27:0d:8b:50:2f,"Cisco Systems, Inc"
+3481,00:27:0d:8b:50:2d,"Cisco Systems, Inc"
+3482,28:10:7b:4d:fa:50,D-Link International
+3483,00:27:0d:8b:50:2b,"Cisco Systems, Inc"
+3484,80:ea:96:eb:be:98,"Apple, Inc"
+3485,6c:70:9f:e1:bc:c8,"Apple, Inc"
+3486,34:fc:b9:0b:c6:11,Hewlett Packard Enterprise
+3487,58:ef:68:0c:f1:e4,Belkin International Inc
+3488,a4:2b:b0:f6:2e:ba,"TP-Link Tech Co, Ltd"
+3489,a4:2b:b0:f6:2e:bb,"TP-Link Tech Co, Ltd"
+3490,34:fc:b9:e6:fa:a1,Hewlett Packard Enterprise
+3491,64:70:02:78:a9:6e,"TP-Link Tech Co, Ltd"
+3492,60:38:e0:dc:46:24,Belkin International Inc
+3493,98:de:d0:3c:10:fd,"TP-Link Tech Co, Ltd"
+3494,34:fc:b9:0b:c6:01,Hewlett Packard Enterprise
+3495,e8:65:d4:35:fa:31,"Tenda Tech Co, LtdDongguan branch"
+3496,fc:f5:28:ca:9f:98,Zyxel Communications Corp
+3497,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+3498,c0:25:e9:e0:bd:28,"TP-Link Tech Co, Ltd"
+3499,f0:9f:c2:f4:00:e5,Ubiquiti Networks Inc
+3500,00:27:0d:8b:4e:9c,"Cisco Systems, Inc"
+3501,3c:46:d8:e0:64:58,"TP-Link Tech Co, Ltd"
+3502,00:27:0d:8b:4e:9f,"Cisco Systems, Inc"
+3503,00:26:99:f2:59:1c,"Cisco Systems, Inc"
+3504,00:26:99:f2:59:1a,"Cisco Systems, Inc"
+3505,c8:d7:19:aa:48:95,"Cisco-Linksys, Llc"
+3506,00:26:99:f2:59:1b,"Cisco Systems, Inc"
+3507,58:ef:68:0c:f1:e5,Belkin International Inc
+3508,00:26:99:f2:59:1e,"Cisco Systems, Inc"
+3509,00:27:0d:8b:4e:9d,"Cisco Systems, Inc"
+3510,f0:9f:c2:f2:90:9b,Ubiquiti Networks Inc
+3511,00:27:0d:8b:4c:00,"Cisco Systems, Inc"
+3512,38:4b:76:01:df:d3,Airtame ApS
+3513,00:27:0d:8b:4c:03,"Cisco Systems, Inc"
+3515,e8:04:62:b9:3f:72,"Cisco Systems, Inc"
+3516,90:a7:c1:07:4f:c4,Pakedge Device and Software Inc
+3518,f0:9f:c2:f1:98:b4,Ubiquiti Networks Inc
+3520,00:27:0d:8b:4e:94,"Cisco Systems, Inc"
+3521,88:51:fb:23:6f:7f,Hewlett Packard
+3522,90:a7:c1:07:4f:c5,Pakedge Device and Software Inc
+3523,00:27:0d:8b:4e:9b,"Cisco Systems, Inc"
+3525,c0:ff:d4:b0:a9:f3,Netgear
+3526,a4:2b:b0:f6:2e:bb,"TP-Link Tech Co, Ltd"
+3527,60:38:e0:dc:46:24,Belkin International Inc
+3528,34:fc:b9:0b:c6:01,Hewlett Packard Enterprise
+3529,c0:25:e9:e0:bd:28,"TP-Link Tech Co, Ltd"
+3530,58:ef:68:0c:f1:e5,Belkin International Inc
+3531,e8:04:62:b9:3f:72,"Cisco Systems, Inc"
+3533,98:de:d0:3c:10:fe,"TP-Link Tech Co, Ltd"
+3534,00:27:0d:8b:50:23,"Cisco Systems, Inc"
+3535,00:27:0d:8b:4e:90,"Cisco Systems, Inc"
+3536,00:19:a9:43:e1:d1,"Cisco Systems, Inc"
+3537,00:27:0d:8b:4e:93,"Cisco Systems, Inc"
+3538,c8:d7:19:aa:48:96,"Cisco-Linksys, Llc"
+3539,00:27:0d:8b:4e:92,"Cisco Systems, Inc"
+3540,00:27:0d:8b:4e:91,"Cisco Systems, Inc"
+3541,c4:04:15:01:cf:2c,Netgear
+3542,bc:67:1c:1f:1c:4b,"Cisco Systems, Inc"
+3543,00:19:a9:43:e1:d0,"Cisco Systems, Inc"
+3544,28:10:7b:4d:fa:50,D-Link International
+3546,c0:ff:d4:b0:a9:f5,Netgear
+3547,e8:04:62:b9:3f:7f,"Cisco Systems, Inc"
+3548,e8:04:62:b9:3f:7e,"Cisco Systems, Inc"
+3549,b0:c7:45:7d:f3:e0,Buffalo.Inc
+3550,e8:04:62:b9:3f:7d,"Cisco Systems, Inc"
+3551,e8:04:62:b9:3f:7c,"Cisco Systems, Inc"
+3552,00:27:0d:8b:4c:02,"Cisco Systems, Inc"
+3554,00:27:0d:8b:50:24,"Cisco Systems, Inc"
+3555,e8:04:62:b9:3f:74,"Cisco Systems, Inc"
+3556,e8:04:62:b9:3f:7b,"Cisco Systems, Inc"
+3558,60:38:e0:dc:46:25,Belkin International Inc
+3559,58:ef:68:0c:f1:e4,Belkin International Inc
+3560,34:fc:b9:0b:c6:01,Hewlett Packard Enterprise
+3561,fc:f5:28:ca:9f:98,Zyxel Communications Corp
+3562,00:19:a9:43:e1:d0,"Cisco Systems, Inc"
+3563,28:10:7b:4d:fa:50,D-Link International
+3564,e8:04:62:b9:3f:7f,"Cisco Systems, Inc"
+3565,00:27:0d:8b:50:22,"Cisco Systems, Inc"
+3566,34:fc:b9:e6:fa:b1,Hewlett Packard Enterprise
+3567,f0:9f:c2:f1:98:b4,Ubiquiti Networks Inc
+3568,e8:04:62:b9:3f:70,"Cisco Systems, Inc"
+3570,00:27:0d:8b:4e:9e,"Cisco Systems, Inc"
+3571,e8:04:62:b9:3f:73,"Cisco Systems, Inc"
+3572,00:1f:d4:02:b8:96,"4ipnet, Inc"
+3573,00:27:0d:8b:4c:04,"Cisco Systems, Inc"
+3574,00:27:0d:48:b5:6c,"Cisco Systems, Inc"
+3575,00:27:0d:48:b5:6d,"Cisco Systems, Inc"
+3576,00:27:0d:8b:50:f3,"Cisco Systems, Inc"
+3577,00:27:0d:8b:50:f4,"Cisco Systems, Inc"
+3578,00:27:0d:48:b5:6b,"Cisco Systems, Inc"
+3579,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+3580,00:27:0d:48:b5:6d,"Cisco Systems, Inc"
+3581,00:27:0d:48:b5:64,"Cisco Systems, Inc"
+3582,00:27:0d:48:b5:6b,"Cisco Systems, Inc"
+3583,00:27:0d:48:b5:6e,"Cisco Systems, Inc"
+3584,00:27:0d:48:b5:62,"Cisco Systems, Inc"
+3585,00:27:0d:48:b5:60,"Cisco Systems, Inc"
+3586,00:27:0d:48:b5:6f,"Cisco Systems, Inc"
+3587,00:27:0d:48:b5:61,"Cisco Systems, Inc"
+3588,a0:04:60:a2:15:64,Netgear
+3589,a0:04:60:a2:15:60,Netgear
+3590,58:6d:8f:2c:75:c0,"Cisco-Linksys, Llc"
+3591,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+3592,a0:63:91:d6:40:97,Netgear
+3593,00:27:0d:48:b5:62,"Cisco Systems, Inc"
+3594,58:6d:8f:2c:75:c0,"Cisco-Linksys, Llc"
+3595,00:27:0d:48:b5:63,"Cisco Systems, Inc"
+3596,00:27:0d:48:b5:6c,"Cisco Systems, Inc"
+3597,a0:ab:1b:87:86:2c,D-Link International
+3598,a0:ab:1b:87:86:2e,D-Link International
+3599,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+3600,a0:04:60:a2:15:64,Netgear
+3601,a0:04:60:a2:15:60,Netgear
+3602,90:72:40:17:57:62,"Apple, Inc"
+3603,a0:ab:1b:87:86:2c,D-Link International
+3604,90:72:40:21:ff:e6,"Apple, Inc"
+3605,a0:63:91:d6:40:97,Netgear
+3606,64:70:02:78:a9:6e,"TP-Link Tech Co, Ltd"
+3607,a0:04:60:a2:15:60,Netgear
+3608,58:6d:8f:2c:75:c0,"Cisco-Linksys, Llc"
+3611,e8:65:d4:35:fa:31,"Tenda Tech Co, LtdDongguan branch"
+3612,bc:67:1c:1f:08:6b,"Cisco Systems, Inc"
+3613,38:4b:76:02:70:83,Airtame ApS
+3614,38:4b:76:02:70:82,Airtame ApS
+3615,34:a8:4e:ba:b7:3b,"Cisco Systems, Inc"
+3617,58:6d:8f:2c:75:40,"Cisco-Linksys, Llc"
+3618,a0:63:91:d6:40:97,Netgear
+3619,a0:04:60:a2:15:64,Netgear
+3620,64:70:02:78:a9:6e,"TP-Link Tech Co, Ltd"
+3621,a0:04:60:a2:15:60,Netgear
+3622,58:6d:8f:2c:75:c0,"Cisco-Linksys, Llc"
+3624,90:72:40:17:57:62,"Apple, Inc"
+3625,a0:ab:1b:87:86:2c,D-Link International
+3627,28:37:37:43:fb:2e,"Apple, Inc"
+3628,e8:65:d4:35:fa:31,"Tenda Tech Co, LtdDongguan branch"
+3629,34:21:09:19:0f:e0,Jensen Scandinavia AS
+3630,38:4b:76:02:70:83,Airtame ApS
+3631,a0:40:a0:8a:d8:70,Netgear
+3632,14:dd:a9:c9:73:e8,ASUSTek Computer Inc
+3633,38:4b:76:02:70:82,Airtame ApS
+3634,bc:f6:85:c0:92:6c,D-Link International
+3635,20:4e:7f:6e:cd:18,Netgear
+3637,b0:c7:45:7d:f3:ec,Buffalo.Inc
+3639,30:5a:3a:51:01:e8,ASUSTek Computer Inc
+3640,00:c8:8b:60:82:4b,"Cisco Systems, Inc"
+3641,54:64:d9:97:bd:d6,Sagemcom Broadband Sas
+3642,b0:55:08:19:8c:ea,"Huawei Tech Co, Ltd"
+3643,00:1f:d4:02:ae:c2,"4ipnet, Inc"
+3644,c8:be:19:60:2d:40,D-Link International
+3645,f4:06:8d:86:34:ed,devolo AG
+3647,00:1a:dd:e8:47:24,PePWave Ltd
+3648,b0:39:56:8b:e5:ca,Netgear
+3649,f8:e9:03:c8:2c:7c,D-Link International
+3650,98:9c:57:4a:71:19,"Huawei Tech Co, Ltd"
+3651,fc:15:b4:69:fe:4e,Hewlett Packard
+3652,b0:39:56:8b:e5:ca,Netgear
+3653,fc:15:b4:69:fe:4e,Hewlett Packard
+3655,4c:9e:ff:7e:f8:52,Zyxel Communications Corp
+3656,f0:9f:c2:f1:98:b4,Ubiquiti Networks Inc
+3657,2c:fd:a1:c3:29:44,ASUSTek Computer Inc
+3659,f0:9f:c2:f1:fd:44,Ubiquiti Networks Inc
+3660,2c:fd:a1:c3:29:40,ASUSTek Computer Inc
+3661,80:26:89:e6:2e:1b,D-Link International
+3662,00:27:0d:8b:4c:00,"Cisco Systems, Inc"
+3663,00:27:0d:8b:4c:02,"Cisco Systems, Inc"
+3664,e8:04:62:b9:3f:70,"Cisco Systems, Inc"
+3665,f0:9f:c2:f2:98:b4,Ubiquiti Networks Inc
+3666,34:fc:b9:e6:fa:b1,Hewlett Packard Enterprise
+3667,f0:9f:c2:f1:94:ce,Ubiquiti Networks Inc
+3668,80:26:89:e6:2e:1c,D-Link International
+3669,e8:04:62:b9:3f:71,"Cisco Systems, Inc"
+3671,e8:04:62:b9:3f:73,"Cisco Systems, Inc"
+3672,00:27:0d:8b:4c:01,"Cisco Systems, Inc"
+3673,f8:e9:03:03:1f:a5,D-Link International
+3674,e8:04:62:b9:3f:7e,"Cisco Systems, Inc"
+3675,58:ef:68:0c:f1:e4,Belkin International Inc
+3676,34:fc:b9:e6:fa:a1,Hewlett Packard Enterprise
+3677,34:fc:b9:0b:c6:01,Hewlett Packard Enterprise
+3678,e8:04:62:b9:3f:74,"Cisco Systems, Inc"
+3679,00:27:0d:8b:4c:04,"Cisco Systems, Inc"
+3681,f8:e9:03:03:1f:a5,D-Link International
+3682,00:2a:10:13:6e:24,"Cisco Systems, Inc"
+3683,e8:04:62:b9:3f:72,"Cisco Systems, Inc"
+3684,58:6d:8f:63:80:d9,"Cisco-Linksys, Llc"
+3685,54:b1:21:8a:be:39,"Huawei Tech Co, Ltd"
+3686,8c:0d:76:20:a8:f4,"Huawei Tech Co, Ltd"
+3687,78:8a:20:87:b6:e0,Ubiquiti Networks Inc
+3689,10:c3:7b:c5:ea:64,ASUSTek Computer Inc
+3690,10:c3:7b:c5:ea:60,ASUSTek Computer Inc
+3693,b0:95:8e:61:8b:d9,"TP-Link Tech Co, Ltd"
+3694,a0:63:91:e9:00:d8,Netgear
+3696,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+3697,a0:63:91:e9:00:d9,Netgear
+3698,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+3699,a0:63:91:e9:00:d8,Netgear
+3702,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+3703,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+3704,f8:e9:03:03:1f:a5,D-Link International
+3705,58:6d:8f:63:80:d9,"Cisco-Linksys, Llc"
+3706,14:a5:1a:b1:5a:58,"Huawei Tech Co, Ltd"
+3707,20:6b:e7:8f:d0:f3,"TP-Link Tech Co, Ltd"
+3708,18:a6:f7:51:8c:04,"TP-Link Tech Co, Ltd"
+3709,ac:5f:3e:df:65:f9,Samsung Electro-Mechanics(Thailand)
+3710,fc:f5:28:fe:ee:10,Zyxel Communications Corp
+3711,ac:5f:3e:df:65:f9,Samsung Electro-Mechanics(Thailand)
+3712,4c:9e:ff:7e:f8:52,Zyxel Communications Corp
+3713,54:b1:21:8a:be:39,"Huawei Tech Co, Ltd"
+3714,78:8a:20:87:b6:e0,Ubiquiti Networks Inc
+3715,54:64:d9:8d:b4:b6,Sagemcom Broadband Sas
+3716,ac:5f:3e:df:65:f9,Samsung Electro-Mechanics(Thailand)
+3717,a8:9d:21:82:db:24,"Cisco Systems, Inc"
+3719,b0:e1:7e:a6:f3:8b,"Huawei Tech Co, Ltd"
+3720,00:2a:10:f4:aa:84,"Cisco Systems, Inc"
+3721,00:24:b2:bf:fd:1e,Netgear
+3722,c8:d3:a3:6f:82:84,D-Link International
+3723,40:16:7e:c1:7c:20,ASUSTek Computer Inc
+3724,00:2a:10:20:c8:b4,"Cisco Systems, Inc"
+3725,e8:94:f6:bb:c8:b8,"TP-Link Tech Co, Ltd"
+3726,40:16:7e:c1:7c:20,ASUSTek Computer Inc
+3727,00:2a:10:20:c4:84,"Cisco Systems, Inc"
+3728,c0:25:5c:97:ec:24,"Cisco Systems, Inc"
+3729,00:24:b2:12:b9:21,Netgear
+3730,00:2a:10:20:c8:b4,"Cisco Systems, Inc"
+3731,84:3d:c6:09:fe:54,"Cisco Systems, Inc"
+3732,00:2a:10:20:c8:bb,"Cisco Systems, Inc"
+3733,00:2a:10:11:3e:8b,"Cisco Systems, Inc"
+3734,00:2a:10:11:3e:8b,"Cisco Systems, Inc"
+3735,84:3d:c6:0a:16:a4,"Cisco Systems, Inc"
+3736,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+3737,d8:24:bd:b5:99:34,"Cisco Systems, Inc"
+3738,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+3739,34:a8:4e:ba:af:f4,"Cisco Systems, Inc"
+3740,00:1a:dd:e8:47:24,PePWave Ltd
+3742,40:16:7e:c1:7c:20,ASUSTek Computer Inc
+3743,0c:51:01:eb:b0:40,"Apple, Inc"
+3744,e8:94:f6:bb:c8:b8,"TP-Link Tech Co, Ltd"
+3745,54:78:1a:20:f6:54,"Cisco Systems, Inc"
+3746,00:2a:10:20:c5:8b,"Cisco Systems, Inc"
+3748,a0:91:69:a4:d3:1f,LG Electronics (Mobile Communications)
+3750,20:f4:1b:d1:79:43,Shenzhen Bilian Electronic Co，Ltd
+3751,00:27:0d:09:c4:44,"Cisco Systems, Inc"
+3752,80:ce:62:6e:2f:d8,Hewlett Packard
+3753,00:2a:10:f3:b8:64,"Cisco Systems, Inc"
+3754,e4:aa:5d:19:9a:74,"Cisco Systems, Inc"
+3756,e4:aa:5d:19:9a:74,"Cisco Systems, Inc"
+3757,00:2a:10:20:c6:54,"Cisco Systems, Inc"
+3758,00:1c:f0:5e:e2:6d,D-Link Corp
+3759,44:e9:dd:81:d7:46,Sagemcom Broadband Sas
+3760,30:91:8f:ef:9c:61,Technicolor
+3761,00:30:44:1c:35:2f,"CradlePoint, Inc"
+3762,00:19:70:4d:ab:7d,"Z-Com, Inc"
+3763,24:00:ba:21:bf:fc,"Huawei Tech Co, Ltd"
+3764,00:30:44:1c:35:2f,"CradlePoint, Inc"
+3765,00:2a:10:f4:c9:24,"Cisco Systems, Inc"
+3766,00:3a:9b:06:f1:37,"Cisco Systems, Inc"
+3767,30:89:d3:c9:0c:10,Hongkong Ucloudlink Network Tech Ltd
+3768,00:3a:9b:06:f1:30,"Cisco Systems, Inc"
+3769,00:c8:8b:1a:55:eb,"Cisco Systems, Inc"
+3770,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+3771,00:22:6b:7b:2a:81,"Cisco-Linksys, Llc"
+3772,00:35:1a:c9:eb:3b,"Cisco Systems, Inc"
+3773,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+3774,00:22:6b:7b:2a:81,"Cisco-Linksys, Llc"
+3775,00:1d:7e:bc:42:85,"Cisco-Linksys, Llc"
+3776,bc:ee:7b:56:6d:74,ASUSTek Computer Inc
+3777,00:18:e7:e2:ea:70,"Cameo Communications, Inc"
+3778,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+3779,30:b5:c2:8d:dd:91,"TP-Link Tech Co, Ltd"
+3780,08:02:8e:e2:6d:d4,Netgear
+3781,c8:d3:ff:88:da:9b,Hewlett Packard
+3782,20:cf:30:ce:34:a9,ASUSTek Computer Inc
+3783,80:26:89:74:23:f8,D-Link International
+3784,b0:4e:26:5e:ae:84,"TP-Link Tech Co, Ltd"
+3785,c4:67:b5:10:75:e3,Libratone A/S
+3786,30:b5:c2:8d:dd:91,"TP-Link Tech Co, Ltd"
+3787,00:78:88:99:5a:c4,"Cisco Systems, Inc"
+3788,a0:f3:c1:cd:38:9e,"TP-Link Tech Co, Ltd"
+3789,54:b8:0a:0f:ef:6c,D-Link International
+3790,e8:de:27:fb:ab:df,"TP-Link Tech Co, Ltd"
+3791,30:b5:c2:96:59:49,"TP-Link Tech Co, Ltd"
+3792,00:18:4d:8c:0d:26,Netgear
+3793,00:16:b6:3b:26:28,"Cisco-Linksys, Llc"
+3794,00:18:e7:d0:71:f4,"Cameo Communications, Inc"
+3795,00:3a:9a:f7:78:a7,"Cisco Systems, Inc"
+3796,48:ba:4e:ff:2b:fb,Hewlett Packard
+3797,6c:3b:6b:66:e2:eb,Routerboard.com
+3798,00:3a:9a:f7:78:a0,"Cisco Systems, Inc"
+3799,48:f8:b3:f1:e2:20,"Cisco-Linksys, Llc"
+3800,c8:be:19:6a:0d:f8,D-Link International
+3802,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+3804,00:3a:9a:f7:79:67,"Cisco Systems, Inc"
+3805,bc:54:51:77:f8:10,"Samsung Electronics Co, Ltd"
+3806,00:3a:9a:f7:79:60,"Cisco Systems, Inc"
+3807,00:3a:9a:f7:78:a7,"Cisco Systems, Inc"
+3808,48:ba:4e:ff:2b:fb,Hewlett Packard
+3809,00:3a:9a:f7:78:a0,"Cisco Systems, Inc"
+3811,00:3a:9a:f7:79:67,"Cisco Systems, Inc"
+3812,bc:54:51:77:f8:10,"Samsung Electronics Co, Ltd"
+3813,00:3a:9a:f7:79:60,"Cisco Systems, Inc"
+3814,00:3a:9b:06:f1:30,"Cisco Systems, Inc"
+3815,00:3a:9b:06:f1:37,"Cisco Systems, Inc"
+3816,00:3a:9a:f7:78:a7,"Cisco Systems, Inc"
+3817,00:3a:9a:f7:78:a0,"Cisco Systems, Inc"
+3818,00:3a:9a:f7:79:67,"Cisco Systems, Inc"
+3819,00:3a:9a:f7:79:60,"Cisco Systems, Inc"
+3820,00:3a:9b:06:f1:30,"Cisco Systems, Inc"
+3821,00:3a:9b:06:f1:37,"Cisco Systems, Inc"
+3822,18:33:9d:8d:a3:f0,"Cisco Systems, Inc"
+3823,18:33:9d:8d:a3:f1,"Cisco Systems, Inc"
+3824,00:19:70:99:f5:e9,"Z-Com, Inc"
+3826,b0:4e:26:84:41:79,"TP-Link Tech Co, Ltd"
+3827,00:21:91:dc:90:98,D-Link Corp
+3828,00:1b:11:f5:cb:a2,D-Link Corp
+3829,54:b8:0a:0f:ef:6c,D-Link International
+3830,d0:17:c2:3d:5a:90,ASUSTek Computer Inc
+3831,d0:17:c2:3d:5a:98,ASUSTek Computer Inc
+3832,00:24:b2:bc:23:32,Netgear
+3833,00:14:5c:97:9f:1c,Intronics B.V.
+3834,18:31:bf:61:be:08,ASUSTek Computer Inc
+3835,00:18:4d:8c:0d:26,Netgear
+3836,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+3837,00:02:61:53:e7:49,Tilgin AB
+3838,00:22:6b:7b:2a:81,"Cisco-Linksys, Llc"
+3839,c4:67:b5:10:75:e3,Libratone A/S
+3840,00:21:91:dc:90:98,D-Link Corp
+3841,6c:3b:6b:66:e2:eb,Routerboard.com
+3843,48:f8:b3:f1:e2:20,"Cisco-Linksys, Llc"
+3844,34:21:09:19:20:d8,Jensen Scandinavia AS
+3845,94:46:96:2b:cd:98,BaudTec Corp
+3846,34:21:09:31:f8:72,Jensen Scandinavia AS
+3847,18:31:bf:61:be:08,ASUSTek Computer Inc
+3848,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+3849,94:46:96:2b:cd:98,BaudTec Corp
+3850,30:b5:c2:96:59:49,"TP-Link Tech Co, Ltd"
+3852,28:c6:8e:56:e7:ea,Netgear
+3853,6c:19:8f:c7:50:e8,D-Link International
+3855,18:31:bf:02:cd:90,ASUSTek Computer Inc
+3856,18:31:bf:67:98:88,ASUSTek Computer Inc
+3857,c4:67:b5:10:75:e3,Libratone A/S
+3859,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+3860,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+3861,c4:67:b5:10:75:e3,Libratone A/S
+3862,00:c8:8b:45:a0:2b,"Cisco Systems, Inc"
+3863,00:c8:8b:5b:91:0b,"Cisco Systems, Inc"
+3864,b0:4e:26:5e:ae:84,"TP-Link Tech Co, Ltd"
+3865,b0:4e:26:5e:ae:86,"TP-Link Tech Co, Ltd"
+3866,80:d2:1d:80:3f:bd,AzureWave Tech Inc
+3867,00:c8:8b:1a:55:e4,"Cisco Systems, Inc"
+3868,00:c8:8b:9c:5f:04,"Cisco Systems, Inc"
+3869,30:89:d3:c1:f7:80,Hongkong Ucloudlink Network Tech Ltd
+3870,2c:ae:2b:ae:d8:65,"Samsung Electronics Co, Ltd"
+3872,30:d6:c9:3b:31:b7,"Samsung Electronics Co, Ltd"
+3874,00:1d:7e:bc:42:85,"Cisco-Linksys, Llc"
+3875,18:31:bf:02:cd:90,ASUSTek Computer Inc
+3876,30:b5:c2:96:59:49,"TP-Link Tech Co, Ltd"
+3877,70:4f:57:8a:7e:b6,"TP-Link Tech Co, Ltd"
+3880,94:46:96:2b:cf:19,BaudTec Corp
+3881,94:46:96:2b:d0:e0,BaudTec Corp
+3882,c8:d7:19:91:46:c7,"Cisco-Linksys, Llc"
+3883,00:a0:57:17:a0:2a,Lancom Systems GmbH
+3884,10:be:f5:d5:60:7c,D-Link International
+3885,c4:a8:1d:83:4b:88,D-Link International
+3886,00:1a:70:9f:dc:2a,"Cisco-Linksys, Llc"
+3887,48:a1:95:e8:58:7c,"Apple, Inc"
+3889,10:c3:7b:a4:03:d8,ASUSTek Computer Inc
+3890,a0:d3:c1:a3:b8:50,Hewlett Packard
+3891,a0:d3:c1:ac:18:30,Hewlett Packard
+3892,00:06:25:ff:c6:c2,"The Linksys Group, Inc"
+3896,00:19:cb:eb:4a:e0,Zyxel Communications Corp
+3897,c4:6e:1f:40:82:d0,"TP-Link Tech Co, Ltd"
+3898,e8:de:27:fb:ab:df,"TP-Link Tech Co, Ltd"
+3899,00:a0:57:17:a0:2c,Lancom Systems GmbH
+3900,ec:1a:59:88:09:7f,Belkin International Inc
+3901,00:02:61:96:77:12,Tilgin AB
+3902,c0:56:27:11:14:49,Belkin International Inc
+3904,c0:56:27:11:14:4b,Belkin International Inc
+3905,d4:d7:48:b0:08:44,"Cisco Systems, Inc"
+3906,e8:04:62:60:5b:54,"Cisco Systems, Inc"
+3907,b0:39:56:92:48:3c,Netgear
+3908,d4:d7:48:45:fe:6b,"Cisco Systems, Inc"
+3909,e8:04:62:61:42:f4,"Cisco Systems, Inc"
+3910,18:a6:f7:3e:e4:0a,"TP-Link Tech Co, Ltd"
+3911,d4:d7:48:b0:08:4b,"Cisco Systems, Inc"
+3912,d4:d7:48:81:70:34,"Cisco Systems, Inc"
+3913,00:0e:8e:3b:23:60,"SparkLAN Communications, Inc"
+3914,00:0e:8e:3b:22:92,"SparkLAN Communications, Inc"
+3915,d4:d7:48:45:f1:34,"Cisco Systems, Inc"
+3916,d4:d7:48:45:f1:3b,"Cisco Systems, Inc"
+3917,64:a0:e7:28:a3:5b,"Cisco Systems, Inc"
+3918,00:1d:7e:30:24:41,"Cisco-Linksys, Llc"
+3919,00:1d:7e:30:24:41,"Cisco-Linksys, Llc"
+3920,64:d9:89:98:3d:64,"Cisco Systems, Inc"
+3921,50:c7:bf:09:c9:77,"TP-Link Tech Co, Ltd"
+3922,2c:36:f8:e8:73:e4,"Cisco Systems, Inc"
+3923,d4:6e:0e:fd:6d:d8,"TP-Link Tech Co, Ltd"
+3924,d4:d7:48:45:fe:6b,"Cisco Systems, Inc"
+3925,d4:d7:48:b0:08:4b,"Cisco Systems, Inc"
+3926,00:0e:8e:3b:22:92,"SparkLAN Communications, Inc"
+3927,64:a0:e7:28:a3:5b,"Cisco Systems, Inc"
+3928,80:ce:62:6e:2f:d8,Hewlett Packard
+3929,90:4e:2b:5b:8c:8e,"Huawei Tech Co, Ltd"
+3931,00:2a:10:13:71:54,"Cisco Systems, Inc"
+3932,fc:5b:39:69:e2:04,"Cisco Systems, Inc"
+3933,00:2a:10:f3:aa:2b,"Cisco Systems, Inc"
+3934,00:2a:10:13:6f:c4,"Cisco Systems, Inc"
+3935,84:3d:c6:06:1e:44,"Cisco Systems, Inc"
+3936,00:2a:10:11:32:04,"Cisco Systems, Inc"
+3937,84:3d:c6:0a:00:24,"Cisco Systems, Inc"
+3938,00:2a:10:13:71:44,"Cisco Systems, Inc"
+3939,30:b5:c2:22:b0:28,"TP-Link Tech Co, Ltd"
+3940,28:28:5d:fc:20:60,Zyxel Communications Corp
+3941,8c:a6:df:2f:54:b2,"TP-Link Tech Co, Ltd"
+3942,00:16:fb:ba:95:a4,Shenzhen Mtc Co Ltd
+3943,84:3d:c6:06:1d:b4,"Cisco Systems, Inc"
+3944,90:4e:2b:5b:8c:8e,"Huawei Tech Co, Ltd"
+3945,84:3d:c6:0a:1a:3b,"Cisco Systems, Inc"
+3946,84:3d:c6:0a:1a:34,"Cisco Systems, Inc"
+3947,e4:a7:c5:18:50:42,"Huawei Tech Co, Ltd"
+3948,e4:a7:c5:18:50:44,"Huawei Tech Co, Ltd"
+3950,ac:e2:d3:18:31:a6,Hewlett Packard
+3951,b8:8d:12:62:e0:43,"Apple, Inc"
+3952,50:46:5d:60:46:c0,ASUSTek Computer Inc
+3953,00:2a:10:f3:b8:54,"Cisco Systems, Inc"
+3954,58:ef:68:60:b6:19,Belkin International Inc
+3955,74:44:01:4e:ce:92,Netgear
+3956,00:62:ec:2d:d2:d5,"Cisco Systems, Inc"
+3957,00:62:ec:2d:d2:d4,"Cisco Systems, Inc"
+3958,00:62:ec:2d:d2:d7,"Cisco Systems, Inc"
+3959,e0:3f:49:07:e8:78,ASUSTek Computer Inc
+3960,10:62:eb:9c:6d:68,D-Link International
+3961,a0:04:60:9f:c7:c0,Netgear
+3962,00:62:ec:2d:d2:d2,"Cisco Systems, Inc"
+3963,80:d0:9b:aa:40:c0,"Huawei Tech Co, Ltd"
+3964,f4:30:b9:f3:b1:02,Hewlett Packard
+3965,54:a0:50:e5:4a:21,ASUSTek Computer Inc
+3966,10:7b:ef:ff:08:07,Zyxel Communications Corp
+3967,74:da:da:fb:d0:b8,D-Link International
+3968,00:62:ec:2d:d2:d0,"Cisco Systems, Inc"
+3969,ac:e2:d3:18:31:a6,Hewlett Packard
+3970,00:62:ec:2d:d2:d5,"Cisco Systems, Inc"
+3971,00:62:ec:2d:d2:d4,"Cisco Systems, Inc"
+3972,00:62:ec:2d:d2:d7,"Cisco Systems, Inc"
+3973,00:62:ec:2d:d2:d0,"Cisco Systems, Inc"
+3974,84:3d:c6:0a:1a:44,"Cisco Systems, Inc"
+3975,00:62:ec:2d:d2:d8,"Cisco Systems, Inc"
+3976,84:3d:c6:0a:1a:4b,"Cisco Systems, Inc"
+3977,00:16:fb:ba:95:a4,Shenzhen Mtc Co Ltd
+3978,8c:a6:df:2f:54:b2,"TP-Link Tech Co, Ltd"
+3979,10:62:eb:9d:44:64,D-Link International
+3981,28:28:5d:fc:20:60,Zyxel Communications Corp
+3982,38:d5:47:1f:52:d8,ASUSTek Computer Inc
+3983,54:a0:50:e5:4a:20,ASUSTek Computer Inc
+3984,34:21:09:15:93:28,Jensen Scandinavia AS
+3985,90:e6:ba:be:fd:db,ASUSTek Computer Inc
+3986,28:28:5d:fc:20:60,Zyxel Communications Corp
+3987,00:2a:10:f3:a6:34,"Cisco Systems, Inc"
+3988,84:3d:c6:29:8a:14,"Cisco Systems, Inc"
+3989,a0:63:91:fe:52:f4,Netgear
+3990,30:b5:c2:22:b0:28,"TP-Link Tech Co, Ltd"
+3991,50:6a:03:e1:ee:44,Netgear
+3992,70:62:b8:6e:46:84,D-Link International
+3993,00:16:fb:ba:95:a4,Shenzhen Mtc Co Ltd
+3994,8c:a6:df:2f:54:b2,"TP-Link Tech Co, Ltd"
+3995,28:28:5d:fc:20:60,Zyxel Communications Corp
+3996,30:b5:c2:22:b0:28,"TP-Link Tech Co, Ltd"
+3997,70:62:b8:6e:46:84,D-Link International
+3998,c0:a0:bb:ee:30:d2,D-Link International
+3999,a4:2b:8c:81:5d:70,Netgear
+4000,64:66:b3:de:fb:18,"TP-Link Tech Co, Ltd"
+4001,8c:a6:df:2f:54:b2,"TP-Link Tech Co, Ltd"
+4002,28:28:5d:fc:20:60,Zyxel Communications Corp
+4003,30:b5:c2:22:b0:28,"TP-Link Tech Co, Ltd"
+4004,10:62:eb:9c:59:ac,D-Link International
+4005,70:62:b8:6e:46:86,D-Link International
+4006,00:19:70:50:18:91,"Z-Com, Inc"
+4007,38:d5:47:1f:52:d8,ASUSTek Computer Inc
+4008,30:b5:c2:d0:8b:e4,"TP-Link Tech Co, Ltd"
+4009,48:f8:b3:26:e1:bb,"Cisco-Linksys, Llc"
+4010,38:d5:47:1f:52:d8,ASUSTek Computer Inc
+4011,48:f8:b3:26:e1:bb,"Cisco-Linksys, Llc"
+4012,10:0d:7f:6d:c0:1c,Netgear
+4013,dc:ef:09:a5:85:f2,Netgear
+4014,d0:66:7b:9e:21:75,"Samsung Electronics Co, Ltd"
+4015,9c:5c:8e:8d:ed:d0,ASUSTek Computer Inc
+4016,64:66:b3:de:fb:18,"TP-Link Tech Co, Ltd"
+4017,f8:32:e4:99:93:74,ASUSTek Computer Inc
+4018,84:16:f9:29:c1:4e,"TP-Link Tech Co, Ltd"
+4019,20:dc:e6:68:2f:b4,"TP-Link Tech Co, Ltd"
+4021,e4:a7:c5:18:50:42,"Huawei Tech Co, Ltd"
+4023,64:66:b3:de:fb:18,"TP-Link Tech Co, Ltd"
+4024,84:16:f9:29:c1:4e,"TP-Link Tech Co, Ltd"
+4026,14:a5:1a:d9:43:c4,"Huawei Tech Co, Ltd"
+4027,30:b5:c2:d0:8b:e4,"TP-Link Tech Co, Ltd"
+4028,38:2c:4a:a4:a4:58,ASUSTek Computer Inc
+4029,f0:99:bf:05:62:f3,"Apple, Inc"
+4030,20:4e:7f:8e:2d:66,Netgear
+4031,f0:99:bf:05:62:f2,"Apple, Inc"
+4032,18:31:bf:bf:3e:68,ASUSTek Computer Inc
+4033,a4:2b:8c:f4:d0:50,Netgear
+4034,94:46:96:2b:75:62,BaudTec Corp
+4035,a0:63:91:bd:ef:0c,Netgear
+4037,10:62:eb:9c:6d:68,D-Link International
+4038,70:8b:cd:c6:36:70,ASUSTek Computer Inc
+4039,20:4e:7f:73:e8:40,Netgear
+4040,dc:ef:09:01:06:d8,Netgear
+4041,00:26:f2:ea:bc:ee,Netgear
+4042,50:67:f0:32:16:64,Zyxel Communications Corp
+4044,f0:99:bf:05:62:f2,"Apple, Inc"
+4046,10:62:eb:9c:6d:68,D-Link International
+4047,00:18:e7:f9:3d:36,"Cameo Communications, Inc"
+4048,a0:63:91:05:c4:10,Netgear
+4049,c4:6e:1f:8c:bf:64,"TP-Link Tech Co, Ltd"
+4050,98:de:d0:f3:7a:cf,"TP-Link Tech Co, Ltd"
+4051,58:8b:f3:91:e9:fb,Zyxel Communications Corp
+4053,8c:3b:ad:13:a5:fb,Netgear
+4054,60:45:cb:8c:d3:c0,ASUSTek Computer Inc
+4055,ac:e2:d3:18:31:a6,Hewlett Packard
+4056,dc:ef:09:a5:7d:91,Netgear
+4057,00:18:39:d3:ce:52,"Cisco-Linksys, Llc"
+4061,30:b5:c2:d0:8b:e4,"TP-Link Tech Co, Ltd"
+4062,20:4e:7f:8e:2d:66,Netgear
+4063,60:45:cb:8c:d3:c0,ASUSTek Computer Inc
+4064,34:21:09:1b:15:58,Jensen Scandinavia AS
+4065,94:f6:65:0f:ab:58,Ruckus Wireless
+4066,a0:40:a0:6b:f2:00,Netgear
+4067,2c:30:33:29:b6:70,Netgear
+4068,34:21:09:24:79:08,Jensen Scandinavia AS
+4069,e4:6f:13:f9:43:44,D-Link International
+4070,20:4e:7f:73:e8:40,Netgear
+4071,10:7b:ef:c8:c1:18,Zyxel Communications Corp
+4072,00:19:70:83:ed:48,"Z-Com, Inc"
+4073,8c:dc:d4:99:01:50,Hewlett Packard
+4074,00:25:9c:34:97:24,"Cisco-Linksys, Llc"
+4075,e0:91:f5:70:ed:a0,Netgear
+4076,80:37:73:f8:8e:00,Netgear
+4077,54:04:a6:8f:dc:5a,ASUSTek Computer Inc
+4078,a0:04:60:9f:dc:78,Netgear
+4079,50:c7:bf:1e:4b:0e,"TP-Link Tech Co, Ltd"
+4080,30:b5:c2:c2:b3:3c,"TP-Link Tech Co, Ltd"
+4081,54:a0:50:e5:4a:21,ASUSTek Computer Inc
+4085,60:45:cb:8c:d3:c0,ASUSTek Computer Inc
+4086,e4:6f:13:f9:43:44,D-Link International
+4087,00:25:9c:34:97:24,"Cisco-Linksys, Llc"
+4088,80:37:73:f8:8e:00,Netgear
+4089,a0:04:60:9f:dc:78,Netgear
+4090,50:c7:bf:1e:4b:0e,"TP-Link Tech Co, Ltd"
+4091,54:a0:50:e5:4a:21,ASUSTek Computer Inc
+4092,e8:fc:af:fd:8f:2a,Netgear
+4093,00:1c:df:7e:e0:23,Belkin International Inc
+4094,c8:b3:73:42:e9:c9,"Cisco-Linksys, Llc"
+4095,94:10:3e:8c:af:92,Belkin International Inc
+4096,48:ee:0c:f2:43:27,D-Link International
+4097,48:ee:0c:f2:43:25,D-Link International
+4098,e0:46:9a:4e:67:79,Netgear
+4099,54:a0:50:e5:4a:20,ASUSTek Computer Inc
+4100,80:26:89:f8:d8:d6,D-Link International
+4101,60:e3:27:b8:24:b7,"TP-Link Tech Co, Ltd"
+4102,b4:75:0e:4a:5c:0c,Belkin International Inc
+4103,40:4a:03:74:f2:29,Zyxel Communications Corp
+4106,34:21:09:1b:15:58,Jensen Scandinavia AS
+4107,a0:40:a0:6b:f2:00,Netgear
+4108,e8:fc:af:fd:8f:2a,Netgear
+4109,48:ee:0c:f2:43:25,D-Link International
+4110,8c:dc:d4:99:01:40,Hewlett Packard
+4111,08:60:6e:cb:aa:30,ASUSTek Computer Inc
+4112,8c:dc:d4:99:01:50,Hewlett Packard
+4113,00:1f:33:b9:3e:19,Netgear
+4114,90:f6:52:54:dc:ba,"TP-Link Tech Co, Ltd"
+4115,e8:fc:af:fd:8f:29,Netgear
+4116,a0:04:60:9f:dc:7c,Netgear
+4117,14:91:82:1a:f7:b4,Belkin International Inc
+4118,28:c6:8e:3c:bf:90,Netgear
+4119,00:26:f2:1d:4c:60,Netgear
+4120,c8:d7:19:9a:64:cd,"Cisco-Linksys, Llc"
+4121,54:b8:0a:0b:e9:0c,D-Link International
+4122,40:9b:cd:75:f4:38,D-Link International
+4123,fc:f5:28:d4:cc:b0,Zyxel Communications Corp
+4124,94:10:3e:8c:af:93,Belkin International Inc
+4125,c0:56:27:be:96:8e,Belkin International Inc
+4126,a0:63:91:bd:e7:54,Netgear
+4127,70:62:b8:63:fa:30,D-Link International
+4128,38:4b:76:01:92:8f,Airtame ApS
+4129,94:10:3e:8c:af:92,Belkin International Inc
+4131,90:f6:52:54:dc:ba,"TP-Link Tech Co, Ltd"
+4133,10:7b:ef:c8:c1:18,Zyxel Communications Corp
+4134,54:04:a6:8f:dc:5a,ASUSTek Computer Inc
+4135,3c:1e:04:e8:f6:1b,D-Link International
+4136,20:4e:7f:22:ea:fc,Netgear
+4137,b4:75:0e:4a:5c:0c,Belkin International Inc
+4138,d0:17:c2:33:a5:28,ASUSTek Computer Inc
+4139,50:c7:bf:52:22:1c,"TP-Link Tech Co, Ltd"
+4140,00:1e:2a:52:61:b4,Netgear
+4141,dc:ef:09:ff:dd:a6,Netgear
+4142,c8:be:19:8f:39:da,D-Link International
+4143,94:10:3e:a1:43:56,Belkin International Inc
+4144,a0:04:60:9f:c7:c0,Netgear
+4145,20:e5:2a:e5:79:48,Netgear
+4146,9c:5c:8e:b8:1f:f8,ASUSTek Computer Inc
+4149,94:10:3e:8c:af:92,Belkin International Inc
+4150,10:62:eb:9c:6d:68,D-Link International
+4151,14:91:82:1a:f7:b4,Belkin International Inc
+4152,c8:d7:19:9a:64:cd,"Cisco-Linksys, Llc"
+4153,c0:56:27:be:96:8e,Belkin International Inc
+4154,54:04:a6:8f:dc:5a,ASUSTek Computer Inc
+4155,50:c7:bf:52:22:1c,"TP-Link Tech Co, Ltd"
+4156,dc:ef:09:ff:dd:a6,Netgear
+4157,c0:56:27:be:96:8f,Belkin International Inc
+4158,c4:e9:84:91:11:7f,"TP-Link Tech Co, Ltd"
+4159,c0:56:27:be:a5:02,Belkin International Inc
+4160,10:7b:ef:ff:08:07,Zyxel Communications Corp
+4161,00:0e:2e:c2:81:e5,Edimax Tech Co Ltd
+4162,c8:d7:19:9a:64:cc,"Cisco-Linksys, Llc"
+4163,2c:56:dc:ce:4d:70,ASUSTek Computer Inc
+4164,b0:b9:8a:4e:82:ca,Netgear
+4165,a0:04:60:9f:c7:c4,Netgear
+4166,18:a6:f7:bf:e5:38,"TP-Link Tech Co, Ltd"
+4168,38:4b:76:01:92:8f,Airtame ApS
+4172,dc:ef:09:ff:dd:a6,Netgear
+4173,b0:b9:8a:4e:82:ca,Netgear
+4175,9c:5c:8e:b8:1f:f8,ASUSTek Computer Inc
+4176,00:1c:f0:ef:16:3c,D-Link Corp
+4177,64:66:b3:54:e2:3d,"TP-Link Tech Co, Ltd"
+4178,e8:37:7a:87:52:e9,Zyxel Communications Corp
+4179,30:b5:c2:a2:fd:04,"TP-Link Tech Co, Ltd"
+4180,10:62:eb:9c:6d:6a,D-Link International
+4181,9c:5c:8e:b8:1f:fc,ASUSTek Computer Inc
+4182,74:44:01:88:ad:02,Netgear
+4183,d8:fe:e3:17:e4:4a,D-Link International
+4184,b0:6e:bf:d7:d4:18,ASUSTek Computer Inc
+4185,34:21:09:22:b1:f0,Jensen Scandinavia AS
+4186,00:24:01:70:62:e9,D-Link Corp
+4187,90:e6:ba:be:fd:db,ASUSTek Computer Inc
+4190,40:4a:03:74:f2:29,Zyxel Communications Corp
+4192,10:62:eb:9c:6d:68,D-Link International
+4194,20:4e:7f:22:ea:fc,Netgear
+4195,b4:75:0e:4a:5c:0c,Belkin International Inc
+4196,2c:56:dc:ce:4d:70,ASUSTek Computer Inc
+4197,18:a6:f7:bf:e5:38,"TP-Link Tech Co, Ltd"
+4198,d8:fe:e3:17:e4:4a,D-Link International
+4199,00:24:01:70:62:e9,D-Link Corp
+4200,90:e6:ba:be:fd:db,ASUSTek Computer Inc
+4201,48:ee:0c:f0:50:cb,D-Link International
+4202,48:ee:0c:f0:50:cd,D-Link International
+4203,30:5a:3a:4f:fb:88,ASUSTek Computer Inc
+4204,00:19:70:33:b3:4b,"Z-Com, Inc"
+4205,98:de:d0:d6:0a:b8,"TP-Link Tech Co, Ltd"
+4206,30:b5:c2:a2:fd:05,"TP-Link Tech Co, Ltd"
+4207,78:24:af:7b:e0:c8,ASUSTek Computer Inc
+4208,34:21:09:28:95:2b,Jensen Scandinavia AS
+4209,08:02:8e:99:e4:6e,Netgear
+4210,a0:63:91:bd:e9:fa,Netgear
+4211,a0:04:60:9f:c7:c0,Netgear
+4212,64:70:02:ba:0e:6b,"TP-Link Tech Co, Ltd"
+4213,08:02:8e:99:e2:cc,Netgear
+4214,74:da:da:fb:d0:b8,D-Link International
+4215,1c:5f:2b:0d:e3:84,D-Link International
+4216,a0:d3:c1:a3:be:f0,Hewlett Packard
+4217,00:23:f8:06:0c:13,Zyxel Communications Corp
+4218,ac:9e:17:ea:da:a8,ASUSTek Computer Inc
+4219,34:21:09:28:95:2c,Jensen Scandinavia AS
+4220,60:e3:27:af:ac:39,"TP-Link Tech Co, Ltd"
+4221,a0:63:91:78:2a:d2,Netgear
+4222,90:e6:ba:be:fd:db,ASUSTek Computer Inc
+4224,30:5a:3a:4f:fb:88,ASUSTek Computer Inc
+4225,34:21:09:28:95:2b,Jensen Scandinavia AS
+4226,08:02:8e:99:e4:6e,Netgear
+4227,08:02:8e:99:e2:cc,Netgear
+4228,70:62:b8:63:fa:30,D-Link International
+4229,10:7b:ef:ff:08:07,Zyxel Communications Corp
+4230,20:e5:2a:50:ba:78,Netgear
+4231,a0:ab:1b:85:0a:88,D-Link International
+4232,50:c7:bf:52:22:1b,"TP-Link Tech Co, Ltd"
+4233,10:fe:ed:f5:12:00,"TP-Link Tech Co, Ltd"
+4234,e8:94:f6:c7:a7:e8,"TP-Link Tech Co, Ltd"
+4235,70:4f:57:8a:ae:47,"TP-Link Tech Co, Ltd"
+4236,60:e3:27:af:fb:98,"TP-Link Tech Co, Ltd"
+4237,e0:3f:49:07:e8:78,ASUSTek Computer Inc
+4238,1c:5f:2b:10:e2:28,D-Link International
+4240,50:c7:bf:52:22:1c,"TP-Link Tech Co, Ltd"
+4241,74:da:da:fb:d0:b8,D-Link International
+4242,10:7b:ef:ff:08:07,Zyxel Communications Corp
+4243,a0:04:60:9f:c7:c4,Netgear
+4244,60:e3:27:af:fb:98,"TP-Link Tech Co, Ltd"
+4245,e0:3f:49:07:e8:78,ASUSTek Computer Inc
+4247,94:10:3e:a1:43:56,Belkin International Inc
+4248,b8:ec:a3:2e:4b:4c,Zyxel Communications Corp
+4249,d0:17:c2:33:a5:28,ASUSTek Computer Inc
+4250,ec:08:6b:e8:11:ca,"TP-Link Tech Co, Ltd"
+4251,90:ef:68:ff:cf:78,Zyxel Communications Corp
+4252,00:8e:f2:48:a3:9a,Netgear
+4253,34:21:09:24:fa:f0,Jensen Scandinavia AS
+4254,20:0c:c8:3b:e2:dc,Netgear
+4255,e8:94:f6:c7:a7:e7,"TP-Link Tech Co, Ltd"
+4256,50:46:5d:60:46:c0,ASUSTek Computer Inc
+4257,00:26:f2:00:e6:1c,Netgear
+4258,00:62:ec:2d:c4:07,"Cisco Systems, Inc"
+4261,e8:94:f6:c7:a7:e8,"TP-Link Tech Co, Ltd"
+4262,60:e3:27:af:fb:98,"TP-Link Tech Co, Ltd"
+4263,34:21:09:24:fa:f0,Jensen Scandinavia AS
+4264,60:e3:27:af:ac:39,"TP-Link Tech Co, Ltd"
+4265,00:62:ec:2d:c4:07,"Cisco Systems, Inc"
+4266,a0:04:60:9f:c7:c0,Netgear
+4267,90:ef:68:ff:cf:79,Zyxel Communications Corp
+4268,94:46:96:2b:d2:c3,BaudTec Corp
+4269,64:66:b3:dd:32:8e,"TP-Link Tech Co, Ltd"
+4270,88:1f:a1:35:e3:14,"Apple, Inc"
+4271,b8:8d:12:62:e0:44,"Apple, Inc"
+4272,60:e3:27:af:ac:38,"TP-Link Tech Co, Ltd"
+4273,e0:3f:49:07:e8:7c,ASUSTek Computer Inc
+4274,1c:5f:2b:66:2e:7d,D-Link International
+4275,a0:d3:c1:a3:de:90,Hewlett Packard
+4276,dc:ef:09:ff:db:76,Netgear
+4277,70:62:b8:67:9d:e8,D-Link International
+4278,00:1d:7e:30:24:41,"Cisco-Linksys, Llc"
+4279,e0:3f:49:07:e8:78,ASUSTek Computer Inc
+4280,d0:17:c2:33:a5:28,ASUSTek Computer Inc
+4281,e0:3f:49:07:e8:7c,ASUSTek Computer Inc
+4282,50:46:5d:60:46:c0,ASUSTek Computer Inc
+4283,00:62:ec:2d:c4:0a,"Cisco Systems, Inc"
+4284,28:37:37:43:f0:06,"Apple, Inc"
+4285,00:62:ec:2d:c4:04,"Cisco Systems, Inc"
+4286,00:62:ec:2d:c4:05,"Cisco Systems, Inc"
+4287,00:62:ec:2d:c4:0b,"Cisco Systems, Inc"
+4288,00:62:ec:2d:c4:0d,"Cisco Systems, Inc"
+4289,00:62:ec:2d:c4:08,"Cisco Systems, Inc"
+4290,20:4e:7f:77:ee:d7,Netgear
+4291,9c:5c:8e:b8:1f:f8,ASUSTek Computer Inc
+4292,b0:39:56:8b:ea:c8,Netgear
+4293,00:62:ec:2d:c4:0f,"Cisco Systems, Inc"
+4294,50:c7:bf:52:22:1c,"TP-Link Tech Co, Ltd"
+4295,10:7b:ef:ff:08:07,Zyxel Communications Corp
+4296,10:fe:ed:f5:12:00,"TP-Link Tech Co, Ltd"
+4297,00:8e:f2:48:a3:9a,Netgear
+4298,94:46:96:2b:d2:c3,BaudTec Corp
+4299,b8:ec:a3:2e:4b:4c,Zyxel Communications Corp
+4300,10:da:43:1c:a7:bf,Netgear
+4301,a0:ab:1b:85:0e:cc,D-Link International
+4302,34:21:09:22:b1:f0,Jensen Scandinavia AS
+4303,e4:6f:13:f9:53:86,D-Link International
+4304,00:26:f2:00:e6:1c,Netgear
+4306,00:62:ec:2d:c4:00,"Cisco Systems, Inc"
+4307,08:02:8e:99:e4:6e,Netgear
+4308,08:02:8e:99:e2:cc,Netgear
+4309,48:ee:0c:f0:50:cd,D-Link International
+4310,34:21:09:28:95:2b,Jensen Scandinavia AS
+4311,a0:63:91:bd:e9:fa,Netgear
+4312,d8:fe:e3:17:e4:4a,D-Link International
+4313,b0:6e:bf:d7:d4:18,ASUSTek Computer Inc
+4314,20:e5:2a:50:bf:78,Netgear
+4315,00:23:f8:02:08:f6,Zyxel Communications Corp
+4316,c8:be:19:8f:26:1e,D-Link International
+4317,34:21:09:28:95:2c,Jensen Scandinavia AS
+4318,70:4f:57:8a:ae:47,"TP-Link Tech Co, Ltd"
+4319,74:da:da:fb:d0:ba,D-Link International
+4320,60:38:e0:7b:07:8e,Belkin International Inc
+4322,90:e6:ba:be:fd:db,ASUSTek Computer Inc
+4323,00:19:70:33:b3:4b,"Z-Com, Inc"
+4324,10:62:eb:9c:6d:6a,D-Link International
+4325,48:ee:0c:f0:50:cd,D-Link International
+4326,18:a6:f7:bf:e5:38,"TP-Link Tech Co, Ltd"
+4327,a0:63:91:bd:e9:fa,Netgear
+4328,b0:6e:bf:d7:d4:18,ASUSTek Computer Inc
+4329,dc:ef:09:ff:dd:a6,Netgear
+4330,20:e5:2a:50:bf:78,Netgear
+4331,00:23:f8:02:08:f6,Zyxel Communications Corp
+4332,74:da:da:fb:d0:b8,D-Link International
+4333,c8:be:19:8f:26:1e,D-Link International
+4334,20:e5:2a:50:ba:78,Netgear
+4335,70:4f:57:8a:ae:47,"TP-Link Tech Co, Ltd"
+4337,70:62:b8:63:fa:32,D-Link International
+4338,10:62:eb:97:ce:44,D-Link International
+4339,a0:63:91:78:2a:d2,Netgear
+4340,70:4f:57:8a:ae:46,"TP-Link Tech Co, Ltd"
+4341,b4:75:0e:4a:5c:0d,Belkin International Inc
+4342,e0:91:f5:cc:de:55,Netgear
+4344,00:19:70:33:b3:4b,"Z-Com, Inc"
+4345,18:a6:f7:bf:e5:38,"TP-Link Tech Co, Ltd"
+4346,d8:fe:e3:17:e4:4a,D-Link International
+4347,b0:6e:bf:d7:d4:18,ASUSTek Computer Inc
+4348,20:e5:2a:50:bf:78,Netgear
+4349,00:23:f8:02:08:f6,Zyxel Communications Corp
+4350,48:ee:0c:f0:50:cb,D-Link International
+4351,74:da:da:fb:d0:b8,D-Link International
+4352,c8:be:19:8f:26:1e,D-Link International
+4353,90:ef:68:ff:cf:78,Zyxel Communications Corp
+4354,70:4f:57:8a:ae:47,"TP-Link Tech Co, Ltd"
+4356,70:62:b8:63:fa:30,D-Link International
+4357,10:62:eb:97:ce:44,D-Link International
+4358,a0:63:91:78:2a:d2,Netgear
+4359,e0:91:f5:cc:de:55,Netgear
+4360,74:da:da:fb:d0:ba,D-Link International
+4361,e0:91:f5:cc:de:53,Netgear
+4362,ec:08:6b:e8:11:ca,"TP-Link Tech Co, Ltd"
+4363,60:38:e0:7b:07:8e,Belkin International Inc
+4364,60:38:e0:7b:07:8d,Belkin International Inc
+4365,10:62:eb:97:ce:46,D-Link International
+4366,50:c7:bf:23:41:82,"TP-Link Tech Co, Ltd"
+4367,b0:39:56:8b:ea:c8,Netgear
+4368,98:de:d0:95:45:e6,"TP-Link Tech Co, Ltd"
+4369,c0:3f:0e:7d:42:5f,Netgear
+4371,70:4f:57:8a:ae:47,"TP-Link Tech Co, Ltd"
+4372,70:4f:57:8a:ae:46,"TP-Link Tech Co, Ltd"
+4373,e0:91:f5:cc:de:53,Netgear
+4374,a0:d3:c1:a3:be:f0,Hewlett Packard
+4376,64:66:b3:54:e2:3d,"TP-Link Tech Co, Ltd"
+4377,e8:37:7a:87:52:e9,Zyxel Communications Corp
+4378,a0:04:60:03:e1:60,Netgear
+4379,a0:d3:c1:a3:ba:b0,Hewlett Packard
+4380,a0:d3:c1:a3:c8:10,Hewlett Packard
+4381,a0:d3:c1:a3:be:e0,Hewlett Packard
+4382,a0:d3:c1:a3:c8:00,Hewlett Packard
+4383,a0:d3:c1:a3:ba:60,Hewlett Packard
+4384,a0:d3:c1:ac:17:60,Hewlett Packard
+4385,70:4f:57:45:5d:30,"TP-Link Tech Co, Ltd"
+4386,18:d6:c7:90:e8:25,"TP-Link Tech Co, Ltd"
+4387,a0:04:60:03:e1:58,Netgear
+4388,80:26:89:4c:a0:15,D-Link International
+4390,18:d6:c7:90:e8:25,"TP-Link Tech Co, Ltd"
+4391,a0:04:60:03:e1:58,Netgear
+4392,a0:d3:c1:a3:c8:50,Hewlett Packard
+4393,38:2c:4a:e9:ff:f0,ASUSTek Computer Inc
+4394,54:a0:50:57:ba:cc,ASUSTek Computer Inc
+4395,00:0e:2e:e0:44:2c,Edimax Tech Co Ltd
+4396,2c:56:dc:4f:64:68,ASUSTek Computer Inc
+4397,30:b5:c2:7e:7e:30,"TP-Link Tech Co, Ltd"
+4398,2c:56:dc:4f:64:6c,ASUSTek Computer Inc
+4399,10:be:f5:23:4d:c0,D-Link International
+4400,ac:9e:17:eb:f7:ec,ASUSTek Computer Inc
+4401,54:a0:50:57:ba:c8,ASUSTek Computer Inc
+4402,c0:3f:0e:7d:42:5f,Netgear
+4403,18:d6:c7:90:e8:24,"TP-Link Tech Co, Ltd"
+4404,a0:d3:c1:a3:de:90,Hewlett Packard
+4406,98:e7:f4:9c:ce:b5,Hewlett Packard
+4407,18:a6:f7:3e:ed:5b,"TP-Link Tech Co, Ltd"
+4408,10:be:f5:23:4d:c2,D-Link International
+4409,dc:ef:09:ff:e6:c2,Netgear
+4410,18:d6:c7:89:5b:e0,"TP-Link Tech Co, Ltd"
+4411,a0:d3:c1:a3:c8:40,Hewlett Packard
+4412,80:26:89:4c:a0:17,D-Link International
+4413,14:cc:20:be:90:49,"TP-Link Tech Co, Ltd"
+4414,10:7b:ef:ca:1e:8c,Zyxel Communications Corp
+4415,2c:56:dc:4f:cd:32,ASUSTek Computer Inc
+4418,54:a0:50:57:ba:cc,ASUSTek Computer Inc
+4419,00:0e:2e:e0:44:2c,Edimax Tech Co Ltd
+4420,2c:56:dc:4f:64:68,ASUSTek Computer Inc
+4421,10:be:f5:23:4d:c0,D-Link International
+4422,54:a0:50:57:ba:c8,ASUSTek Computer Inc
+4423,98:e7:f4:9c:ce:b5,Hewlett Packard
+4424,10:be:f5:23:4d:c2,D-Link International
+4425,ac:9e:17:ea:da:a8,ASUSTek Computer Inc
+4426,10:7b:ef:ca:1e:8c,Zyxel Communications Corp
+4427,2c:56:dc:4f:cd:32,ASUSTek Computer Inc
+4428,94:46:96:2b:ce:94,BaudTec Corp
+4429,10:62:eb:9c:6c:a4,D-Link International
+4430,00:11:32:53:50:1c,Synology Inc
+4431,70:4f:57:45:5d:30,"TP-Link Tech Co, Ltd"
+4432,00:11:32:53:50:1b,Synology Inc
+4433,08:02:8e:99:de:70,Netgear
+4434,10:da:43:08:e0:66,Netgear
+4435,00:1c:f0:c5:91:b3,D-Link Corp
+4436,10:62:eb:9c:54:50,D-Link International
+4437,c0:a0:bb:ee:28:c8,D-Link International
+4438,10:62:eb:44:7f:27,D-Link International
+4439,c0:ee:fb:92:9f:09,OnePlus Tech (Shenzhen) Ltd
+4440,10:da:43:1c:a7:11,Netgear
+4441,a0:d3:c1:a3:de:b0,Hewlett Packard
+4442,a0:d3:c1:a3:c8:70,Hewlett Packard
+4443,10:62:eb:9c:6c:a6,D-Link International
+4444,00:03:40:a9:81:07,"Floware Wireless Systems, Ltd"
+4445,f0:9f:c2:2a:91:50,Ubiquiti Networks Inc
+4446,34:21:09:2d:7e:28,Jensen Scandinavia AS
+4447,2c:56:dc:4f:cd:30,ASUSTek Computer Inc
+4448,c0:a0:bb:ee:28:ca,D-Link International
+4449,c8:b3:73:57:7d:74,"Cisco-Linksys, Llc"
+4450,2c:4d:54:1b:09:44,ASUSTek Computer Inc
+4451,80:26:89:e9:fe:d0,D-Link International
+4452,10:0d:7f:47:e7:40,Netgear
+4453,2c:fd:a1:2d:00:78,ASUSTek Computer Inc
+4454,a0:d3:c1:a3:c8:30,Hewlett Packard
+4455,84:c9:b2:aa:10:76,D-Link International
+4456,1c:b7:2c:35:d3:01,ASUSTek Computer Inc
+4457,10:bf:48:3e:18:a3,ASUSTek Computer Inc
+4458,00:22:6b:85:b4:95,"Cisco-Linksys, Llc"
+4460,30:b5:c2:7e:7e:30,"TP-Link Tech Co, Ltd"
+4461,54:a0:50:57:ba:c8,ASUSTek Computer Inc
+4463,dc:ef:09:ff:e6:c2,Netgear
+4464,94:46:96:2b:ce:94,BaudTec Corp
+4465,f0:9f:c2:2a:91:50,Ubiquiti Networks Inc
+4466,2c:4d:54:1b:09:44,ASUSTek Computer Inc
+4467,d0:17:c2:33:a5:28,ASUSTek Computer Inc
+4468,94:46:96:2b:cf:b3,BaudTec Corp
+4469,b8:a3:86:aa:67:92,D-Link International
+4470,2c:56:dc:4f:cd:34,ASUSTek Computer Inc
+4471,a4:2b:8c:fd:02:e8,Netgear
+4472,2c:56:dc:4f:81:98,ASUSTek Computer Inc
+4473,c4:6e:1f:ea:d0:0d,"TP-Link Tech Co, Ltd"
+4474,80:26:89:e9:fe:ce,D-Link International
+4475,1c:5f:2b:fd:57:90,D-Link International
+4476,a0:d3:c1:ac:17:70,Hewlett Packard
+4477,10:62:eb:44:7f:29,D-Link International
+4479,d8:fe:e3:dd:6b:d2,D-Link International
+4481,2c:56:dc:4f:cd:32,ASUSTek Computer Inc
+4482,10:da:43:08:e0:66,Netgear
+4483,c0:a0:bb:ee:28:c8,D-Link International
+4484,10:62:eb:44:7f:27,D-Link International
+4485,10:62:eb:9c:6c:a6,D-Link International
+4486,2c:56:dc:4f:cd:30,ASUSTek Computer Inc
+4487,00:22:6b:85:b4:95,"Cisco-Linksys, Llc"
+4488,38:2c:4a:e9:ff:f0,ASUSTek Computer Inc
+4489,18:d6:c7:89:5b:e0,"TP-Link Tech Co, Ltd"
+4490,18:d6:c7:90:b4:e0,"TP-Link Tech Co, Ltd"
+4491,ac:5f:3e:32:71:52,Samsung Electro-Mechanics(Thailand)
+4492,40:4a:03:00:5f:00,Zyxel Communications Corp
+4493,c4:e9:84:a1:cf:a2,"TP-Link Tech Co, Ltd"
+4494,18:d6:c7:90:b4:df,"TP-Link Tech Co, Ltd"
+4495,a0:d3:c1:a3:e8:50,Hewlett Packard
+4496,70:62:b8:67:9d:e8,D-Link International
+4497,18:a6:f7:27:8b:3e,"TP-Link Tech Co, Ltd"
+4498,c8:3a:35:4d:41:38,"Tenda Tech Co, Ltd"
+4500,10:7b:ef:ca:1e:8c,Zyxel Communications Corp
+4501,c0:a0:bb:ee:28:c8,D-Link International
+4502,2c:4d:54:1b:09:44,ASUSTek Computer Inc
+4503,ac:5f:3e:32:71:52,Samsung Electro-Mechanics(Thailand)
+4504,a0:d3:c1:a3:e8:50,Hewlett Packard
+4505,dc:ef:09:ff:e6:c2,Netgear
+4506,b8:a3:86:aa:67:92,D-Link International
+4507,20:4e:7f:08:52:e6,Netgear
+4508,a0:d3:c1:a3:c8:70,Hewlett Packard
+4509,2c:56:dc:4f:cd:34,ASUSTek Computer Inc
+4510,a0:ab:1b:54:99:d0,D-Link International
+4511,84:c9:b2:aa:10:76,D-Link International
+4512,a0:ab:1b:54:99:d2,D-Link International
+4513,a4:2b:b0:f6:15:92,"TP-Link Tech Co, Ltd"
+4514,c8:b3:73:57:7d:74,"Cisco-Linksys, Llc"
+4515,a4:2b:b0:f6:15:92,"TP-Link Tech Co, Ltd"
+4517,00:11:32:53:50:1b,Synology Inc
+4518,2c:b0:5d:39:54:4f,Netgear
+4519,84:1b:5e:e7:f7:3c,Netgear
+4520,1c:5f:2b:fd:57:90,D-Link International
+4521,a0:d3:c1:ac:17:70,Hewlett Packard
+4522,c0:a0:bb:ea:c0:e3,D-Link International
+4523,e0:3f:49:6a:02:f8,ASUSTek Computer Inc
+4524,2c:b0:5d:39:54:4e,Netgear
+4525,a4:2b:b0:f6:15:91,"TP-Link Tech Co, Ltd"
+4526,a0:d3:c1:a3:c8:90,Hewlett Packard
+4527,c8:3a:35:4d:41:38,"Tenda Tech Co, Ltd"
+4528,b8:a3:86:aa:67:92,D-Link International
+4529,20:4e:7f:08:52:e6,Netgear
+4531,a0:d3:c1:a3:c8:90,Hewlett Packard
+4532,c8:3a:35:4d:46:e8,"Tenda Tech Co, Ltd"
+4533,c4:e9:84:a1:cf:a2,"TP-Link Tech Co, Ltd"
+4534,d8:eb:97:2b:60:89,"TRENDnet, Inc"
+4535,c0:a0:bb:ea:bd:4d,D-Link International
+4536,e0:3f:49:6a:02:fc,ASUSTek Computer Inc
+4537,58:8b:f3:99:8f:48,Zyxel Communications Corp
+4538,a0:d3:c1:ac:17:50,Hewlett Packard
+4539,54:b8:0a:f6:86:e4,D-Link International
+4540,34:21:09:2b:05:88,Jensen Scandinavia AS
+4541,e4:6f:13:38:d0:50,D-Link International
+4545,20:4e:7f:08:52:e6,Netgear
+4546,c8:b3:73:57:7d:74,"Cisco-Linksys, Llc"
+4547,a4:2b:b0:f6:15:92,"TP-Link Tech Co, Ltd"
+4549,84:1b:5e:e7:f7:3c,Netgear
+4550,c0:a0:bb:ea:bd:4d,D-Link International
+4551,58:8b:f3:99:8f:48,Zyxel Communications Corp
+4552,34:21:09:2b:05:88,Jensen Scandinavia AS
+4554,a4:2b:b0:f6:15:91,"TP-Link Tech Co, Ltd"
+4555,58:8b:f3:99:8f:49,Zyxel Communications Corp
+4556,00:22:75:f4:27:ce,Belkin International Inc
+4557,2c:30:33:33:ce:ac,Netgear
+4558,08:02:8e:99:e4:30,Netgear
+4559,1c:5f:2b:0d:c6:fc,D-Link International
+4560,a0:d3:c1:a3:be:d0,Hewlett Packard
+4561,a0:63:91:03:11:a8,Netgear
+4562,bc:ee:7b:56:6d:74,ASUSTek Computer Inc
+4563,70:62:b8:62:9f:0c,D-Link International
+4564,00:02:61:96:77:12,Tilgin AB
+4565,a0:d3:c1:a9:32:b0,Hewlett Packard
+4566,00:22:75:f4:27:ce,Belkin International Inc
+4567,84:1b:5e:e7:f7:3b,Netgear
+4568,94:46:96:2b:c8:cf,BaudTec Corp
+4569,a0:d3:c1:a3:c8:80,Hewlett Packard
+4570,2c:30:33:33:ce:a8,Netgear
+4571,b8:a3:86:21:6e:7a,D-Link International
+4572,10:62:eb:44:7d:bc,D-Link International
+4573,04:a1:51:10:9f:e0,Netgear
+4574,34:21:09:2d:99:c8,Jensen Scandinavia AS
+4575,a0:63:91:03:11:ac,Netgear
+4576,6c:19:8f:c7:50:e8,D-Link International
+4577,e8:cc:18:fd:92:b8,D-Link International
+4578,c0:a0:bb:ea:bd:4f,D-Link International
+4579,a0:d3:c1:a3:ba:50,Hewlett Packard
+4580,28:80:23:99:fa:a0,Hewlett Packard
+4581,10:62:eb:44:7d:be,D-Link International
+4582,10:da:43:c8:dd:96,Netgear
+4583,a0:63:91:a1:5f:b6,Netgear
+4584,b0:7f:b9:17:80:38,Netgear
+4585,e8:cc:18:fd:92:ba,D-Link International
+4586,c0:a0:bb:eb:de:4e,D-Link International
+4587,34:21:09:28:67:ce,Jensen Scandinavia AS
+4588,fc:3f:db:80:16:20,Hewlett Packard
+4589,10:da:43:c8:dd:97,Netgear
+4590,a0:48:1c:4c:06:90,Hewlett Packard
+4591,50:c7:bf:c1:0c:d8,"TP-Link Tech Co, Ltd"
+4592,c4:6e:1f:40:82:d0,"TP-Link Tech Co, Ltd"
+4593,10:0d:7f:60:e4:f6,Netgear
+4594,c4:3d:c7:89:1a:7e,Netgear
+4596,c0:a0:bb:ea:bd:4d,D-Link International
+4597,1c:5f:2b:0d:c6:fc,D-Link International
+4598,a0:63:91:03:11:a8,Netgear
+4599,10:da:43:c8:dd:96,Netgear
+4600,a0:63:91:a1:5f:b6,Netgear
+4601,c0:a0:bb:eb:de:4e,D-Link International
+4602,10:da:43:c8:dd:97,Netgear
+4603,10:0d:7f:60:e4:f6,Netgear
+4604,4c:60:de:92:4d:42,Netgear
+4605,10:62:eb:97:c2:80,D-Link International
+4606,00:1e:c2:f6:bd:01,"Apple, Inc"
+4607,00:24:b2:92:84:ea,Netgear
+4608,28:28:5d:fc:28:b8,Zyxel Communications Corp
+4609,10:bf:48:3e:18:a3,ASUSTek Computer Inc
+4610,74:da:38:cd:04:9c,Edimax Tech Co Ltd
+4611,84:16:f9:ae:bd:62,"TP-Link Tech Co, Ltd"
+4612,08:60:6e:bf:af:68,ASUSTek Computer Inc
+4613,e0:3f:49:d1:29:e8,ASUSTek Computer Inc
+4614,b0:6e:bf:49:f0:0c,ASUSTek Computer Inc
+4615,00:24:b2:ba:a0:74,Netgear
+4616,1c:5f:2b:66:ce:ec,D-Link International
+4617,08:02:8e:99:e3:8e,Netgear
+4620,ac:5f:3e:32:71:52,Samsung Electro-Mechanics(Thailand)
+4621,34:21:09:2b:05:88,Jensen Scandinavia AS
+4622,1c:5f:2b:0d:c6:fc,D-Link International
+4623,10:0d:7f:60:e4:f6,Netgear
+4624,00:1e:c2:f6:bd:01,"Apple, Inc"
+4625,e0:3f:49:d1:29:e8,ASUSTek Computer Inc
+4627,00:1d:7e:bc:42:85,"Cisco-Linksys, Llc"
+4628,18:31:bf:02:cd:90,ASUSTek Computer Inc
+4629,fc:3f:db:80:16:20,Hewlett Packard
+4630,c4:3d:c7:89:1a:7e,Netgear
+4631,a0:d3:c1:ac:17:f0,Hewlett Packard
+4632,70:8b:cd:87:07:a0,ASUSTek Computer Inc
+4633,10:c3:7b:a4:03:d8,ASUSTek Computer Inc
+4634,20:0c:c8:3b:e2:2e,Netgear
+4635,28:c6:8e:06:c0:52,Netgear
+4636,00:06:25:ff:c6:c2,"The Linksys Group, Inc"
+4638,34:21:09:2b:05:88,Jensen Scandinavia AS
+4639,a0:63:91:03:11:a8,Netgear
+4640,34:21:09:2d:99:c8,Jensen Scandinavia AS
+4641,a0:63:91:03:11:ac,Netgear
+4642,08:02:8e:99:e4:30,Netgear
+4643,a0:d3:c1:a3:c8:90,Hewlett Packard
+4644,c8:be:19:73:63:80,D-Link International
+4645,70:8b:cd:87:07:a4,ASUSTek Computer Inc
+4646,94:46:96:2b:c7:2b,BaudTec Corp
+4647,08:02:8e:8a:b7:ca,Netgear
+4649,10:7b:44:b5:9a:d4,ASUSTek Computer Inc
+4650,54:b8:0a:f6:86:e4,D-Link International
+4652,38:d5:47:43:d6:e8,ASUSTek Computer Inc
+4653,70:4f:57:27:ae:0c,"TP-Link Tech Co, Ltd"
+4654,94:46:96:2b:cf:19,BaudTec Corp
+4655,b0:39:56:19:c7:fc,Netgear
+4656,a0:d3:c1:ac:17:30,Hewlett Packard
+4657,b0:4e:26:a7:a7:bb,"TP-Link Tech Co, Ltd"
+4658,a0:d3:c1:ac:17:00,Hewlett Packard
+4659,a0:d3:c1:ac:18:30,Hewlett Packard
+4660,08:02:8e:8a:b7:c9,Netgear
+4661,c8:d7:19:91:46:c7,"Cisco-Linksys, Llc"
+4662,34:21:09:31:f8:72,Jensen Scandinavia AS
+4663,18:60:24:d6:c9:a3,Hewlett Packard
+4664,e4:f4:c6:4e:68:ec,Netgear
+4665,18:31:bf:67:98:88,ASUSTek Computer Inc
+4668,60:e3:27:2d:5a:48,"TP-Link Tech Co, Ltd"
+4669,a0:63:91:03:11:a8,Netgear
+4670,34:21:09:2d:99:c8,Jensen Scandinavia AS
+4671,70:8b:cd:87:07:a0,ASUSTek Computer Inc
+4672,c8:be:19:73:63:80,D-Link International
+4673,94:46:96:2b:c7:2b,BaudTec Corp
+4674,54:b8:0a:f6:86:e4,D-Link International
+4676,38:d5:47:43:d6:e8,ASUSTek Computer Inc
+4677,94:46:96:2b:cf:19,BaudTec Corp
+4678,b0:39:56:19:c7:fc,Netgear
+4679,10:bf:48:3e:18:a3,ASUSTek Computer Inc
+4680,b0:4e:26:a7:a7:bb,"TP-Link Tech Co, Ltd"
+4681,18:60:24:d6:c9:a3,Hewlett Packard
+4682,e4:f4:c6:4e:68:ec,Netgear
+4684,60:e3:27:2d:5a:48,"TP-Link Tech Co, Ltd"
+4685,18:d6:c7:ba:af:52,"TP-Link Tech Co, Ltd"
+4686,14:d6:4d:2e:10:e0,D-Link International
+4688,00:1a:70:9f:dc:2a,"Cisco-Linksys, Llc"
+4689,08:02:8e:8d:8f:c7,Netgear
+4691,34:21:09:38:85:51,Jensen Scandinavia AS
+4692,a0:d3:c1:a3:b9:80,Hewlett Packard
+4693,c4:a8:1d:83:4b:88,D-Link International
+4694,a0:d3:c1:a3:b8:50,Hewlett Packard
+4695,60:e3:27:9a:99:2a,"TP-Link Tech Co, Ltd"
+4696,00:1f:1f:7c:61:f8,Edimax Tech Co Ltd
+4697,e4:6f:13:f9:44:20,D-Link International
+4699,70:4f:57:27:ae:0c,"TP-Link Tech Co, Ltd"
+4700,b0:4e:26:a7:a7:bb,"TP-Link Tech Co, Ltd"
+4701,c8:d7:19:91:46:c7,"Cisco-Linksys, Llc"
+4704,a0:d3:c1:a3:b8:50,Hewlett Packard
+4705,c4:6e:1f:40:82:d0,"TP-Link Tech Co, Ltd"
+4706,00:19:cb:15:03:93,Zyxel Communications Corp
+4707,a0:63:91:b5:3c:b2,Netgear
+4708,a0:d3:c1:a3:ba:80,Hewlett Packard
+4709,00:02:61:96:77:12,Tilgin AB
+4710,c8:d7:19:91:46:c6,"Cisco-Linksys, Llc"
+4711,a0:d3:c1:a3:ba:90,Hewlett Packard
+4712,c8:d7:19:e2:34:e7,"Cisco-Linksys, Llc"
+4713,94:46:96:2b:d0:e0,BaudTec Corp
+4714,ec:1a:59:88:09:7f,Belkin International Inc
+4715,70:62:b8:62:9f:0c,D-Link International
+4716,30:b5:c2:96:59:49,"TP-Link Tech Co, Ltd"
+4717,38:63:bb:78:7f:b7,Hewlett Packard
+4718,08:02:8e:8d:8f:c6,Netgear
+4719,34:21:09:28:be:5d,Jensen Scandinavia AS
+4720,c0:56:27:11:14:4a,Belkin International Inc
+4723,10:bf:48:3e:18:a3,ASUSTek Computer Inc
+4724,c8:d7:19:91:46:c7,"Cisco-Linksys, Llc"
+4727,c4:a8:1d:83:4b:88,D-Link International
+4728,00:02:61:96:77:12,Tilgin AB
+4729,a0:d3:c1:a3:ba:90,Hewlett Packard
+4730,94:46:96:2b:d0:e0,BaudTec Corp
+4731,38:63:bb:78:7f:b7,Hewlett Packard
+4732,34:21:09:28:be:5d,Jensen Scandinavia AS
+4733,c0:56:27:11:14:4a,Belkin International Inc
+4735,c0:56:27:11:14:49,Belkin International Inc
+4736,94:10:3e:94:e0:cc,Belkin International Inc
+4737,94:46:96:2b:7d:26,BaudTec Corp
+4738,94:10:3e:94:e0:ce,Belkin International Inc
+4739,c4:a8:1d:83:4b:8a,D-Link International
+4740,34:36:3b:c1:fd:bb,"Apple, Inc"
+4741,80:26:89:f8:dc:f5,D-Link International
+4742,00:22:3f:32:31:1e,Netgear
+4743,cc:e1:d5:7d:57:8c,Buffalo.Inc
+4744,20:c9:d0:26:6a:b9,"Apple, Inc"
+4745,34:21:09:28:be:5e,Jensen Scandinavia AS
+4746,10:0d:7f:91:73:56,Netgear
+4747,a0:04:60:9f:d5:68,Netgear
+4748,10:fe:ed:c2:68:ce,"TP-Link Tech Co, Ltd"
+4749,34:21:09:2e:04:d0,Jensen Scandinavia AS
+4750,c0:56:27:11:14:4b,Belkin International Inc
+4751,00:11:6b:18:05:c8,"Digital Data Communications Asia Co, Ltd"
+4753,10:bf:48:3e:18:a3,ASUSTek Computer Inc
+4754,b8:a3:86:21:6e:7a,D-Link International
+4755,c4:6e:1f:40:82:d0,"TP-Link Tech Co, Ltd"
+4756,00:02:61:96:77:12,Tilgin AB
+4757,70:62:b8:62:9f:0c,D-Link International
+4758,34:21:09:28:be:5d,Jensen Scandinavia AS
+4760,94:10:3e:94:e0:cc,Belkin International Inc
+4761,34:21:09:28:be:5e,Jensen Scandinavia AS
+4762,60:e3:27:9a:99:2a,"TP-Link Tech Co, Ltd"
+4763,cc:e1:d5:7d:57:88,Buffalo.Inc
+4764,a0:d3:c1:a3:b9:a0,Hewlett Packard
+4765,18:31:bf:67:98:88,ASUSTek Computer Inc
+4766,a0:d3:c1:a3:b9:b0,Hewlett Packard
+4767,a0:d3:c1:a3:b9:90,Hewlett Packard
+4768,10:0d:7f:63:9d:0c,Netgear
+4769,a0:d3:c1:a3:b9:d0,Hewlett Packard
+4770,80:26:89:f8:dc:f3,D-Link International
+4771,34:36:3b:c1:fd:ba,"Apple, Inc"
+4772,a4:2b:b0:a5:c2:35,"TP-Link Tech Co, Ltd"
+4773,a0:d3:c1:a3:b9:f0,Hewlett Packard
+4774,70:62:b8:62:9f:0c,D-Link International
+4776,94:10:3e:94:e0:cc,Belkin International Inc
+4777,34:36:3b:c1:fd:bb,"Apple, Inc"
+4778,34:21:09:2e:04:d0,Jensen Scandinavia AS
+4779,34:36:3b:c1:fd:ba,"Apple, Inc"
+4780,34:21:09:31:f8:72,Jensen Scandinavia AS
+4781,70:62:b8:62:9f:0e,D-Link International
+4782,80:26:89:f8:dc:f5,D-Link International
+4783,00:22:6b:7b:2a:81,"Cisco-Linksys, Llc"
+4784,b0:7f:b9:17:80:d4,Netgear
+4785,bc:67:1c:1f:1d:2b,"Cisco Systems, Inc"
+4786,34:21:09:31:f8:73,Jensen Scandinavia AS
+4787,a0:63:91:78:5d:18,Netgear
+4789,e8:de:27:fb:ab:df,"TP-Link Tech Co, Ltd"
+4790,a0:d3:c1:a3:b9:c0,Hewlett Packard
+4791,b0:7f:b9:17:80:d0,Netgear
+4792,a0:63:91:78:5d:b6,Netgear
+4793,20:4e:7f:aa:e1:3c,Netgear
+4794,14:91:82:a9:9f:82,Belkin International Inc
+4795,2c:fd:a1:0d:d5:18,ASUSTek Computer Inc
+4796,48:a1:95:e8:58:7c,"Apple, Inc"
+4797,00:19:cb:eb:4a:e0,Zyxel Communications Corp
+4798,e0:91:f5:ad:b5:d1,Netgear
+4799,70:62:b8:62:9f:0c,D-Link International
+4800,60:e3:27:9a:99:2a,"TP-Link Tech Co, Ltd"
+4801,10:0d:7f:63:9d:0c,Netgear
+4802,a0:d3:c1:a3:b9:d0,Hewlett Packard
+4803,80:26:89:f8:dc:f3,D-Link International
+4804,34:36:3b:c1:fd:ba,"Apple, Inc"
+4805,34:21:09:31:f8:72,Jensen Scandinavia AS
+4806,80:26:89:f8:dc:f5,D-Link International
+4807,b0:7f:b9:17:80:d4,Netgear
+4808,34:21:09:31:f8:73,Jensen Scandinavia AS
+4810,b0:7f:b9:17:80:d0,Netgear
+4811,a0:63:91:78:5d:b6,Netgear
+4812,20:4e:7f:aa:e1:3c,Netgear
+4813,e0:91:f5:ad:b5:d1,Netgear
+4814,14:da:e9:f9:2e:dc,ASUSTek Computer Inc
+4815,34:21:09:31:fc:db,Jensen Scandinavia AS
+4816,34:21:09:12:50:72,Jensen Scandinavia AS
+4817,e4:6f:13:fc:77:7c,D-Link International
+4818,34:21:09:31:fc:da,Jensen Scandinavia AS
+4819,58:ef:68:55:69:b3,Belkin International Inc
+4820,a0:d3:c1:a3:b9:90,Hewlett Packard
+4821,98:de:d0:3c:0e:70,"TP-Link Tech Co, Ltd"
+4822,a0:63:91:9e:b7:43,Netgear
+4823,30:b5:c2:c2:86:06,"TP-Link Tech Co, Ltd"
+4824,08:02:8e:99:e1:ca,Netgear
+4825,bc:ee:7b:56:6d:74,ASUSTek Computer Inc
+4826,30:b5:c2:c2:87:1e,"TP-Link Tech Co, Ltd"
+4827,88:d7:f6:c0:54:a0,ASUSTek Computer Inc
+4828,10:62:eb:9c:4e:3c,D-Link International
+4829,c0:ee:fb:f9:73:f8,OnePlus Tech (Shenzhen) Ltd
+4831,10:0d:7f:63:9d:0c,Netgear
+4832,70:62:b8:62:9f:0e,D-Link International
+4833,80:26:89:f8:dc:f5,D-Link International
+4834,20:4e:7f:aa:e1:3c,Netgear
+4835,34:21:09:31:fc:da,Jensen Scandinavia AS
+4836,08:02:8e:99:e1:ca,Netgear
+4837,30:b5:c2:c2:87:1e,"TP-Link Tech Co, Ltd"
+4838,c0:ee:fb:f9:73:f8,OnePlus Tech (Shenzhen) Ltd
+4839,ac:22:0b:1f:99:68,ASUSTek Computer Inc
+4840,20:4e:7f:aa:e1:3b,Netgear
+4841,30:b5:c2:8d:dd:91,"TP-Link Tech Co, Ltd"
+4842,40:9b:cd:43:cd:63,D-Link International
+4843,00:1f:1f:67:4e:64,Edimax Tech Co Ltd
+4844,bc:ee:7b:56:6d:74,ASUSTek Computer Inc
+4845,00:08:a1:cb:13:4b,CNet Tech Inc
+4846,88:d7:f6:c0:54:a0,ASUSTek Computer Inc
+4847,30:b5:c2:8d:dd:90,"TP-Link Tech Co, Ltd"
+4848,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+4849,00:18:e7:e2:ea:70,"Cameo Communications, Inc"
+4850,40:9b:cd:43:82:84,D-Link International
+4851,f8:1a:67:37:40:e8,"TP-Link Tech Co, Ltd"
+4852,10:62:eb:99:10:18,D-Link International
+4853,fc:3f:db:96:ae:25,Hewlett Packard
+4854,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+4855,00:8e:f2:48:67:e8,Netgear
+4856,40:9b:cd:43:82:84,D-Link International
+4857,00:3a:98:c9:b5:0f,"Cisco Systems, Inc"
+4858,00:3a:98:c9:b5:0d,"Cisco Systems, Inc"
+4859,00:3a:98:bf:d7:fd,"Cisco Systems, Inc"
+4862,34:21:09:2e:04:d0,Jensen Scandinavia AS
+4863,a0:63:91:78:5d:18,Netgear
+4865,a0:63:91:05:a8:c8,Netgear
+4866,00:78:88:99:5a:cb,"Cisco Systems, Inc"
+4867,20:cf:30:ce:34:a9,ASUSTek Computer Inc
+4868,10:62:eb:99:1f:cc,D-Link International
+4869,10:62:eb:99:09:dc,D-Link International
+4870,00:3a:98:bf:d7:fe,"Cisco Systems, Inc"
+4871,00:3a:98:bf:d7:ff,"Cisco Systems, Inc"
+4872,10:7b:ef:fe:d5:3a,Zyxel Communications Corp
+4873,c8:be:19:6a:0d:f8,D-Link International
+4874,10:62:eb:99:10:18,D-Link International
+4875,a0:ab:1b:54:9c:f4,D-Link International
+4876,10:62:eb:9c:4e:3c,D-Link International
+4879,2c:fd:a1:0d:d5:18,ASUSTek Computer Inc
+4880,00:0f:61:b5:72:51,Hewlett Packard
+4881,b0:39:56:92:44:80,Netgear
+4882,30:b5:c2:8d:dd:90,"TP-Link Tech Co, Ltd"
+4883,00:3a:98:bf:d7:f0,"Cisco Systems, Inc"
+4884,40:9b:cd:43:cd:65,D-Link International
+4885,00:3a:98:bf:d7:f1,"Cisco Systems, Inc"
+4886,00:3a:98:bf:d7:f2,"Cisco Systems, Inc"
+4887,00:78:88:99:5a:cb,"Cisco Systems, Inc"
+4888,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+4889,20:cf:30:ce:34:a9,ASUSTek Computer Inc
+4891,00:1d:7e:bc:42:85,"Cisco-Linksys, Llc"
+4892,a0:f3:c1:cd:38:9e,"TP-Link Tech Co, Ltd"
+4893,8c:3b:ad:13:a8:63,Netgear
+4895,00:22:b0:b3:f1:34,D-Link Corp
+4896,00:06:25:ff:c6:c2,"The Linksys Group, Inc"
+4897,c4:67:b5:10:75:e3,Libratone A/S
+4898,08:02:8e:e2:6d:d4,Netgear
+4899,c8:d3:ff:88:da:9b,Hewlett Packard
+4900,00:78:88:99:5a:c4,"Cisco Systems, Inc"
+4901,c8:be:19:6a:0d:f8,D-Link International
+4902,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+4903,00:8e:f2:48:67:e8,Netgear
+4904,00:1f:1f:67:4e:64,Edimax Tech Co Ltd
+4905,94:46:96:2b:cd:98,BaudTec Corp
+4906,40:9b:cd:43:cd:65,D-Link International
+4907,00:16:b6:3b:26:28,"Cisco-Linksys, Llc"
+4908,10:62:eb:99:09:dc,D-Link International
+4909,90:ef:68:30:f5:6d,Zyxel Communications Corp
+4910,2c:fd:a1:0d:d5:18,ASUSTek Computer Inc
+4911,00:14:bf:77:8a:cc,"Cisco-Linksys, Llc"
+4912,64:66:b3:dd:1a:0a,"TP-Link Tech Co, Ltd"
+4913,9c:5c:8e:8c:de:d8,ASUSTek Computer Inc
+4914,90:ef:68:30:f5:6c,Zyxel Communications Corp
+4915,58:ef:68:b8:b0:d9,Belkin International Inc
+4916,9c:5c:8e:8c:de:d9,ASUSTek Computer Inc
+4917,10:44:00:c4:70:dc,"Huawei Tech Co, Ltd"
+4918,28:c6:8e:56:e7:ea,Netgear
+4919,a0:63:91:05:a8:cc,Netgear
+4920,00:18:e7:d0:71:f4,"Cameo Communications, Inc"
+4921,10:bf:48:5a:fc:7d,ASUSTek Computer Inc
+4922,c8:d7:19:32:e0:6c,"Cisco-Linksys, Llc"
+4923,b0:4e:26:84:41:79,"TP-Link Tech Co, Ltd"
+4924,00:02:61:53:e7:49,Tilgin AB
+4925,10:7b:44:99:50:80,ASUSTek Computer Inc
+4926,60:e3:27:72:4f:01,"TP-Link Tech Co, Ltd"
+4927,2c:30:33:33:cc:60,Netgear
+4928,9c:5c:8e:8c:de:dc,ASUSTek Computer Inc
+4929,10:62:eb:95:4b:70,D-Link International
+4930,34:21:09:19:20:d8,Jensen Scandinavia AS
+4931,10:7b:44:3f:5f:10,ASUSTek Computer Inc
+4932,6c:3b:6b:66:e2:eb,Routerboard.com
+4933,e4:6f:13:38:d7:c4,D-Link International
+4936,58:ef:68:b8:b0:d9,Belkin International Inc
+4937,e4:6f:13:38:d7:c4,D-Link International
+4938,00:0f:61:b5:72:51,Hewlett Packard
+4939,a0:ab:1b:54:9c:f4,D-Link International
+4940,2c:30:33:34:06:18,Netgear
+4941,80:26:89:74:23:f8,D-Link International
+4942,00:1c:10:45:f2:86,"Cisco-Linksys, Llc"
+4943,18:a6:f7:74:2f:f2,"TP-Link Tech Co, Ltd"
+4944,00:0f:61:b1:70:61,Hewlett Packard
+4945,00:21:91:dc:90:98,D-Link Corp
+4947,10:62:eb:95:4b:70,D-Link International
+4948,34:21:09:19:20:d8,Jensen Scandinavia AS
+4949,10:7b:44:3f:5f:10,ASUSTek Computer Inc
+4950,00:1a:2b:3c:ff:02,"Ayecom Tech Co, Ltd"
+4951,00:14:5c:97:9f:1c,Intronics B.V.
+4952,00:08:a1:cb:13:4b,CNet Tech Inc
+4953,18:31:bf:67:98:88,ASUSTek Computer Inc
+4954,b0:39:56:92:44:80,Netgear
+4955,b0:4e:26:84:41:79,"TP-Link Tech Co, Ltd"
+4956,e4:6f:13:38:d7:c4,D-Link International
+4957,18:31:bf:61:be:08,ASUSTek Computer Inc
+4958,00:0f:61:b1:70:61,Hewlett Packard
+4959,80:26:89:74:23:f8,D-Link International
+4960,a0:ab:1b:54:9c:f6,D-Link International
+4961,a0:ab:1b:54:9c:f4,D-Link International
+4962,00:1c:10:45:f2:86,"Cisco-Linksys, Llc"
+4963,00:08:a1:cb:13:4b,CNet Tech Inc
+4964,00:8e:f2:48:67:e8,Netgear
+4965,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+4966,00:16:b6:3b:26:28,"Cisco-Linksys, Llc"
+4967,10:62:eb:95:4b:70,D-Link International
+4968,1c:5f:2b:10:db:88,D-Link International
+4969,a0:ab:1b:54:9c:f6,D-Link International
+4970,10:bf:48:5a:fc:7d,ASUSTek Computer Inc
+4971,18:a6:f7:74:2f:f2,"TP-Link Tech Co, Ltd"
+4972,00:21:91:dc:90:98,D-Link Corp
+4973,18:a6:f7:74:2f:f2,"TP-Link Tech Co, Ltd"
+4974,90:ef:68:30:f5:6c,Zyxel Communications Corp
+4975,00:22:6b:7b:2a:81,"Cisco-Linksys, Llc"
+4976,94:46:96:2b:cd:98,BaudTec Corp
+4977,00:18:4d:8c:0d:26,Netgear
+4978,00:18:e7:d0:71:f4,"Cameo Communications, Inc"
+4979,00:21:91:dc:90:98,D-Link Corp
+4980,6c:3b:6b:66:e2:eb,Routerboard.com
+4981,00:1f:1f:67:4e:64,Edimax Tech Co Ltd
+4983,a0:63:91:05:a8:c8,Netgear
+4984,10:bf:48:5a:fc:7d,ASUSTek Computer Inc
+4985,10:7b:44:99:50:84,ASUSTek Computer Inc
+4986,00:16:b6:3b:26:28,"Cisco-Linksys, Llc"
+4987,90:ef:68:30:f5:6c,Zyxel Communications Corp
+4988,90:ef:68:30:f5:6d,Zyxel Communications Corp
+4989,40:9b:cd:43:cd:63,D-Link International
+4991,10:44:00:c4:70:dc,"Huawei Tech Co, Ltd"
+4992,b0:4e:26:84:41:78,"TP-Link Tech Co, Ltd"
+4993,00:24:b2:bc:23:32,Netgear
+4994,6c:3b:6b:66:e2:ea,Routerboard.com
+4995,18:31:bf:02:cd:90,ASUSTek Computer Inc
+4996,64:66:b3:fc:df:6c,"TP-Link Tech Co, Ltd"
+4997,00:3a:9b:06:f1:38,"Cisco Systems, Inc"
+4998,00:14:5c:97:9f:1c,Intronics B.V.
+4999,b0:4e:26:84:41:79,"TP-Link Tech Co, Ltd"
+5000,18:31:bf:02:cd:90,ASUSTek Computer Inc
+5001,30:b5:c2:8d:dd:91,"TP-Link Tech Co, Ltd"
+5002,c0:25:e9:e0:ef:dc,"TP-Link Tech Co, Ltd"
+5003,20:cf:30:ce:34:a9,ASUSTek Computer Inc
+5004,00:2a:10:f4:c9:2b,"Cisco Systems, Inc"
+5005,00:2a:10:11:33:e4,"Cisco Systems, Inc"
+5006,e6:2b:34:12:98:4b,"Apple, Inc"
+5007,24:00:ba:21:bf:fc,"Huawei Tech Co, Ltd"
+5008,00:2a:10:11:33:eb,"Cisco Systems, Inc"
+5009,00:2a:10:13:6f:d4,"Cisco Systems, Inc"
+5010,44:e9:dd:81:d7:4a,Sagemcom Broadband Sas
+5011,30:91:8f:ef:9c:61,Technicolor
+5012,44:e9:dd:81:d7:4a,Sagemcom Broadband Sas
+5013,44:e9:dd:81:d7:46,Sagemcom Broadband Sas
+5014,00:19:70:4d:ab:7d,"Z-Com, Inc"
+5015,00:19:70:4d:ab:7d,"Z-Com, Inc"
+5017,00:a0:57:17:a0:2a,Lancom Systems GmbH
+5018,00:1c:f0:5e:e2:6d,D-Link Corp
+5019,10:9a:dd:8a:ab:d1,"Apple, Inc"
+5020,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+5021,70:56:81:cd:10:07,"Apple, Inc"
+5022,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+5023,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+5024,64:66:b3:94:7e:96,"TP-Link Tech Co, Ltd"
+5025,00:1a:dd:e8:47:24,PePWave Ltd
+5026,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+5027,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+5028,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+5029,c8:14:51:7c:63:6c,"Huawei Tech Co, Ltd"
+5030,00:2a:10:f4:b6:24,"Cisco Systems, Inc"
+5031,80:2a:a8:8a:13:a3,Ubiquiti Networks Inc
+5033,e8:8d:28:5e:e1:45,"Apple, Inc"
+5034,e8:8d:28:5e:e1:46,"Apple, Inc"
+5035,84:3d:c6:0a:05:f4,"Cisco Systems, Inc"
+5036,00:19:5b:b0:d8:b0,D-Link Corp
+5037,00:2a:10:f4:91:84,"Cisco Systems, Inc"
+5038,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+5039,00:2a:10:f4:91:8b,"Cisco Systems, Inc"
+5040,b0:e1:7e:a6:f3:86,"Huawei Tech Co, Ltd"
+5041,94:65:2d:d8:2e:16,"OnePlus Tech (Shenzhen) Co, Ltd"
+5043,b0:e1:7e:a6:dc:bb,"Huawei Tech Co, Ltd"
+5045,c8:14:51:7c:63:6c,"Huawei Tech Co, Ltd"
+5046,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+5047,b8:27:eb:55:c6:8e,Raspberry Pi Foundation
+5048,a4:4c:11:fd:e4:f0,"Cisco Systems, Inc"
+5049,00:19:5b:b0:d8:b0,D-Link Corp
+5050,80:2a:a8:8a:13:a3,Ubiquiti Networks Inc
+5052,a8:9d:21:82:db:24,"Cisco Systems, Inc"
+5053,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+5055,b4:30:52:b4:97:89,"Huawei Tech Co, Ltd"
+5056,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+5057,e8:65:49:04:6d:c4,"Cisco Systems, Inc"
+5058,c8:14:51:7c:63:6c,"Huawei Tech Co, Ltd"
+5059,00:20:b0:11:f9:a8,"Gateway Devices, Inc"
+5060,c8:14:51:7c:63:6c,"Huawei Tech Co, Ltd"
+5061,e8:65:49:38:ca:f4,"Cisco Systems, Inc"
+5062,e8:65:49:38:ca:fb,"Cisco Systems, Inc"
+5063,a8:9d:21:6d:5d:9b,"Cisco Systems, Inc"
+5064,00:19:5b:b0:d8:b0,D-Link Corp
+5065,54:a2:74:ee:1f:6b,"Cisco Systems, Inc"
+5066,88:ad:d2:d8:cc:9e,"Samsung Electronics Co, Ltd"
+5067,e8:65:49:11:23:eb,"Cisco Systems, Inc"
+5068,04:62:73:fe:a8:6b,"Cisco Systems, Inc"
+5069,00:78:88:aa:c0:8b,"Cisco Systems, Inc"
+5070,04:62:73:fe:a8:64,"Cisco Systems, Inc"
+5071,e8:65:49:11:23:eb,"Cisco Systems, Inc"
+5073,00:78:88:aa:c0:84,"Cisco Systems, Inc"
